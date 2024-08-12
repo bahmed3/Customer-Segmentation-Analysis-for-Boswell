@@ -1,0 +1,1088 @@
+TransactionID,CustomerID,BookTitle,Genre,PurchaseAmount,PurchaseDate
+9dbc192b-63ab-4584-9c8e-c9d1e891a0bc,11aeaabd-fcdd-4344-94c2-20179bd4cd66,Foundation,Sci-fi,13.28,2024-02-10
+c58e596e-cfd9-45d1-ae3b-ff2a09ecc5b5,c25a3bf0-1c4d-4b96-91e5-a7a2fa036f0c,The Martian Chronicles,Sci-fi,22.93,2023-10-12
+bdbc80b3-f739-4259-a062-63ab3a86f946,7fb92810-ebf7-4ff5-923e-540f73cc4740,The Haunting of Hill House,Horror,8.98,2023-10-20
+7d18f389-b7fb-4491-8755-625852f3cd5b,8978d713-bbe5-45b9-b29c-c08784122ec1,The Left Hand of Darkness,Sci-fi,9.05,2023-12-29
+6df2d17b-c789-4601-974a-b180edfa5544,36bdf769-c109-46e6-8716-33acdae6bddf,Dracula,Horror,13.88,2023-11-14
+453c96fe-89f6-4096-964f-570b6a9a43d4,132ef4ff-d446-4bf2-b73e-3a1c9548b289,The Fellowship of the Ring,Fantasy,5.54,2023-11-18
+7cd2abe1-e684-4072-bf4b-cbe979e1128b,d3a362e2-0005-4fec-a0c0-27078aa99626,Harry Potter and the Sorcerer's Stone,Fantasy,10.14,2024-01-27
+d3573a6f-e66d-42f0-ad48-f7e80235e599,1e0564ad-2ffa-463e-82f8-1f4522a7336b,Murder on the Orient Express,Mystery,8.4,2024-03-05
+df0c562c-0de4-4141-8bfb-f9ef51e8a81a,84643be4-b420-4e3d-9849-12fd12a784ba,Moby-Dick,Fiction,7.22,2023-11-05
+cb817265-faa3-4487-9249-fa8f73dbb4c6,39ab4b3f-c8cd-4728-895f-6d4eda8c5a5c,Whispers in the Wind,Fiction,12.17,2023-10-23
+b8b0c307-f309-48de-8e6c-2d258b225b46,ab9033df-6265-4a74-91c7-76bf382cf696,The Four Agreements,Self-help,27.89,2023-11-05
+57bf57ba-9b9f-40d7-9e9f-7f8c092648f7,5353d141-e46d-45d6-bac3-044e612ecb52,Babel,Fantasy,14.99,2023-11-22
+49610830-0d32-4f59-a1cc-404d612a45f8,11d20a8d-317c-42f5-96eb-7a52c6c2c056,Moby-Dick,Fiction,17.51,2023-12-02
+8b6289c9-a0ce-4c94-b058-353fbd9bd098,3b044950-bd49-4bf6-89bb-115ca07f8f13,Unbroken,Non-fiction,17.25,2023-10-04
+0a954986-ae36-465a-ab40-e2848b6e8844,719f26e2-810d-4279-b22f-90fd9c0cc1c7,The Name of the Wind,Fantasy,29.1,2024-03-15
+5ffdda5b-4e82-451e-9488-c2ecd5330fec,a3ab0fd5-dbfe-48d3-9bae-3721a0bef7aa,Pride and Prejudice,Romance,17.5,2024-03-12
+5ecb744b-8990-4af0-8edd-d8ae72b23fab,ad69ebfb-84a1-443a-912c-11ef254340b1,Pet Sematary,Horror,8.6,2023-10-23
+050b712b-f324-404b-90d6-ce55fddf187f,829b39a2-17c5-47a1-a53b-acbe025c9a60,A Game of Thrones,Fantasy,20.22,2024-02-28
+8480bce2-a7e4-4f14-b696-45b093dfa3ee,e138e111-1f24-48b4-b404-0f05237cf1e6,1984,Fiction,18.82,2023-11-13
+9531f694-7aa4-4969-b2cb-be0d1d96fc45,8f19ae49-01ee-4e9b-9649-839f839db735,The Time Traveler's Wife,Romance,5.57,2024-02-12
+4d376852-bac7-40b5-8b72-6c07a844ea88,588b9836-15c8-47e5-9c64-70a42cca5b5a,The Blade Itself,Fantasy,20.69,2023-10-19
+ffd59972-c60f-4b06-8ae2-00a2d5dd1ee5,d34950f3-0974-4ee3-94c5-883a3b048cb2,The Stars My Destination,Sci-fi,7.98,2024-01-25
+0ffefbaa-a609-4a5a-b2dc-d06d444aae04,64a89af2-a04a-46d7-bbef-721f71785dd3,The 7 Habits of Highly Effective People,Self-help,20.16,2023-12-14
+dbca0c9d-1f3d-4d89-9176-afa21baa8228,0f7fa400-0e06-4bcc-b1db-8f3b5fd37fb9,Murder on the Orient Express,Mystery,20.2,2024-01-12
+1d2fac5f-c567-4108-8e9f-9e104656cf5d,2c6c4238-4e77-43a5-b69c-540bbb012c7c,The Fellowship of the Ring,Fantasy,15.3,2024-01-21
+e89cd12a-abb2-4f13-a9bb-5165aae1f5e3,ad013c5b-5a11-4644-8594-a96effeaf729,Wuthering Heights,Romance,11.97,2024-03-04
+5a284a4d-8ef4-47df-b5aa-d9ac968c076f,571f56ec-c0c9-4d22-aa0f-6949587b061c,Babel,Fantasy,15.09,2024-02-21
+4723a88c-581e-40ef-a7dc-5cafec08e241,e77ee0e0-a807-4c9c-80dd-915a0cb91d0a,The Left Hand of Darkness,Sci-fi,12.44,2023-10-28
+75cf2bf7-c4a4-4809-b2ad-27275d5cc834,dbaebec5-ee53-4f7c-8f3c-8ba230b4b617,The Silence of the Lambs,Horror,21.39,2024-01-15
+4c4614d2-e36d-4d60-85c1-430bdec8b059,4e34a059-a5c1-4e37-9ba4-49424c8199ad,In the Woods,Mystery,11.98,2023-11-13
+c02164a5-102f-4082-80da-de0ff82b9cb6,cbde8368-1f70-4ba4-9f69-026806b8ad20,Gone Girl,Mystery,24.38,2024-03-07
+a6aa2fa4-eb25-4298-bee1-851ad9d2e364,5bf1cbc3-6efd-4359-9476-08b843ea5ef7,Educated,Non-fiction,48.45,2023-12-27
+5f4161a7-548b-46d2-9e07-682dc1690a09,33109cdf-edf9-4218-9eef-700dd1b19bda,Dracula,Horror,23.75,2024-03-07
+f7484f89-6d15-491e-9cf4-e8c0d5e22246,678a24b6-1c49-49eb-b81a-7c922b85b5ed,The 7 Habits of Highly Effective People,Self-help,48.27,2024-01-02
+469a72da-4f36-4642-91a3-a677257ee418,f6dee415-b304-4444-9ecd-6586f4d9260c,Snow Crash,Sci-fi,23.03,2023-12-05
+413b593c-1c21-4ab9-86c0-8716480ef30f,df16c22b-93e0-467e-8155-a4a6a19f3fb0,Pride and Prejudice,Romance,9.92,2023-11-28
+e3c773a3-8a81-4f8c-a467-df1775cb39e7,8a788117-7692-435c-ac41-a16c5f46296a,Bird Box,Horror,14.81,2024-02-13
+4d01c6ca-e1be-485a-a23f-6907c3818062,888465da-ed1d-429c-9b97-961f33f1a113,Educated,Non-fiction,25.39,2024-03-19
+002c0f22-b172-4a48-bbdd-ec3e238817ac,60d96729-7ffb-4819-a209-efd604ea9cfa,The Lost Horizon,Fiction,16.95,2023-10-25
+2a566b25-d304-432a-bd66-d5c2945637fc,5b9a398b-f187-4a8f-9352-b7312abc32db,Pet Sematary,Horror,15.32,2023-10-20
+83c6af3e-cde0-4ce2-a90e-b5ad36bf96f0,b1fe4d08-4c52-4a9b-8b79-cecf68956564,Gone Girl,Mystery,7.67,2023-10-08
+380329b5-7135-49db-a405-38959bfc0fb3,ac6b71dd-8256-4651-87cd-a1d9fca69af0,The Girl with the Dragon Tattoo,Mystery,24.66,2023-12-24
+ff66035f-ba5f-4e39-aacc-05f1428f471b,ca04de42-810c-4cab-91e7-234498421525,The Rosie Project,Romance,13.58,2023-12-16
+5c3de394-4ca3-4b59-a997-c507601efde5,6bb74a20-5969-4c64-b7e1-fe958eff3c3c,Babel,Fantasy,22.94,2023-12-29
+60d6b7cc-bcc9-4885-bed4-36a3ce3e542b,165458aa-4fd8-4f8b-83c2-4dc8780f6528,Unbroken,Non-fiction,15.85,2023-11-06
+3ba4d04f-026e-4670-a2d6-8035ce113d28,4fc05322-66a6-4526-8b08-80c7f078b9ad,Hyperion,Sci-fi,16.06,2024-01-05
+1404c104-43e9-424e-8a9e-efcf844bb948,62a96b31-af9f-410b-bbcb-3fdccaa0a7a2,The Silence of the Lambs,Horror,11.05,2024-02-01
+cb58c264-2597-4285-a66a-9254f69ce57d,9ac48bf5-2197-48c9-a361-255fb15ecd47,The Martian Chronicles,Sci-fi,11.5,2024-01-02
+db6bef3e-0a04-4778-9ccc-1960e3086563,5b8e2c54-627f-4732-bd02-e1fe2ea4936b,Grit: The Power of Passion and Perseverance,Self-help,18.68,2024-03-25
+ecad5710-ab28-4d7c-bdff-eb9416e28288,a56eb1b0-7e87-436b-9bb6-05f354d89ea3,Dune,Sci-fi,5.02,2023-12-30
+261f7e71-2795-4836-977b-c374c422bca2,f3172b3f-85e1-42d6-8907-7f06ce09b5f9,The Catcher in the Rye,Fiction,10.77,2024-03-06
+181dc28c-87e2-4159-8f4a-438a962ec3ed,c4bef3f5-ed88-4632-90e8-fe48f9a9c3a3,The Lies of Locke Lamora,Fantasy,6.22,2024-03-27
+ad1b5a16-7f48-4591-b3c9-ae0981cee460,cf24e96e-1b01-4647-9ae9-76c20f40cf4c,The Wright Brothers,Non-fiction,47.42,2023-10-04
+94662d19-b3b3-470f-b300-afada8a2a41e,97e730cf-0226-461d-b65b-6c576caaf309,The Hobbit,Fantasy,27.24,2023-11-02
+d9f1718f-8572-4507-be6c-0c10c735ebf1,bee327ee-790a-4e76-83a5-b134c0c0232b,Moby-Dick,Fiction,11.65,2024-03-25
+4cd6f029-56e7-4855-8d9a-5e1f1e40e880,2ecbac0d-fde4-48b8-8a26-719317b468eb,The Lost Horizon,Fiction,13.4,2024-02-15
+653c54a6-e956-4596-8cfd-cb9c702e13d6,e15f44dc-0ba0-4839-9579-c2695d3fc542,The Hobbit,Fantasy,20.27,2023-11-14
+e4cd1b56-769a-4b67-a12d-3567a07bca87,353d8e08-4df8-4c2f-92be-07040e4a8d69,Dune,Sci-fi,23.85,2024-01-07
+e05f0dbb-bc62-46ba-8a66-f866bbc7ba97,3cce3140-92c0-44fc-99d5-9e29d528c47b,The Fault in Our Stars,Romance,13.71,2023-10-19
+fc49357d-2d1a-4818-b375-ae09f18eb316,658e27ef-0929-40f5-b93d-1ece033c6c3d,The Woman in White,Mystery,11.61,2023-11-14
+1afd2111-445e-4184-a46c-9ad30a05f2c8,fad25e7b-269e-42f7-86cd-19df6c7a30f5,The Subtle Art of Not Giving a F*ck,Self-help,46.56,2024-02-21
+cb9938f9-ce59-4082-8d0d-262a42e9e101,7226484b-d88b-4c5f-a563-070890be60f3,The Name of the Wind,Fantasy,14.1,2023-12-15
+b6cfeac0-a582-4dec-9d3b-372caa77a691,634b37c8-c751-4df0-bf77-881ff68c24dd,Educated,Non-fiction,27.23,2024-02-12
+c27ebe1e-906b-4d7f-9305-426e165b77c8,f68cf5f1-d060-48b1-9d9a-e182330318e8,The Notebook,Romance,7.77,2023-11-09
+10bf8ff9-1a9d-4a6a-9b7c-79d031cdd811,8d8894d9-8032-4bc3-830b-7e1ee1f8d838,The Great Gatsby,Fiction,15.96,2023-11-18
+4642d908-be2b-4a3d-b9f8-8cb6e8dd0291,16cdda2e-186b-4159-a62a-9eba8183e3ea,The Four Agreements,Self-help,15.23,2024-03-02
+c17d1dd1-1189-4c9b-ade1-e5e72f51eb0c,70281bf9-8f72-4056-a3f7-b6edbc3aa5fe,How to Win Friends and Influence People,Self-help,21.27,2023-12-31
+99683b3e-e622-4db8-8139-c8e5b1c7389a,0496f66c-50cf-42fe-ae7a-fb111e1c3c1d,The Notebook,Romance,17.1,2024-02-22
+eb5a2a1d-c5d8-4f5b-97d6-49bd6cdf819f,aaa8ac68-1c77-4d0c-937d-605f9af93d54,Becoming,Non-fiction,42.64,2024-03-17
+f3c58819-9ec8-440f-a863-2cd891f37bcd,bb724285-9f82-47ad-a193-ecc9acf0177e,Big Little Lies,Mystery,19.95,2024-03-10
+95175ccc-54c6-4794-981b-c1a5686eca7d,a4f70393-5187-4185-8815-7a92cfe7c750,1984,Fiction,8.85,2024-01-03
+312dc5f9-fb52-4ffe-a36d-7a38f9420d5b,1df4c7fe-b9db-4a82-ac80-39c7245224a6,Wuthering Heights,Romance,11.4,2023-10-21
+0f1611ff-2fef-4a8f-b424-18a668312461,8ec57908-3613-4800-b013-9d807b336a98,Becoming,Non-fiction,37.98,2023-11-01
+4e24fa73-55c6-43cb-bbe5-122f5f93feac,2883a080-68ee-41ce-803f-7cea1d108a1c,The Hobbit,Fantasy,11.36,2023-12-11
+20e34736-7842-4490-a3c4-0b21a376e2d4,c815ca3b-968c-4b16-b55d-f100162ab7c6,The Silence of the Lambs,Horror,10.62,2024-01-19
+c4b15cab-3b80-4b94-b917-52ee459346e1,61230738-1013-4082-863c-dae9474d8567,The Stars My Destination,Sci-fi,21.28,2024-03-10
+5b3f08e3-3882-4298-b427-c28a99beb6c7,1e8f1263-0c7f-4e09-8c24-ff3cfe918701,The Art of Thinking Clearly,Non-fiction,49.48,2024-03-14
+fb8994e5-dfe0-4dc8-83c4-cc51d9c87ec6,fd0cc1b9-65e9-48c5-873c-e282eb632373,How to Win Friends and Influence People,Self-help,22.46,2023-10-17
+3fc93abd-2645-4672-b914-548c0b8df2d7,414e0912-f06f-4451-9205-9117102ee7b9,Dune,Sci-fi,12.62,2024-02-24
+61e9564f-8df7-4205-9067-f924157526a4,28f30e1a-be09-43dd-8e28-a9a96b21426d,Lord of the Flies,Fiction,7.43,2023-10-26
+bbdb91c2-71e6-4693-8773-97f30dd8e93d,87c4262e-1579-4ddf-b06e-f4b1c99a1cb5,Outlander,Romance,17.62,2023-11-19
+48f5626f-bad3-4112-9dd1-ee558cd5946d,4fb83c56-5b2a-4adf-921a-a1e6b5567ce9,The Hobbit,Fantasy,19.0,2024-03-08
+a7f2931b-169a-4b46-91c4-9e9ddcbf4742,e88fe0f9-df95-4ad1-bced-e3ff2c9c1481,Neuromancer,Sci-fi,13.37,2024-01-21
+c11a052d-09f2-444d-92e9-dc8565428877,e5eba8c3-2d37-468a-ac2b-0006cabdea9e,Into the Wild,Non-fiction,41.78,2024-01-23
+85cbe20a-24a9-41cf-92a3-035698827434,1fb44dc6-25b7-4786-aaa5-361302d866d2,The Black Prism,Fantasy,12.34,2024-03-22
+dc187e56-3a36-48fd-891a-ff8ce221faa0,b11a0a9b-baf8-433b-bf49-d3c6d3fda175,Born a Crime,Non-fiction,46.18,2023-10-03
+ed99e896-d80f-4914-827c-bb82c0de56e5,da9cf33d-1ec4-41c6-b11d-5f1f6833955f,The Haunting of Hill House,Horror,18.85,2024-03-23
+0136f00b-f3ca-43bc-9d7b-1c0829ea6872,5cfd25a6-4ff4-467d-b7de-76a6994b8d3a,World War Z,Horror,19.4,2024-02-02
+25300823-d4ae-4804-aa44-0840ebb37ea3,b7ca3910-d481-4303-a732-ad4452259d3e,Gone Girl,Mystery,7.71,2024-03-18
+8e30a790-ab2b-4bd3-b4cd-a8f98cb161e5,1f16c820-8a62-43a7-bcd9-ed0bc4e2ba26,The Shining,Horror,14.46,2024-02-02
+91f77ec2-8b3e-46a4-ba9b-a0598b5fe005,2c220cbe-d6d6-401a-9ad4-ce97c0d3e108,The Happiness Project,Self-help,33.33,2023-12-11
+3da989ad-1086-47ea-ac76-d578c3c51bd5,298973a0-5c50-46cd-8cf9-3fc97644d18e,Mindset: The New Psychology of Success,Self-help,42.19,2024-03-07
+22c573fe-1ff2-4eeb-b8b2-17edc2ff0f54,f0986f83-ede9-45ff-a6b0-799732b27e77,The Four Agreements,Self-help,35.73,2023-10-26
+2fa48c8b-417e-4c9b-9dc4-bd0194596e7d,684f5c47-d1e3-4394-bfad-aa8ea2a644db,Wuthering Heights,Romance,6.7,2024-02-29
+144e11f0-131e-4174-bccb-00ed536de385,3edc74b3-eae1-4ebc-bedf-3e7af4c7d840,The Subtle Art of Not Giving a F*ck,Self-help,46.93,2024-03-24
+99eaf031-86f2-4354-819e-5bb464b3149f,332887de-739b-4674-a8eb-dea83c81665d,The Lost Horizon,Fiction,11.08,2023-12-31
+e5e98300-baef-4a68-a4c6-ff3c4fa0dc2d,48a95a04-a0f9-4773-a195-61d12b8cfcb6,The Time Traveler's Wife,Romance,8.97,2023-12-07
+307fe3aa-f807-48ff-b8b3-586b0a3ce208,6cf48abe-c347-4452-a282-ef721d749ef6,The Silence of the Lambs,Mystery,22.19,2023-11-10
+c9c68d82-6955-4faa-8b02-0e6e088f9cdc,8ad6c69e-4f8d-4398-8e55-56d55ab58c8e,The Fellowship of the Ring,Fantasy,21.49,2023-12-09
+2ddcdc60-e6e5-4317-b0df-a865867df8f5,20fea467-9257-4818-95d2-e01ebee24db9,Gone Girl,Mystery,17.33,2024-03-27
+a19b22ec-6920-42a6-b97e-1f6a095e5a64,bc1bf8c5-4411-4c77-a016-8d0c9d134e0a,The Girl with the Dragon Tattoo,Mystery,12.29,2024-01-09
+dcfdebe5-a694-4f03-80ad-036c84d479da,c10d6efd-a672-4c1a-8610-c074d82f9857,The Martian Chronicles,Sci-fi,7.59,2023-12-15
+36885ad2-9216-459a-a537-fd078fec5459,46f16a70-0bed-49db-bad6-58d68e39aee4,Frankenstein,Horror,6.78,2023-12-08
+853b9e46-196f-498d-8508-440d5287dee9,7d7fbcd4-a1ad-4753-b0b8-6e7e1aaad3d1,The Art of Thinking Clearly,Non-fiction,33.99,2023-10-13
+033ddd5f-ac1c-4211-8a12-4774b4e5303b,130f87ff-342a-4a10-92ee-e6e0ef47cc66,Babel,Fantasy,11.52,2024-03-04
+ac4fc0fb-7238-4da9-87c7-d78bb01a59e8,9129b1c0-b2e3-407f-8fea-33e730d773ca,The Fellowship of the Ring,Fantasy,5.63,2024-03-25
+dafc0aa4-cb99-46bf-9af8-14b8565e28ea,8b136f49-6981-4cae-9645-e915b115909e,The Sword of Kaigen,Fantasy,18.78,2024-01-14
+e027fd4f-d084-41e7-85b6-7fbdf099d4fb,c5678b25-0cdf-49ea-977f-050d06570b80,Mindset: The New Psychology of Success,Self-help,19.51,2023-10-30
+6c88bdec-ddae-4eec-8ac9-50aae547417a,1aad9809-2e22-4de9-b651-b1a1ed78220d,Becoming,Non-fiction,47.3,2023-12-19
+4da2cad0-9766-4f57-94c7-5b8521fb4e0f,221e3fd7-f636-43f6-97df-aa1171c998d8,The Time Traveler's Wife,Romance,7.24,2023-12-10
+570a1cdf-b766-4683-815c-c78d7568de83,497ee82f-6a71-4c10-9d6d-ba038f863e9a,The Name of the Wind,Fantasy,6.89,2023-11-22
+23d202c2-fb94-4503-8f37-a45876768d44,63e7f8d2-e726-4d03-ab26-8dc879ab2f6a,The Silence of the Lambs,Horror,21.46,2024-01-05
+bbfd3fad-5ebc-4aab-b0f8-8222a654d430,8c090b5d-8f82-48d2-a40f-2731ec7bc7c4,Me Before You,Romance,5.97,2023-11-07
+7b2460eb-405a-4830-a024-ad103cf98617,356f3f56-e7a1-4006-af32-edd1d6b0525a,Gone Girl,Mystery,17.74,2023-12-27
+30bd7147-e318-4ad0-a1f9-bfd8c88f4f5e,27f4b3d8-30b7-4fbe-899e-158b8e328b86,A Game of Thrones,Fantasy,11.2,2024-02-04
+ce861748-1a94-4848-aa1e-ce185887aba6,6ccba56a-4691-4db0-be0b-27a79785d092,Murder on the Orient Express,Mystery,11.44,2024-02-21
+11bfa05c-b5c6-4ebf-b586-df04d33049da,74f1ca60-f48f-49f1-9524-a85bce3185ae,The Subtle Art of Not Giving a F*ck,Self-help,27.71,2024-02-07
+ed8fb0ed-dd1d-4283-b9a6-7164161f7614,97a3ca1d-27b2-44a0-a319-b243d1bfdf39,The Silence of the Lambs,Horror,12.67,2023-10-12
+474476a8-9848-4dc0-8ad0-7021816e2254,5f31ff92-ad7a-4f5c-9ca7-ff6745a83af9,Hyperion,Sci-fi,17.87,2023-11-07
+0765f56b-1058-4f1d-98ab-c7d34524c256,3f65be3a-e0cc-4a8d-b5c4-e0f2701c0447,Wuthering Heights,Romance,11.15,2023-12-12
+6c511cdc-dcf2-4a8b-92ef-80c16ba63576,498d0cec-f08b-4d7c-b36d-ef038dff029a,The Shining,Horror,19.44,2024-03-12
+a52990c5-8885-4792-9d44-6a80fcac26b6,c42019e0-147f-4aec-b290-40902e4cbf94,Hyperion,Sci-fi,18.68,2023-11-27
+6bdb038e-4951-4509-99a3-033fba235077,3f0822ae-6508-4627-8dcf-1908e2ceefc8,To Kill a Mockingbird,Fiction,6.64,2024-01-04
+2fca3a6c-069f-484a-8f8b-ddc69ddcd2ea,8bb0c61e-822a-45fb-87f9-570f00dfe32e,The Black Prism,Fantasy,26.65,2023-11-15
+5999b33e-06df-4f30-9cad-5c587a626533,5e4a7ccf-345a-4d32-bcce-ec1700280431,Wuthering Heights,Romance,9.3,2024-03-25
+d4719b39-d14e-4ea3-9a2f-4e8fb937c720,125a5882-bea2-4e77-a810-4a16e7595c5e,Murder on the Orient Express,Mystery,16.65,2023-12-15
+ae4c658e-7bd3-47d4-bc9b-026e4448900d,fab97d34-be64-4631-b858-fc0e8ac1ddfc,Dracula,Horror,22.76,2024-01-22
+22399fed-6f8c-4c70-9f17-58af48684bc7,fbf308c7-2dca-475a-b495-d0e40c19b20f,Pet Sematary,Horror,24.85,2024-01-03
+234c1b6d-e169-4b53-9c68-deb3fa556a56,ff1160a7-6ca6-4205-9d3a-8946eb44f03f,Becoming,Non-fiction,48.41,2023-12-17
+1e6cc861-cc26-436d-a0d2-8ab225108bda,1e90e363-5ba8-4e7e-8032-19d8b217cd7c,1984,Fiction,14.44,2024-01-29
+b9694c46-a490-4be7-a8fc-d2dbb5e9c88c,977ea19c-4d66-449b-a9fa-c70adbe29840,Babel,Fantasy,25.34,2023-10-16
+c3ec3954-c5e9-4d62-97f8-43de6415424d,e990a282-6ed7-4e27-9c06-5308a316384c,The Great Gatsby,Fiction,11.52,2023-12-07
+4fcb762c-9614-474c-9233-7ac02af99d3f,96de62ee-4a63-4d63-8cc7-e7e5f2424795,Ender's Game,Sci-fi,13.45,2024-01-19
+e16edead-cb84-4a70-b294-cfdfcef5d662,b0d073f9-baa1-402d-a65e-600ace8bbd66,The Stars My Destination,Sci-fi,16.08,2024-03-16
+f53e0f98-2f3d-4aa1-a7e6-09c3f88e1cf1,92ef3f8d-2d99-4f70-a22b-0049e16ba4d3,A Game of Thrones,Fantasy,13.88,2023-11-17
+49c585fe-640e-412f-b38c-fdbcf9bdebda,4d022744-2112-4681-9961-d372b79e82f5,The Time Traveler's Wife,Romance,8.28,2024-01-09
+f1d1ea3c-2c0b-4f9e-a8e6-10ddb6e4a047,eba6ea99-ad21-44e8-bf3c-8d5ff441a9d0,The Girl with the Dragon Tattoo,Mystery,12.7,2024-01-31
+95e6eb66-2a82-40d1-8fb2-f77c078c906a,0326f4e9-35e7-4dcf-ae42-c5a80a8e0ad4,Born a Crime,Non-fiction,14.51,2024-02-17
+44bb3346-0f53-4361-b8ae-fec00a6a9a67,96a3f6cf-2e02-4396-a614-b41adf001e82,Bird Box,Horror,6.48,2024-02-16
+aab63883-e824-4c04-9a85-018b9e8ac9b6,deb5d0d9-838c-460c-97c7-b245d599c044,Becoming,Non-fiction,20.23,2023-10-29
+64b968a9-123d-47c9-ae0c-056d556b4e28,01d5f641-ca81-4212-ba49-c53d88233d1c,The Notebook,Romance,7.71,2024-01-26
+ad0771e2-6b11-4463-99dc-ee1b62c4400b,ede1f02d-5a51-41a2-8ea6-8e1265f7656f,The Left Hand of Darkness,Sci-fi,20.36,2024-01-24
+04ae3690-5cec-4849-933f-9cedf03cf111,d6ca7484-26fb-4d94-acf1-d09f08344c4e,The Blade Itself,Fantasy,7.1,2024-03-01
+915af5a9-bfd9-47bc-97db-43466650aed4,9eaf52c2-2e46-446d-ace7-6e3faeb97d4a,The Lost Horizon,Fiction,6.62,2023-10-13
+f583518e-d33d-4799-8e49-ed3203177bcb,83abf39f-0371-4788-b83e-7a3277060ee4,The Power of Habit,Self-help,37.88,2024-02-11
+a99cb373-c2b9-4db8-81c9-08e453eb9eee,818e614e-29f0-4485-b788-86712bd0870c,The Hobbit,Fantasy,8.16,2024-01-10
+e7350ed5-b7e7-4f54-a5a0-69b8a965751d,fdcfad44-a3d0-4fc5-93d4-daf9f3231ddd,The Happiness Project,Self-help,44.33,2024-02-27
+0eb1a770-9c10-4726-a8fb-33ce25db2db6,83869f70-8e26-4e2a-9649-79f154db98b1,Murder on the Orient Express,Mystery,12.41,2024-01-07
+92022f90-b92c-443b-9c90-2829dd2c81fe,72486640-a225-40dc-a20c-e530e5e5712e,Sharp Objects,Mystery,14.49,2024-02-21
+b6ecfe47-baa7-4ca1-b666-a631f2eff082,09237dd4-3027-4c36-910f-47a08c3d32ee,The Art of Thinking Clearly,Non-fiction,48.72,2024-03-05
+365f6842-d755-4717-88a1-d833cdb00e54,c022b212-cd27-44db-9dd2-4fb94b4398ec,Grit: The Power of Passion and Perseverance,Self-help,28.42,2024-03-11
+7a23834a-8ffc-4b60-a0ab-d814c014258f,00038b92-945a-4e01-94fc-97f434f1116f,The Catcher in the Rye,Fiction,13.4,2023-11-12
+115aaa44-9b28-4ef1-b905-8eede159527e,f7251c6f-88f5-4988-81e0-f0881c9a796f,The Fault in Our Stars,Romance,15.15,2024-01-21
+240f45c9-41fa-47ec-93de-5ff80d13d4b5,2bd71781-9275-4ac6-8474-5df13429cc45,The Silence of the Lambs,Horror,11.98,2023-10-08
+ea1e2357-dbdb-4ce0-a205-9df40f74e757,7ff6632a-9090-45be-be86-64cc2e8c06fd,Atomic Habits,Self-help,25.35,2023-10-08
+37643475-f9ce-43ff-8829-8970b30e1f59,ab58c618-7847-4db0-bf4b-c8e23176392d,The Sword of Kaigen,Fantasy,26.66,2024-03-25
+b7836f72-84f9-4066-ac94-3fe6016a4418,ee2df4a4-71e7-4168-be50-9e9defe550ee,The Black Prism,Fantasy,12.53,2024-01-11
+fcb70d78-a307-4443-be3b-53b8e98ba655,80101832-9cf2-43e9-bca0-32de230780d5,The Art of Thinking Clearly,Non-fiction,40.73,2024-03-23
+348d74d0-c96b-40af-be9a-9b397a7b8767,29d33e05-6379-4529-928a-025024d66bfb,The Name of the Wind,Fantasy,26.87,2024-01-20
+b6e4f570-a1ac-4803-8058-1f28f7f3b05b,c1b8877c-cf2d-4421-95f1-20378803b359,Sharp Objects,Mystery,8.77,2023-11-03
+d1497aac-ab36-4bdf-9d88-976d3dc2b878,5b414b5b-751d-4829-97fb-59d995bc8e53,The Martian Chronicles,Sci-fi,21.05,2023-12-05
+f4bbf6c9-9975-46d0-84e7-f731d420c370,ca001c2d-4c07-4d06-a4c2-26ce9045fc4b,The Da Vinci Code,Mystery,11.69,2024-02-29
+8508f614-82d7-4e44-94c3-2bb06a0bad6c,1a4dfbda-dda5-43fb-a128-8de7779722d5,Into the Wild,Non-fiction,36.58,2024-03-11
+2f647a87-aa51-4742-a58c-6d8171c6a611,234eff32-5d05-42dd-9acd-7b2bb28f5931,Pride and Prejudice,Romance,12.82,2023-10-11
+a3c102d8-f730-4cc5-a70b-e8b83bd1984d,a2d9f51a-7d99-405d-a04e-119a6bd798d4,Dracula,Horror,20.33,2023-10-13
+4f8f69f6-a78e-44a1-8d04-372153cbdfa9,4c6be7b1-5c95-43d4-b312-cd5f22d26f1a,The Lost Horizon,Fiction,14.98,2023-10-16
+cefa4dba-4563-465a-a162-dd934de234d1,42b0584b-6103-4a6e-9d41-7e11355b9919,Snow Crash,Sci-fi,18.18,2023-11-29
+7f9400b3-7e3e-4d4b-99ff-d2707a8e52ff,d0dbdfcc-2030-4045-aded-1af269faa104,Ender's Game,Sci-fi,13.73,2023-11-01
+5e01b8bc-b253-4bd9-b5ff-7a6e0aed4596,067dfee5-4618-4fb8-ac7d-a18f323cfc94,The Power of Habit,Self-help,33.12,2024-02-04
+63ea4963-b825-4d5a-bd0e-8d9e30cfa4bd,585f13d7-72cb-43a3-a8dd-be7e4f467b52,Ender's Game,Sci-fi,16.75,2023-11-25
+e2a3822c-6d91-4198-b117-8b453d5ea67d,a6f8be80-0416-41c2-83c9-935fd9230d3a,The Happiness Project,Self-help,27.57,2024-03-25
+3c1e4155-86e5-4f1f-9acd-312f5e34e465,d96b3497-db8b-4f2c-8772-905f745332af,Wuthering Heights,Romance,6.01,2023-10-07
+63c06577-cb21-4f76-b8d2-fab563af587d,8d2f5230-4d7a-4a35-b9ab-fe3024f759df,Mindset: The New Psychology of Success,Self-help,36.97,2024-03-29
+90b5629c-ab39-4a42-91df-b357421522f9,20c50f44-e338-48a3-904e-ae07042aaefd,Into the Wild,Non-fiction,43.25,2024-01-06
+08b4bf39-9032-4973-b5e0-c845fe74447e,5a8f18e2-db0d-4ac2-b4da-0589d6215a65,Lord of the Flies,Fiction,15.16,2024-02-12
+8e9d3071-5d78-49ea-b2d1-eedf08c3d220,9fdd2f8c-77b9-4536-9eb4-c7a658bda51b,Dune,Sci-fi,16.97,2023-10-09
+7ad1262b-1d55-4afa-8375-4cbd3dde9ce8,11b43e38-ddf3-4ee5-b969-d8fde1d1bf81,The Da Vinci Code,Mystery,10.38,2024-02-03
+bdcbec89-25d8-46d8-8d79-ef7ad1f2ee7c,f7b71122-daa8-4f72-bb71-36bf4e12bae0,Gone Girl,Mystery,23.38,2024-02-07
+4f3d1091-532f-43fa-b5db-2f580cd782b3,a938d357-c6ca-4b6c-a35c-df08af30af9d,Unbroken,Non-fiction,14.86,2024-01-08
+fc84e19d-900d-4d29-a96c-2414f9caf2d9,ecf96e46-32a3-428d-9ecb-2625730d09f3,The Left Hand of Darkness,Sci-fi,14.27,2024-01-14
+bfbe2854-aeba-4453-8be3-01f4148edea3,01061e70-a87e-409c-bb39-cf247dad82f2,It,Horror,17.03,2023-10-10
+76795391-2f47-4e4f-a97f-2fdb940a5759,361f27c8-bdef-4fa1-bea0-c16fbdf66402,It,Horror,6.78,2024-01-22
+876d3efb-8906-45e0-8dd2-dd2a331d143d,f8dd2b14-441d-4aba-b47c-0a1b6dd76398,Born a Crime,Non-fiction,44.7,2023-12-15
+d1d85c2c-e5bc-4150-9e2f-66fe4e88caad,f9e90ab2-d0cf-4fc0-8396-2129f53ecb75,Hyperion,Sci-fi,5.11,2023-12-22
+11f39808-30f4-4068-8b25-80281f8a382c,661f4d43-8450-4b99-8447-f1ad263a083b,Big Little Lies,Mystery,13.07,2023-12-23
+54a33474-7ca3-4ec3-903a-caf07dca823b,c650f4b6-a0bd-4439-ac9c-8438016fd636,Snow Crash,Sci-fi,24.37,2023-12-31
+9d35cdab-ac3e-4ebb-8ab2-1f0fa608079e,6ee1eb78-24e4-4792-9593-eec7d0538cbd,The Hobbit,Fantasy,23.1,2024-01-16
+22d2df6e-ce33-435d-b426-9ad938164318,61167ab4-71d0-4784-a2a1-64dc113945b7,The Woman in White,Mystery,19.69,2023-11-24
+83bb9f8c-242f-4354-9a62-52629221c3d9,0ef60bc0-86f2-4f90-aa95-01a2cf778a76,The Rosie Project,Romance,18.05,2024-01-17
+f97ff3b7-6ba7-4ba8-80d1-5ed4277857fd,8ff334a1-9ba8-425f-9b53-614f7128c35a,How to Win Friends and Influence People,Self-help,46.14,2024-01-22
+a20747d8-ae1d-496e-9e23-e92e2314d3cb,e9bd993a-bfc8-4196-81f7-88c04ffa8c7e,The Subtle Art of Not Giving a F*ck,Self-help,45.36,2023-11-29
+1a94c1fd-d341-4427-a1e7-f28d2b979357,cf834571-f3ae-4c50-98c6-9af6164b040b,The Great Gatsby,Fiction,9.27,2023-10-24
+187d1450-212f-4d54-b34b-4a7a02ced946,f90702d4-553b-4d5d-8b09-3384eb8ed065,The Power of Habit,Self-help,31.5,2024-02-20
+d0aba003-fa32-46d5-89ac-10b67e61e8b3,681c0355-1f3f-4fcf-9186-1b7e053a7085,Neuromancer,Sci-fi,6.53,2023-11-07
+a1e583c5-cd47-4282-8212-4e2486f6e74d,f544d3e6-2072-4b4a-b940-3c8b911ab1b1,Pride and Prejudice,Romance,12.44,2024-01-09
+65f87d19-57e8-454e-b318-6c8e87b8e3df,40c26e18-fd8f-407d-b6b8-076e5d7321d2,Ender's Game,Sci-fi,8.4,2024-02-06
+4bdfe8d2-ce94-435a-bc77-baa2e9c3fd32,facc5e58-9fe4-4fff-b48e-5a5a1f81d1a7,Babel,Fantasy,5.76,2024-01-31
+c9630f2b-5f3c-4bfc-a1f8-706bd80c9e31,9ddb1f43-fbde-4156-95e1-fc41cd172c26,World War Z,Horror,24.45,2023-10-20
+2bac5b7c-37c3-44d1-95b3-4bece20fc8ab,54b14328-5252-4c0d-b94f-6f9377fda555,1984,Fiction,8.87,2023-11-21
+f252d31d-3a2c-42c1-be95-452a99246e03,f65ecd48-0cbf-4311-8625-344ddcf8490d,The Notebook,Romance,8.13,2024-03-19
+a999c76f-5756-4570-81db-cd190b10e650,cb252bdc-7055-41cc-a231-843d838f90bf,Lord of the Flies,Fiction,19.24,2023-12-25
+a7f0ebb8-6d34-453a-9af3-cb1f29de7342,e569dc9f-05d5-4646-ae7f-16b4534df06b,The Haunting of Hill House,Horror,24.08,2024-02-07
+46c2eaa0-6c8e-4a23-ba7f-4d3fd40c3716,77b4e6bf-1764-4127-8005-03fce0ddb238,The Exorcist,Horror,15.35,2024-02-23
+d3b92bd3-c6cc-401d-88cd-9117337a5e87,0fae8002-92b6-4ade-a8a1-3f6d3469a38b,Bird Box,Horror,20.47,2024-03-09
+e673f774-a1a5-4732-adb9-8a3ead75c1d0,0956a342-ed2c-48b8-bf8a-cd1e92c73887,The Haunting of Hill House,Horror,18.26,2024-01-17
+c46cd156-3d1e-43d2-8c27-c4c8697f9f72,a33532aa-0565-4ab9-a649-09f58a9c0e24,Altered Carbon,Sci-fi,23.36,2023-11-01
+7e28b5fc-beee-4304-80f9-fc2582b7c7f6,9f907802-b1e2-4dae-b0a9-ccffcd247d62,To Kill a Mockingbird,Fiction,17.54,2023-12-23
+c10eca84-b6e8-4a97-88e4-77fe0c1f118d,a4de3774-9003-4ad7-9d6f-ba77ef0f0926,Born a Crime,Non-fiction,13.63,2024-02-28
+e3d01e51-f1db-4a10-861e-a23483acad1d,2fd419b8-42ea-464f-a4e8-96083fa77c55,Grit: The Power of Passion and Perseverance,Self-help,28.13,2023-11-10
+130866e7-2d11-4b27-bbae-7265d688f331,072f48c6-819e-42e8-9a1e-74d89c427635,Hyperion,Sci-fi,18.44,2023-11-21
+1ced148d-b898-4543-967e-f1d47231339a,16fd4e19-ff57-4776-86f9-07c0fc1f10ec,The Name of the Wind,Fantasy,9.44,2024-03-19
+c9ace051-9ad7-4ee0-a3f3-1556db6557de,b9f9a2c7-7195-4e44-bc5c-b53ae04e9ead,World War Z,Horror,6.29,2023-12-17
+fba966b2-aab8-41ef-a1c1-5e1a75e6e001,57c3829b-997b-4ec0-9175-6bfef27d6c1e,Neuromancer,Sci-fi,11.82,2024-03-22
+45051ee2-d193-4c95-a6e2-595f16869765,1d854ad6-0166-4c98-84c2-9988686cb37e,A Game of Thrones,Fantasy,11.0,2023-12-25
+c9714ae0-b22a-44e2-a6ef-47f40134d264,57059244-716e-477f-af88-90200c487d97,The Martian Chronicles,Sci-fi,15.59,2023-10-11
+bc2a518c-3cf5-4c28-b782-7dd5f8210ea6,7d7a06f8-b623-48a3-a398-3d2e0866fc65,Brave New World,Fiction,6.67,2023-10-28
+66a5edd0-f821-4996-863c-1e2f66eb5573,5025a898-11f3-4a70-9ebd-1329b4daa017,The Blade Itself,Fantasy,9.14,2023-12-29
+8bb33972-13a3-4379-8d8e-8c8466f51320,80df3281-44d5-49a1-b10c-dcf125cba6d0,The Art of Thinking Clearly,Non-fiction,39.05,2023-10-14
+905c0bd2-f79f-410b-acff-934f46caa75c,e21335f3-4004-4cbc-b61d-415d71dd9dc0,Ender's Game,Sci-fi,8.21,2023-11-17
+68b8fcda-48f8-4507-81bc-36b92ea682b4,8df00f37-e58d-41b2-984b-6f9bde1f79a6,The Haunting of Hill House,Horror,11.09,2024-01-20
+dc9a735a-133f-4bf8-9257-dfac54690c5f,6a52c7b4-588c-4c72-8978-25cc9e91eaad,Echoes of the Past,Fiction,17.97,2023-12-04
+4fab0ca2-7e4a-45cb-9a78-db969f760ed8,4bcbf9ba-a676-4cd8-8a3a-f7a7ce029b59,The Silence of the Lambs,Mystery,10.05,2023-12-07
+24dfc12c-c994-49fe-ab70-f29a97d7fccc,9de51809-7c51-4fad-b59b-d6241a6d3f2d,The Silence of the Lambs,Horror,20.72,2023-12-23
+4c1f6d83-2dd1-49d5-a349-54243d548098,30557e32-56ec-4254-9dee-f155bcab1f82,Outlander,Romance,7.57,2023-11-07
+cf1cc051-0f14-4f58-8607-0ff13ffd6691,db0c29c0-9269-40ac-9971-f6dd70524a9d,Eleanor & Park,Romance,18.19,2024-01-30
+9dddc269-922c-4827-bd1a-f27c5b29c2ee,cf46be29-9716-4af6-a71c-6e4c49462948,Altered Carbon,Sci-fi,6.87,2023-10-01
+db23e6e9-e121-4dbb-b2a4-146cf35a3935,c07f96ef-86fd-45cc-b549-367f1d8460c3,Pet Sematary,Horror,6.31,2024-03-04
+f65fa106-6136-41ed-9505-e75de7bd6bd8,7bb76cf1-f665-44af-b454-f4e760bd3042,Harry Potter and the Sorcerer's Stone,Fantasy,10.51,2023-12-16
+aa50703a-e4cf-4732-ae05-d3902d105883,849f5201-b99f-4d1d-80ac-03d9b25f1254,The Silence of the Lambs,Horror,24.0,2023-11-24
+fd5ef6c8-6f0a-4f94-b0ba-9e1d35b67547,d7694850-7473-4b4f-905e-b16c205ce83a,The Black Prism,Fantasy,9.13,2024-03-09
+10d6e6b6-92f6-4e24-8fbd-bb87e6e66862,48be48f5-8b57-4dad-ac34-a95ad2d0cf85,The Lost Horizon,Fiction,9.95,2024-02-19
+b6d98847-0b4c-4eec-bec5-1134b1cde5ab,a71d3fcc-6b03-446b-9515-8de0f74aa628,Me Before You,Romance,8.56,2023-12-23
+ce60cc5a-2a5f-423f-9f1a-2d6a56df8135,9fe2a7fb-2f6b-4cc1-8127-80fec840b34c,The Martian Chronicles,Sci-fi,23.46,2023-11-18
+90c58903-a755-4dca-8bb1-a8298c600410,4e331449-832a-453d-8842-ece412af7207,Murder on the Orient Express,Mystery,5.4,2023-10-02
+b4e6c4a2-57b1-4227-8df9-f4fb44576016,8da91d05-a731-440a-a1ad-51e641ccfb62,The Lies of Locke Lamora,Fantasy,13.57,2023-10-14
+cfddf665-a646-4976-b51a-e472449f7b17,506dadc4-3e4d-40e9-9f16-37978e6a76cc,The Haunting of Hill House,Horror,6.79,2023-10-17
+25529b9f-d3f0-478e-b136-af2468ab938e,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,The Art of Thinking Clearly,Non-fiction,40.36,2024-02-24
+6ad8aaaa-b4ef-4bda-9a30-44adbc4dfc57,65f9a399-8501-440b-8999-9ba197028ee3,Ender's Game,Sci-fi,15.29,2024-03-03
+a379d378-922d-4698-b898-4f276bbade38,5426d35e-733c-4f16-8764-cb1aa50a4e7e,The Silence of the Lambs,Horror,17.07,2023-12-06
+10183a81-a71f-4656-8340-e75e371dc103,e763161d-fc5a-4c32-bf8f-116e53f0e8b2,The Art of Thinking Clearly,Non-fiction,17.69,2024-01-17
+b8b8905c-57e3-48b9-bbd0-a8c47d6695c5,b8b6c084-a309-46f3-abe6-85fe295e8aba,The Catcher in the Rye,Fiction,6.8,2024-01-24
+655e20eb-aa19-4ffe-b937-b831ecad19f0,49a7330b-acad-4de1-bec9-e28a5c946bc5,The Hobbit,Fantasy,9.73,2024-03-15
+d6f58d32-8990-4377-bf70-c510a67d9b27,fc470a57-efea-4d67-8df3-9c69bbbbf437,The Silence of the Lambs,Horror,8.26,2023-11-28
+1ec7f564-6518-4080-8d52-7e3c02c6d6bb,c030a86c-9039-4fab-af00-fe09d960150f,The Fellowship of the Ring,Fantasy,27.75,2024-02-14
+8eb8cd4c-097b-4416-ba45-739fdf430b09,ee21ff60-83c6-40ea-a1dc-ef8f7895d26f,The Shining,Horror,5.57,2023-10-08
+29cd50f4-a0aa-42b3-a746-2ca8f5167568,9012aacd-7746-45b1-80b0-e6b671452b77,Dracula,Horror,7.8,2023-11-16
+bbbb9455-add5-4e59-949f-1243341cb8aa,0b9c6d33-4234-4500-be6c-cd41fad67236,The Fellowship of the Ring,Fantasy,22.27,2023-12-05
+054e74c0-1e9e-47de-bfbc-295aadcd0d75,583d8417-5db0-4f5a-8389-c3a9625149cd,Sharp Objects,Mystery,21.8,2023-12-26
+c53fda43-a7df-4812-a7f5-072fee91fcd4,7348b8a1-ceb8-4b09-b2d1-34d8dc04c278,Sharp Objects,Mystery,6.0,2023-12-07
+a810287c-6ff5-474b-bae0-8aa7ddde1d71,e65376fe-a51a-4e3f-bf2e-b62e8f83b017,How to Win Friends and Influence People,Self-help,28.81,2024-02-05
+84c68e75-5bd8-401f-9224-8ae62641e172,1584c107-12f4-4f33-aa38-d514e34854ef,"Thinking, Fast and Slow",Non-fiction,26.14,2024-02-05
+6b947957-8ac8-4a99-9c3c-a4fc9a1aa261,9ea97ca5-b0cd-49c9-ae9d-1d12f3283a6d,Unbroken,Non-fiction,11.78,2023-12-12
+a89cc9d2-e650-4e7a-b3a6-d8a84c650efe,aee57bbf-6bd7-4a1b-9eb7-64141b1afbb2,The Lies of Locke Lamora,Fantasy,18.48,2023-11-25
+b7e822fe-a339-4693-aaa7-36617eabd582,325692bd-680e-4ae1-99f5-6c1592a5e0bd,Born a Crime,Non-fiction,40.2,2023-10-20
+a9f2da55-f26a-4aa0-8c21-776b1b57e1af,03f9f07f-1da3-4e95-8849-9d452c0d2c7f,Outlander,Romance,5.61,2023-10-06
+d3f7466f-338d-44e9-9d95-8de74f5eb6cf,2cd6d405-c14c-4e7c-9a5f-b5df1cbc2860,The Fault in Our Stars,Romance,9.78,2024-02-16
+c6d73ece-5de9-4a12-8c4b-6cdeb0ddc49c,641d006e-e69f-4bae-a066-e8b557c66976,Born a Crime,Non-fiction,18.59,2024-02-28
+d0669576-3910-44d1-b2ed-aa710bc99184,39183213-f49e-4286-8fc0-713a24cb81b7,A Game of Thrones,Fantasy,10.18,2024-01-16
+c016f7f9-08af-42fc-bb21-f9b5eb58a8f4,81d1ca44-a9bd-4db8-a100-151dacc2a88a,The Martian Chronicles,Sci-fi,24.21,2024-03-01
+a06642a2-7275-4dce-aa55-aaece39a05e6,eef97b86-e418-4b3f-b2e0-65b5de17ea59,The Power of Habit,Self-help,45.07,2023-11-22
+aed5344b-093f-4a5b-804c-58a204588160,e6f912d3-13c5-4051-8e18-4a0ae0f03671,It,Horror,16.94,2023-12-06
+050ed569-66a6-4e82-8b86-7c7f6600c87f,1b8db635-4a09-4415-a990-96e895925f25,The Lost Horizon,Fiction,18.67,2024-01-23
+472ff55a-78a1-42ac-a1eb-00de34e23be5,4fa21f6b-ae05-44f0-b7f1-9e7b0d8b847c,The Black Prism,Fantasy,21.68,2024-02-26
+a213f762-71ea-4e61-af94-42ac486bd2fe,4c06d0e8-8c38-455d-8472-cdd459723438,How to Win Friends and Influence People,Self-help,19.71,2024-01-30
+20dc9519-cd2d-4944-992f-f50974d43af3,ceaf6e6b-c413-4f6c-be34-93b2fc624611,Ender's Game,Sci-fi,23.15,2024-02-19
+4aa205ed-88dd-44d8-a1a1-05177ebae79c,5db96b75-6a9a-4a0f-a5d7-fc434f79ae89,In the Woods,Mystery,13.37,2023-11-06
+8605ba6c-e70b-4cc3-a1e7-3b9828de4d3e,18d9869d-d473-424e-aabf-5a1dcf1d713f,Snow Crash,Sci-fi,16.39,2024-03-12
+3c1c2337-0725-484b-afb7-cae53b6081ba,5e84c764-2057-4972-9f0b-84d458c39389,To Kill a Mockingbird,Fiction,15.8,2024-03-08
+38bb3ee8-52d5-4296-9b1b-ba3a2a7b7394,01f674be-5289-4018-b67a-b1a9592310cd,The Martian Chronicles,Sci-fi,14.16,2023-11-13
+fcc9b1fb-ad7f-46e3-bcae-eff9d7c12e38,7af65c4f-f66b-49c0-9d86-6e30299b9139,Unbroken,Non-fiction,36.8,2024-01-09
+6fd262d1-838d-456c-9970-6f412947450b,7482ac34-20c6-417b-8c28-bb4b3ea95da5,Lord of the Flies,Fiction,6.56,2024-03-08
+593306dc-7724-4199-a972-5169013f4e90,c0f99e8c-2194-4fe8-8481-dfe882c13c68,Sharp Objects,Mystery,16.2,2024-03-05
+46720cf0-e5ac-4cfe-a300-a9fdd14bf95b,25558b5d-586a-4526-8ae4-624242fe600c,The Immortal Life of Henrietta Lacks,Non-fiction,48.14,2023-10-26
+f115eefe-d066-4f7a-928e-ed774bd849e9,233dee41-a359-4ea9-9f87-4322fdc61e40,Harry Potter and the Sorcerer's Stone,Fantasy,25.14,2024-02-03
+db15b01b-d6fe-41bf-87ef-baa17139427c,8da65187-f448-4618-a781-2dd2a9316f63,The Lost Horizon,Fiction,6.35,2023-12-15
+76edfa10-20da-46aa-ae40-5c1d3087dcc9,575c0b23-d29b-4363-9648-abdf7c8d3488,Dracula,Horror,22.61,2024-02-02
+3dbf5a8a-ce62-4767-a759-e2519e1187e5,e383a88d-6eaa-49e0-ba71-55831199a138,The Art of Thinking Clearly,Non-fiction,47.46,2023-11-27
+e2278e56-86c8-4cc3-b1a5-4604e0efe12d,0a4a1160-ddc5-4abf-ae23-b0941bf31ea4,Ender's Game,Sci-fi,24.63,2024-01-09
+9635194d-2620-40ce-bab9-12b52b0eed11,e9113883-3096-4b76-b132-7016298b1817,Moby-Dick,Fiction,12.55,2024-03-02
+3329acb4-d293-49ce-bd03-3f2d47514503,a01a022a-2b7a-49e5-a7d0-fe2ee126c4d9,The Time Traveler's Wife,Romance,11.99,2024-02-13
+58b45d7e-521b-42b3-8428-2be5774b996a,12efbd83-7bff-4843-aace-fe33e219c7b3,The Lost Horizon,Fiction,17.91,2024-01-18
+a1e593c1-df78-4b23-a08d-2bf6e3076fe5,09fa2046-8ae1-4e22-a71f-469194194f4a,Mindset: The New Psychology of Success,Self-help,30.42,2023-11-22
+382efe23-c88c-46dd-860a-ccb0c42ea246,7a976995-d312-4e16-8721-a7062a6bbf85,You Are a Badass,Self-help,25.17,2023-11-30
+831ef768-a707-475c-a346-a71d354cbfe5,5d136d8e-380c-4c06-9cbe-23e9edf5ff76,Grit: The Power of Passion and Perseverance,Self-help,15.14,2024-01-30
+8c4c2bd9-1a33-4e21-a8be-925eb8ce0645,5c4afbc3-bdee-4700-894f-aa1d31f15704,Bird Box,Horror,21.3,2024-02-03
+23fcdc84-afa0-4197-a0e7-c02cd077d7fb,6a2daf8f-ea30-4f3d-8273-940d4684979d,The Woman in White,Mystery,20.36,2023-10-03
+4c67f51d-0258-40de-baa4-3805d45c29e7,510fc3d8-0a85-46ec-9816-ccb810a873ca,1984,Fiction,18.16,2024-01-28
+fe8c3b11-6deb-483c-bbe4-a1de2b0d001d,a5bf4eb6-6540-4c90-b87e-fd8e9de814f3,The Fellowship of the Ring,Fantasy,15.17,2023-11-03
+e55b8fa7-53b3-432f-bd40-f672cd2c7855,0342bf6c-6f57-4e48-9155-c591b7e054f8,The Lies of Locke Lamora,Fantasy,27.72,2023-11-09
+39766e62-2907-4352-870d-c487c0e9ff8b,7e9d33b5-b486-45ad-9ce1-c169ffc1085d,Wuthering Heights,Romance,10.06,2024-02-19
+f38a8002-3312-47ef-89a0-191349e06c1d,b026fef4-214c-4c57-80f9-db69f55e0b4c,The Exorcist,Horror,10.18,2023-11-11
+0ca25cd2-b91a-4407-9d06-3d8e253df501,6ddcd79e-19e8-4c21-9edb-c16dc33bf5c9,The Great Gatsby,Fiction,7.28,2024-02-09
+b7bddd18-8289-4614-9075-5dcc2882f94a,6279ec07-b3ee-46a9-b8d8-e9fc825bfbae,The Notebook,Romance,16.97,2023-11-24
+4092add4-006d-4340-964f-6b26f54d797c,6a82e770-30c2-4948-8311-2cd82c6a3e38,Lord of the Flies,Fiction,11.11,2024-01-28
+1e783f95-48a1-4ed4-b31c-da83a8a13678,7145e65c-32fc-468e-ade1-7980d9a8f6b9,Frankenstein,Horror,20.84,2023-11-04
+557d4334-7510-43ad-9e0f-3981d83bd05c,2f6c5e81-fbd5-41d6-a1ab-6701a279812d,World War Z,Horror,23.44,2023-12-31
+e9c71664-2398-43de-9081-ffc43de51ce6,48ab851a-ce45-4e61-a5d0-c0b3e98422e4,Dune,Sci-fi,5.21,2024-02-04
+29189899-7d61-4306-8503-93bfe7e76e4d,81519612-595d-4726-ad0b-5304918706ad,The Name of the Wind,Fantasy,12.2,2024-02-15
+997ba142-cb23-425f-ac49-3ff9e0548706,e77ee0e0-a807-4c9c-80dd-915a0cb91d0a,Atomic Habits,Self-help,26.77,2023-12-17
+74dfe24b-3160-4bbf-9df3-f9248e0df078,ab58c618-7847-4db0-bf4b-c8e23176392d,The Catcher in the Rye,Fiction,15.59,2024-02-26
+dccef239-cb25-4ca0-be51-23036a8c00b2,8b136f49-6981-4cae-9645-e915b115909e,The Four Agreements,Self-help,20.75,2024-02-13
+7a53c2bf-53db-45d1-af7b-bb016b01cd51,81d1ca44-a9bd-4db8-a100-151dacc2a88a,The Girl with the Dragon Tattoo,Mystery,20.23,2023-10-23
+152fb14b-2197-443c-8412-565db143f60a,641d006e-e69f-4bae-a066-e8b557c66976,The Exorcist,Horror,13.57,2023-12-19
+e662448f-e67b-4d52-9615-e5f9582589f2,8bb0c61e-822a-45fb-87f9-570f00dfe32e,Ender's Game,Sci-fi,13.11,2024-02-25
+552b8cbd-9b42-422b-8aa1-60b515ab982d,65f9a399-8501-440b-8999-9ba197028ee3,Atomic Habits,Self-help,21.9,2023-11-13
+89cf7a9a-805f-4496-87b8-d21639b3b46d,5cfd25a6-4ff4-467d-b7de-76a6994b8d3a,Outlander,Romance,10.65,2023-10-25
+3181260c-d5f1-4d0a-93b4-12826c5fbce9,20fea467-9257-4818-95d2-e01ebee24db9,The Fault in Our Stars,Romance,11.94,2023-12-13
+958e3c6c-8d4c-491e-9858-006671f44cab,36bdf769-c109-46e6-8716-33acdae6bddf,The Stars My Destination,Sci-fi,14.35,2023-11-15
+6c22b6b5-fcc2-4543-b099-0ae134c671f8,a01a022a-2b7a-49e5-a7d0-fe2ee126c4d9,It,Horror,16.87,2023-10-24
+8a535c6f-14fb-43d2-af5d-ac242e140bb1,5c4afbc3-bdee-4700-894f-aa1d31f15704,Snow Crash,Sci-fi,17.28,2023-10-04
+cee9c88a-a970-4bd0-b3b7-364cb4b2ac2e,7af65c4f-f66b-49c0-9d86-6e30299b9139,Moby-Dick,Fiction,14.37,2024-01-31
+cc3e85ad-8d42-4fdc-9943-9571d0d66ea5,20fea467-9257-4818-95d2-e01ebee24db9,Atomic Habits,Self-help,46.02,2023-10-06
+a31a23da-331f-4fb7-ac80-64ad279927cd,3b044950-bd49-4bf6-89bb-115ca07f8f13,The Power of Habit,Self-help,21.81,2024-01-20
+86c016ff-60b9-4f6f-94bf-498cd38a46e5,a6f8be80-0416-41c2-83c9-935fd9230d3a,Lord of the Flies,Fiction,19.03,2024-03-19
+202f3a84-1a2b-45b4-9ccf-d5cf31d6f6a7,64a89af2-a04a-46d7-bbef-721f71785dd3,Moby-Dick,Fiction,10.46,2024-01-27
+92d510e0-1a31-4e7a-9198-24b50362a00d,7226484b-d88b-4c5f-a563-070890be60f3,The Left Hand of Darkness,Sci-fi,9.02,2023-11-17
+13ea6d88-d158-426e-9573-3ad8a3d7da84,81519612-595d-4726-ad0b-5304918706ad,Gone Girl,Mystery,5.08,2023-12-13
+fd164e4e-4431-4b18-abd1-fa79edc82fcc,ceaf6e6b-c413-4f6c-be34-93b2fc624611,Altered Carbon,Sci-fi,12.15,2023-11-14
+7c2b9fb0-4caa-45a2-92d5-f25784d13308,8d8894d9-8032-4bc3-830b-7e1ee1f8d838,How to Win Friends and Influence People,Self-help,48.94,2023-10-14
+315abcff-02c8-4bda-af2f-7126da7a7c34,20fea467-9257-4818-95d2-e01ebee24db9,The Girl with the Dragon Tattoo,Mystery,12.63,2023-12-20
+ff9b5970-1b98-4bb1-a64c-b47f3993eed2,977ea19c-4d66-449b-a9fa-c70adbe29840,Educated,Non-fiction,37.96,2024-01-20
+cea9ef1d-f5d9-4fce-abea-64a8ea1250ff,eba6ea99-ad21-44e8-bf3c-8d5ff441a9d0,The Fellowship of the Ring,Fantasy,7.81,2023-12-07
+430e37a5-2833-4283-8841-87375608b073,497ee82f-6a71-4c10-9d6d-ba038f863e9a,Altered Carbon,Sci-fi,15.51,2024-02-22
+ff02045f-85e5-4d47-a77f-27f10970556f,eef97b86-e418-4b3f-b2e0-65b5de17ea59,Whispers in the Wind,Fiction,19.46,2024-03-03
+d3e58250-0bdc-427b-9b7b-819ea32f9608,e6f912d3-13c5-4051-8e18-4a0ae0f03671,The Shining,Horror,21.72,2024-02-07
+657ea6db-07ae-47a8-a2a7-cfe9f1d61898,48be48f5-8b57-4dad-ac34-a95ad2d0cf85,Pet Sematary,Horror,5.98,2024-03-06
+ae5a01cb-72c8-4b16-963a-eae90938b81e,cb252bdc-7055-41cc-a231-843d838f90bf,The Sword of Kaigen,Fantasy,12.45,2023-12-08
+cfc91c1e-9501-475a-aa5a-1275f3dc9a23,72486640-a225-40dc-a20c-e530e5e5712e,The Woman in White,Mystery,8.0,2024-01-18
+306aa9eb-d6f0-4467-973c-1dd4b78f29cd,8f19ae49-01ee-4e9b-9649-839f839db735,Becoming,Non-fiction,25.16,2024-01-23
+cca9ea3d-c671-47a9-b816-b38143106cbd,5f31ff92-ad7a-4f5c-9ca7-ff6745a83af9,"Thinking, Fast and Slow",Non-fiction,46.38,2023-11-14
+22037d67-8ac7-42c8-b718-e524c5646bb7,888465da-ed1d-429c-9b97-961f33f1a113,The Lost Horizon,Fiction,12.61,2023-11-28
+a46fa65d-3819-4020-8a81-453e4b94ba12,2c220cbe-d6d6-401a-9ad4-ce97c0d3e108,Pet Sematary,Horror,18.96,2024-02-19
+bab27ed0-7fb6-42c9-8a39-1fb0b3e6f186,a01a022a-2b7a-49e5-a7d0-fe2ee126c4d9,Pet Sematary,Horror,6.59,2024-01-19
+5ffe1d3d-9252-40ad-bf5b-497019a1215d,11aeaabd-fcdd-4344-94c2-20179bd4cd66,It,Horror,21.92,2024-01-13
+2091dcc7-ac0e-4a1c-a186-db22f85f0c4e,4e331449-832a-453d-8842-ece412af7207,How to Win Friends and Influence People,Self-help,21.4,2024-01-04
+f4f5a847-7d0a-41a4-b493-37629716c025,25558b5d-586a-4526-8ae4-624242fe600c,It,Horror,12.51,2024-03-30
+597d9c18-005b-47bc-9d7b-b6f01135e291,5e4a7ccf-345a-4d32-bcce-ec1700280431,Grit: The Power of Passion and Perseverance,Self-help,35.17,2023-10-27
+4319d10f-fe0a-4c0b-ad5a-fd4d95dfbcfe,5db96b75-6a9a-4a0f-a5d7-fc434f79ae89,The Fault in Our Stars,Romance,18.25,2023-12-10
+40efff78-524f-4e31-9665-d8cbc3675aca,f8dd2b14-441d-4aba-b47c-0a1b6dd76398,The Exorcist,Horror,12.81,2023-10-24
+45eb353b-e0ea-40bd-99de-deeda9cf9aec,5b8e2c54-627f-4732-bd02-e1fe2ea4936b,Lord of the Flies,Fiction,19.33,2024-02-14
+8de7dcce-41ee-4d4c-b9d9-eb22326f87fd,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,Sharp Objects,Mystery,15.3,2023-10-26
+989cba28-e5af-4ac0-96a0-81bf7833d57b,84643be4-b420-4e3d-9849-12fd12a784ba,The Happiness Project,Self-help,39.23,2024-01-16
+438cf559-ef06-4f9c-8bb3-822e069decf4,f9e90ab2-d0cf-4fc0-8396-2129f53ecb75,Grit: The Power of Passion and Perseverance,Self-help,18.71,2024-03-14
+5a7327ca-6487-46f9-a924-e2865c750894,81519612-595d-4726-ad0b-5304918706ad,Becoming,Non-fiction,32.73,2024-02-15
+30e9654b-2c2b-4a6c-bf75-7e7dfdfaad1a,c42019e0-147f-4aec-b290-40902e4cbf94,The Subtle Art of Not Giving a F*ck,Self-help,45.48,2023-11-16
+df676ca9-4f91-459e-b7a0-c3dce55441c8,585f13d7-72cb-43a3-a8dd-be7e4f467b52,Foundation,Sci-fi,5.7,2023-11-29
+fa7ac154-866d-44c0-9c0a-1cd786bbd18d,83abf39f-0371-4788-b83e-7a3277060ee4,The Name of the Wind,Fantasy,27.59,2023-11-26
+547748ec-eebe-42b4-8d2c-fd486f3017db,33109cdf-edf9-4218-9eef-700dd1b19bda,The Immortal Life of Henrietta Lacks,Non-fiction,15.76,2023-12-21
+dd39cb7e-2441-406e-ba37-1731360e0933,b7ca3910-d481-4303-a732-ad4452259d3e,The Left Hand of Darkness,Sci-fi,24.02,2023-10-20
+56039133-d2a5-44f2-9196-a67478153362,3cce3140-92c0-44fc-99d5-9e29d528c47b,Sapiens,Non-fiction,33.16,2023-11-14
+12ed831b-c416-47e4-b547-4969848e7831,f90702d4-553b-4d5d-8b09-3384eb8ed065,Murder on the Orient Express,Mystery,17.15,2023-10-17
+d20b1cbd-ee15-47e2-b666-d6b79a7cafc0,6cf48abe-c347-4452-a282-ef721d749ef6,Snow Crash,Sci-fi,14.22,2024-01-13
+6eec7192-a38c-4f0d-bb8e-2c3ce6273558,497ee82f-6a71-4c10-9d6d-ba038f863e9a,Wuthering Heights,Romance,15.39,2024-03-28
+eb3aab55-fbe9-4932-8f8e-68817c272d6f,b0d073f9-baa1-402d-a65e-600ace8bbd66,The Left Hand of Darkness,Sci-fi,10.29,2024-03-16
+749d85f0-8471-4227-b2f1-658420b82d18,57c3829b-997b-4ec0-9175-6bfef27d6c1e,The Shining,Horror,22.35,2023-10-14
+65850df2-f040-4d40-8ac4-65259401e16b,83869f70-8e26-4e2a-9649-79f154db98b1,The Stars My Destination,Sci-fi,16.05,2023-10-28
+1fd47c1a-b3ae-45e2-b8d4-25b83e107759,96a3f6cf-2e02-4396-a614-b41adf001e82,Gone Girl,Mystery,9.44,2024-03-01
+8119e9d1-d88c-43b7-aa46-f375a1e2e05f,20fea467-9257-4818-95d2-e01ebee24db9,Mindset: The New Psychology of Success,Self-help,32.98,2023-12-11
+851cc60b-9c3f-4089-bdf8-1ab21f96210c,c10d6efd-a672-4c1a-8610-c074d82f9857,The Notebook,Romance,12.32,2023-11-18
+0c818657-6eaa-45ac-8873-3c1de6939c7d,ad69ebfb-84a1-443a-912c-11ef254340b1,The Lies of Locke Lamora,Fantasy,10.44,2023-12-03
+3dcffb69-2cab-4b89-8fd6-4f9d9a1aa5c4,1584c107-12f4-4f33-aa38-d514e34854ef,World War Z,Horror,21.75,2024-02-01
+05867f1e-2203-417d-8250-1efc73f58523,f8dd2b14-441d-4aba-b47c-0a1b6dd76398,World War Z,Horror,11.12,2024-01-08
+94519e1a-9f24-4fc4-b51b-8c71e2fb3519,83869f70-8e26-4e2a-9649-79f154db98b1,Babel,Fantasy,6.64,2023-12-20
+e752c496-4743-41f3-9e38-1ff5eed6f63a,d0dbdfcc-2030-4045-aded-1af269faa104,Frankenstein,Horror,11.77,2024-01-10
+216595c1-45f3-4038-8729-c931d28ace09,6cf48abe-c347-4452-a282-ef721d749ef6,Mindset: The New Psychology of Success,Self-help,41.52,2023-12-04
+fe173645-1264-4fc9-81a5-0ee14f92914e,7af65c4f-f66b-49c0-9d86-6e30299b9139,Murder on the Orient Express,Mystery,15.02,2023-10-05
+91e07b47-35c9-4a20-b13e-ff1b48a2964a,1a4dfbda-dda5-43fb-a128-8de7779722d5,To Kill a Mockingbird,Fiction,19.95,2023-10-18
+085aa3fa-9d8e-4727-b83b-cd4b6012969e,a4de3774-9003-4ad7-9d6f-ba77ef0f0926,The Subtle Art of Not Giving a F*ck,Self-help,25.47,2023-12-01
+87f30233-d0ed-4478-b309-84f651de4cbd,0ef60bc0-86f2-4f90-aa95-01a2cf778a76,Big Little Lies,Mystery,7.54,2023-11-02
+8b413edf-ab3f-41ca-a610-d1bba25ff476,888465da-ed1d-429c-9b97-961f33f1a113,Sapiens,Non-fiction,17.73,2023-11-17
+9bf29660-8361-452a-91d9-030da3a710dd,ecf96e46-32a3-428d-9ecb-2625730d09f3,In the Woods,Mystery,16.4,2024-03-18
+9bbcb07e-5ac9-47cf-be08-d2181854ff47,5db96b75-6a9a-4a0f-a5d7-fc434f79ae89,How to Win Friends and Influence People,Self-help,47.78,2023-11-04
+ddf0f99d-cd41-4d13-b8a0-2744fe99490d,9fe2a7fb-2f6b-4cc1-8127-80fec840b34c,The Woman in White,Mystery,20.59,2023-11-03
+c7da0ebf-b739-4a1a-87a3-31452618dc35,1fb44dc6-25b7-4786-aaa5-361302d866d2,The Lies of Locke Lamora,Fantasy,21.6,2023-12-23
+182a2e42-187f-4d6c-b9ed-6bbafa22cf1f,221e3fd7-f636-43f6-97df-aa1171c998d8,Pride and Prejudice,Romance,14.26,2024-01-04
+e94633b4-c24a-4549-90a0-3575afcd890b,8c090b5d-8f82-48d2-a40f-2731ec7bc7c4,The Sword of Kaigen,Fantasy,29.29,2023-10-01
+ba7012cd-d465-45ae-85cd-6eb776807030,a4de3774-9003-4ad7-9d6f-ba77ef0f0926,The Stars My Destination,Sci-fi,22.54,2023-12-06
+ec158c4f-44d8-426c-a29e-ed8545940b37,3b044950-bd49-4bf6-89bb-115ca07f8f13,Ender's Game,Sci-fi,14.46,2023-12-05
+633d94bd-1f66-4f54-8654-38da31261b25,8ff334a1-9ba8-425f-9b53-614f7128c35a,Altered Carbon,Sci-fi,19.87,2023-11-26
+0dbdd1e0-aecf-4c2b-ac07-597703be7467,506dadc4-3e4d-40e9-9f16-37978e6a76cc,Atomic Habits,Self-help,39.57,2024-03-12
+fc7de3ed-bf0f-418c-b8b9-43c741f5b650,ceaf6e6b-c413-4f6c-be34-93b2fc624611,Echoes of the Past,Fiction,7.12,2023-12-10
+ba7b1273-4a1b-47bf-a9d1-c55afa559e03,5025a898-11f3-4a70-9ebd-1329b4daa017,The Sword of Kaigen,Fantasy,10.04,2023-12-11
+6af0510c-c9fd-4841-bfbc-69e68b41c604,c10d6efd-a672-4c1a-8610-c074d82f9857,Snow Crash,Sci-fi,16.18,2024-02-29
+841b283d-6071-4673-bb40-f1f31b573b0d,5c4afbc3-bdee-4700-894f-aa1d31f15704,The Notebook,Romance,11.51,2024-01-29
+fb69d203-f9d7-4ef2-b9ba-4ff24dc20b14,1d854ad6-0166-4c98-84c2-9988686cb37e,The 7 Habits of Highly Effective People,Self-help,38.04,2024-03-23
+1ac55df9-7a4b-4f3b-abea-91eafb2a5d3c,92ef3f8d-2d99-4f70-a22b-0049e16ba4d3,The Power of Habit,Self-help,18.17,2023-12-04
+ffcb2ca7-9bea-4596-806b-1d1876d10ac7,5426d35e-733c-4f16-8764-cb1aa50a4e7e,The Hound of the Baskervilles,Mystery,22.69,2023-10-09
+20b2d523-ca55-4322-b5cf-bae35fbc895c,61230738-1013-4082-863c-dae9474d8567,The Art of Thinking Clearly,Non-fiction,48.24,2024-03-09
+c8e97e32-831a-4e6e-86ef-f0c98a1df298,6279ec07-b3ee-46a9-b8d8-e9fc825bfbae,In the Woods,Mystery,11.25,2023-10-03
+17dd73a9-c17d-4944-a8ff-00580df82f85,9ac48bf5-2197-48c9-a361-255fb15ecd47,Wuthering Heights,Romance,19.47,2024-03-13
+d802bfbd-cc98-4742-8b87-1ed2832becaa,e9bd993a-bfc8-4196-81f7-88c04ffa8c7e,Frankenstein,Horror,16.04,2024-03-06
+33daa362-e5d8-49d1-a8ce-859df3b44a76,f7251c6f-88f5-4988-81e0-f0881c9a796f,Dune,Sci-fi,12.36,2024-03-25
+7f360a1f-3a22-41e1-b415-3b8d0c9e6d72,6a52c7b4-588c-4c72-8978-25cc9e91eaad,The Woman in White,Mystery,21.87,2023-12-07
+29b81d45-5f0a-42d2-90cf-75a97d7aada6,5d136d8e-380c-4c06-9cbe-23e9edf5ff76,Eleanor & Park,Romance,12.48,2024-01-18
+e7b6277b-0760-4f92-8722-879dac3ba104,09fa2046-8ae1-4e22-a71f-469194194f4a,Hyperion,Sci-fi,24.78,2023-12-28
+12e6ed12-f371-4228-9741-945736fe0997,49a7330b-acad-4de1-bec9-e28a5c946bc5,Atomic Habits,Self-help,30.56,2023-11-25
+5a4c1d2a-2eec-4169-b876-43565057eab4,2ecbac0d-fde4-48b8-8a26-719317b468eb,Gone Girl,Mystery,14.61,2024-02-22
+5a4e05a6-5f1b-4611-8825-3e4e89b95de7,e6f912d3-13c5-4051-8e18-4a0ae0f03671,Me Before You,Romance,19.43,2024-01-15
+3b9feca8-2f7a-4f68-8ee8-ab04543a9aba,01d5f641-ca81-4212-ba49-c53d88233d1c,The 7 Habits of Highly Effective People,Self-help,29.81,2024-02-17
+4677df6a-0aec-42b0-846a-8e9ee67a8ba3,4fc05322-66a6-4526-8b08-80c7f078b9ad,The Silence of the Lambs,Horror,22.18,2024-02-17
+a233cb1b-e7ae-40b9-8fd1-61c2892cd4c0,7ff6632a-9090-45be-be86-64cc2e8c06fd,The Silence of the Lambs,Horror,6.97,2023-10-31
+ff05883a-6c90-4af2-b189-e029d0e3d319,5b414b5b-751d-4829-97fb-59d995bc8e53,You Are a Badass,Self-help,48.69,2023-12-29
+974c5efa-ef36-41ca-8dc8-31a43e0abac2,bb724285-9f82-47ad-a193-ecc9acf0177e,Mindset: The New Psychology of Success,Self-help,35.29,2023-11-21
+be7f566c-1ed4-4bbe-9fd8-69659c3140fb,072f48c6-819e-42e8-9a1e-74d89c427635,The Fault in Our Stars,Romance,10.59,2024-02-19
+8a93fd5b-5aa2-4d2d-a92a-e00c9be50c0a,df16c22b-93e0-467e-8155-a4a6a19f3fb0,"Thinking, Fast and Slow",Non-fiction,47.82,2024-02-12
+c4b5a1ef-de08-4652-b756-1e421e95d3bb,39183213-f49e-4286-8fc0-713a24cb81b7,Foundation,Sci-fi,17.29,2024-01-14
+8c3cf237-87c4-4580-b70a-df2ff8bcaea0,b9f9a2c7-7195-4e44-bc5c-b53ae04e9ead,The Four Agreements,Self-help,35.69,2024-02-07
+ffbc5d77-3500-443c-9ec5-59d183212ea3,3f65be3a-e0cc-4a8d-b5c4-e0f2701c0447,Altered Carbon,Sci-fi,22.38,2023-11-01
+86d159b7-a47e-4d2b-97c4-ebe8b707b4d8,42b0584b-6103-4a6e-9d41-7e11355b9919,Grit: The Power of Passion and Perseverance,Self-help,37.01,2023-11-08
+e76af522-cd78-4186-97ff-63eb549109ca,9ac48bf5-2197-48c9-a361-255fb15ecd47,Bird Box,Horror,16.48,2023-11-23
+ba51e703-571d-405c-b803-ee7c38f7c558,4fb83c56-5b2a-4adf-921a-a1e6b5567ce9,Eleanor & Park,Romance,17.94,2023-12-22
+062811c4-405b-449b-ad20-b306ef0a1549,4e34a059-a5c1-4e37-9ba4-49424c8199ad,The Happiness Project,Self-help,28.11,2024-01-08
+6de9f42e-0944-498d-aeb2-add40745a57e,65f9a399-8501-440b-8999-9ba197028ee3,Moby-Dick,Fiction,18.48,2023-10-02
+4bbe1979-82b4-43ff-8043-2a6e84e492a4,e21335f3-4004-4cbc-b61d-415d71dd9dc0,Foundation,Sci-fi,19.74,2024-01-05
+6a9ebbe5-793b-4194-bcd3-db54d7850bf1,cf46be29-9716-4af6-a71c-6e4c49462948,The Silence of the Lambs,Horror,24.92,2024-01-19
+762ef31e-5ed5-456f-a1a6-47aa651e6338,e383a88d-6eaa-49e0-ba71-55831199a138,Brave New World,Fiction,9.35,2023-10-10
+e40c2431-fde5-471e-9743-01b0b345cf30,1a4dfbda-dda5-43fb-a128-8de7779722d5,The Fault in Our Stars,Romance,17.02,2023-12-25
+8f3888b8-807e-4d63-9c86-3eebc53f4265,d3a362e2-0005-4fec-a0c0-27078aa99626,The Silence of the Lambs,Mystery,14.85,2024-02-09
+03146a4a-05d9-4ba4-91ce-ae5fce2fdf92,e9113883-3096-4b76-b132-7016298b1817,The Lies of Locke Lamora,Fantasy,17.26,2024-01-13
+2abf3da6-86c3-478e-a706-46d7ae2bfd4f,fc470a57-efea-4d67-8df3-9c69bbbbf437,The Notebook,Romance,9.17,2023-11-18
+39e38bd7-ebc5-414f-bfb3-3456f8dc858a,11d20a8d-317c-42f5-96eb-7a52c6c2c056,The Silence of the Lambs,Mystery,13.87,2024-03-04
+1081bf5b-76de-46fd-a744-8e53fda5508f,5b9a398b-f187-4a8f-9352-b7312abc32db,Born a Crime,Non-fiction,27.85,2024-02-02
+274da30d-775f-4985-80f0-491575b97d90,e383a88d-6eaa-49e0-ba71-55831199a138,The Fellowship of the Ring,Fantasy,24.46,2024-02-23
+a21bc2e5-de7c-45ce-863a-b501ab92ce69,5025a898-11f3-4a70-9ebd-1329b4daa017,Mindset: The New Psychology of Success,Self-help,42.17,2024-01-09
+1e48ee6f-f4ee-40fb-aca2-6809f8e510f5,497ee82f-6a71-4c10-9d6d-ba038f863e9a,The Subtle Art of Not Giving a F*ck,Self-help,35.64,2024-03-10
+7856531a-5461-4cbd-a535-af5bffbd1a2c,165458aa-4fd8-4f8b-83c2-4dc8780f6528,The Art of Thinking Clearly,Non-fiction,13.02,2023-11-04
+cac36f3b-6a02-43bb-81a9-5caafb21f1a6,8df00f37-e58d-41b2-984b-6f9bde1f79a6,The Hound of the Baskervilles,Mystery,11.15,2023-10-05
+4e8b8095-a682-4b00-a727-4e34b944c8bc,0f7fa400-0e06-4bcc-b1db-8f3b5fd37fb9,How to Win Friends and Influence People,Self-help,27.05,2024-01-14
+54ab48b1-fd82-4944-bc79-ada56f036e27,1d854ad6-0166-4c98-84c2-9988686cb37e,Frankenstein,Horror,9.83,2023-12-20
+48ef85f5-29f5-4b54-9ea9-d28eba0a1941,9fe2a7fb-2f6b-4cc1-8127-80fec840b34c,Me Before You,Romance,9.36,2023-12-16
+d9cc5e61-d4fe-4991-abd8-c77f96890cfb,16fd4e19-ff57-4776-86f9-07c0fc1f10ec,Pride and Prejudice,Romance,13.98,2023-11-14
+a4d85b75-0adc-4dc4-9346-2e492284910f,8ff334a1-9ba8-425f-9b53-614f7128c35a,Atomic Habits,Self-help,18.35,2024-03-10
+935d39d0-bbe2-4bcb-9665-b50eceff2ee7,681c0355-1f3f-4fcf-9186-1b7e053a7085,How to Win Friends and Influence People,Self-help,25.22,2023-10-13
+4cde07e9-449a-4a24-9c1a-fa030d79cb95,1b8db635-4a09-4415-a990-96e895925f25,You Are a Badass,Self-help,35.27,2023-10-21
+60cc70ee-b119-4e78-b741-012af3bf641d,11d20a8d-317c-42f5-96eb-7a52c6c2c056,Grit: The Power of Passion and Perseverance,Self-help,24.96,2024-01-28
+be15a1ee-959e-4084-8571-313d8b17568d,ede1f02d-5a51-41a2-8ea6-8e1265f7656f,The Black Prism,Fantasy,27.82,2023-10-21
+91f3e163-ac2a-476b-ac22-f246cbf0a596,5db96b75-6a9a-4a0f-a5d7-fc434f79ae89,The Girl with the Dragon Tattoo,Mystery,15.9,2023-12-31
+48c1a3f0-cc27-4e59-8305-a31e00595801,ee21ff60-83c6-40ea-a1dc-ef8f7895d26f,The Name of the Wind,Fantasy,22.03,2024-03-03
+b5da6479-2425-44ed-8fc0-2da8a176dc61,e21335f3-4004-4cbc-b61d-415d71dd9dc0,The Girl with the Dragon Tattoo,Mystery,16.58,2023-12-13
+091f5df6-fd82-459c-9190-3e0d6f683381,7ff6632a-9090-45be-be86-64cc2e8c06fd,The Silence of the Lambs,Mystery,7.48,2023-11-15
+ac7eb7be-e6d4-4bb9-a4b1-d87ce3215cce,2fd419b8-42ea-464f-a4e8-96083fa77c55,The Stars My Destination,Sci-fi,17.41,2023-12-31
+2f54fc44-a610-4080-a3c6-d18fb303d6cb,6a2daf8f-ea30-4f3d-8273-940d4684979d,Pride and Prejudice,Romance,5.9,2023-12-13
+9e615842-d407-4ab7-a64b-174c2cfc24e4,29d33e05-6379-4529-928a-025024d66bfb,Gone Girl,Mystery,11.45,2023-11-28
+d21c2d85-8253-4155-977a-72f6e765d8d9,0326f4e9-35e7-4dcf-ae42-c5a80a8e0ad4,Ender's Game,Sci-fi,22.79,2023-10-17
+e2573bf5-0ac8-4f89-8ce1-b9975b93696f,130f87ff-342a-4a10-92ee-e6e0ef47cc66,The Hobbit,Fantasy,29.1,2024-03-06
+9a56329b-57fa-4461-a8eb-c54c889deb04,5b8e2c54-627f-4732-bd02-e1fe2ea4936b,How to Win Friends and Influence People,Self-help,26.49,2024-02-19
+d0d5fd2d-21d8-476e-89e3-cbe14741b7dd,f9e90ab2-d0cf-4fc0-8396-2129f53ecb75,Sharp Objects,Mystery,22.13,2024-02-23
+e49398bc-47b4-4dac-9cf6-d524364a6bd9,d0dbdfcc-2030-4045-aded-1af269faa104,The Hound of the Baskervilles,Mystery,14.33,2024-03-27
+572b2087-bc5a-4f6c-a3fb-45e12a9d7f0b,e21335f3-4004-4cbc-b61d-415d71dd9dc0,The Happiness Project,Self-help,46.42,2023-10-29
+740ac02f-c5c1-4896-9b30-c2400012ae30,067dfee5-4618-4fb8-ac7d-a18f323cfc94,Foundation,Sci-fi,6.43,2024-02-07
+415d1355-81a8-4d8e-a7b0-719394e90f65,92ef3f8d-2d99-4f70-a22b-0049e16ba4d3,The Silence of the Lambs,Horror,23.98,2024-02-21
+88289bf6-a9cd-4c2f-8447-f7f46bf6219f,e65376fe-a51a-4e3f-bf2e-b62e8f83b017,The Rosie Project,Romance,8.52,2024-02-15
+0183e078-f40d-43ae-982f-b3f709dd0467,36bdf769-c109-46e6-8716-33acdae6bddf,Harry Potter and the Sorcerer's Stone,Fantasy,16.07,2024-01-05
+0f6319b6-db5c-4f0c-8081-ab4533bb3d94,dbaebec5-ee53-4f7c-8f3c-8ba230b4b617,The Girl with the Dragon Tattoo,Mystery,9.41,2023-12-06
+98afb88f-c131-4aa9-95d7-d8250f6e0da2,e21335f3-4004-4cbc-b61d-415d71dd9dc0,The Four Agreements,Self-help,40.6,2024-03-08
+fec519f0-68b9-4954-b3ed-7b6cbd3c705f,681c0355-1f3f-4fcf-9186-1b7e053a7085,The Catcher in the Rye,Fiction,11.83,2023-10-15
+f584bb37-dcec-4123-a789-e15f12c4ef3e,497ee82f-6a71-4c10-9d6d-ba038f863e9a,You Are a Badass,Self-help,36.74,2024-02-27
+4600a08f-b4e0-40d3-895c-1eeca53106b1,e88fe0f9-df95-4ad1-bced-e3ff2c9c1481,The Four Agreements,Self-help,32.42,2024-02-21
+d3080bb8-eef0-4cae-b8ed-29bfdd05cc8c,d96b3497-db8b-4f2c-8772-905f745332af,The Stars My Destination,Sci-fi,12.39,2024-03-03
+9a2670b9-6e47-4048-8d6e-a8f5e2b81a15,fab97d34-be64-4631-b858-fc0e8ac1ddfc,The Immortal Life of Henrietta Lacks,Non-fiction,26.57,2024-03-08
+11b1afe1-91ae-488f-8fd2-a3a5a8c57715,1a4dfbda-dda5-43fb-a128-8de7779722d5,Pride and Prejudice,Romance,16.11,2023-11-19
+c6acbe01-3826-46ed-8935-d9cd4014613d,5426d35e-733c-4f16-8764-cb1aa50a4e7e,A Game of Thrones,Fantasy,29.32,2024-02-13
+a33a6f9b-096c-4f11-9600-8916ffdb7dbd,c5678b25-0cdf-49ea-977f-050d06570b80,The Sword of Kaigen,Fantasy,19.6,2023-12-05
+026f0fcd-357b-4fb4-aae2-f3965131fd4a,ca04de42-810c-4cab-91e7-234498421525,Outlander,Romance,19.96,2023-10-28
+228d647e-42d2-4391-b40b-1510b93b4884,5b9a398b-f187-4a8f-9352-b7312abc32db,Whispers in the Wind,Fiction,15.87,2023-10-01
+b67f3ca3-7a45-4d50-8cf6-3fbbfc46f404,7fb92810-ebf7-4ff5-923e-540f73cc4740,Murder on the Orient Express,Mystery,11.45,2024-01-09
+c9381312-bb40-4832-9464-00f25c653247,bee327ee-790a-4e76-83a5-b134c0c0232b,Whispers in the Wind,Fiction,8.65,2023-12-01
+68900b16-1c01-43bc-89e0-a4d5207f5529,0f7fa400-0e06-4bcc-b1db-8f3b5fd37fb9,Sharp Objects,Mystery,24.13,2024-03-16
+82f76bed-56e6-4f38-98f1-17c81e387918,5426d35e-733c-4f16-8764-cb1aa50a4e7e,Atomic Habits,Self-help,40.08,2023-11-22
+7ac470f1-ea9e-4034-8737-6be29b267a3e,11aeaabd-fcdd-4344-94c2-20179bd4cd66,The Da Vinci Code,Mystery,14.16,2024-03-10
+0114f327-d354-4093-8617-920b88f24a70,8b136f49-6981-4cae-9645-e915b115909e,The Haunting of Hill House,Horror,19.24,2023-12-07
+ce7a6658-d6fe-4b45-b566-52528b4389b8,0326f4e9-35e7-4dcf-ae42-c5a80a8e0ad4,Bird Box,Horror,16.42,2023-12-02
+e6e47bb1-0c2e-4075-9503-b9ac3f4aa864,a6f8be80-0416-41c2-83c9-935fd9230d3a,Bird Box,Horror,10.12,2024-03-25
+ab6eb9d9-e213-4704-8991-00de715a86c2,30557e32-56ec-4254-9dee-f155bcab1f82,The Four Agreements,Self-help,46.7,2023-11-30
+6081243e-0066-4a00-b601-93f1b004a682,e65376fe-a51a-4e3f-bf2e-b62e8f83b017,Snow Crash,Sci-fi,13.32,2023-12-20
+7a1ecf4a-3b9f-45ba-9d10-deda185fcb68,e9bd993a-bfc8-4196-81f7-88c04ffa8c7e,The Black Prism,Fantasy,9.03,2024-02-15
+e43b8350-0dc4-433c-9664-0bae31aed2a4,8df00f37-e58d-41b2-984b-6f9bde1f79a6,Wuthering Heights,Romance,7.5,2023-12-12
+910c3549-a92e-4c9c-9fe7-3f16f12da1a0,ecf96e46-32a3-428d-9ecb-2625730d09f3,Me Before You,Romance,6.23,2023-12-18
+16481dae-7bfe-48a0-a97c-2fc673688b0a,2fd419b8-42ea-464f-a4e8-96083fa77c55,It,Horror,11.61,2023-11-26
+c762d78c-17b2-4e33-a70e-6bf39c40705e,ecf96e46-32a3-428d-9ecb-2625730d09f3,The Blade Itself,Fantasy,16.77,2024-03-14
+c484db7d-b9c3-4757-b438-59e92ab78282,ab58c618-7847-4db0-bf4b-c8e23176392d,The Art of Thinking Clearly,Non-fiction,29.48,2023-11-20
+8ebf92f2-11fe-429d-bf1d-26322275076d,5cfd25a6-4ff4-467d-b7de-76a6994b8d3a,Pride and Prejudice,Romance,5.0,2023-10-14
+3c7e9c79-db66-4c83-92c0-c489d93a656d,661f4d43-8450-4b99-8447-f1ad263a083b,Eleanor & Park,Romance,13.82,2023-11-09
+65703a61-f234-42a3-a2f4-6cec21b37afc,a33532aa-0565-4ab9-a649-09f58a9c0e24,Pride and Prejudice,Romance,10.43,2024-03-03
+a79b5d93-3d17-4528-9de1-33254c8d2a59,fbf308c7-2dca-475a-b495-d0e40c19b20f,Echoes of the Past,Fiction,8.54,2023-11-25
+7d7a8100-fbe5-4802-979b-cb820d1b0b66,72486640-a225-40dc-a20c-e530e5e5712e,Lord of the Flies,Fiction,13.78,2024-02-16
+9b1f4d51-b6a1-49ea-8329-89a6a3951dfd,09fa2046-8ae1-4e22-a71f-469194194f4a,The Fellowship of the Ring,Fantasy,7.18,2023-12-20
+77bbe078-4e32-4277-af56-04b2030916e1,fd0cc1b9-65e9-48c5-873c-e282eb632373,The Exorcist,Horror,12.38,2023-11-14
+ec96d83d-dd2f-41cc-a6bc-ec85e02742d5,d3a362e2-0005-4fec-a0c0-27078aa99626,The Haunting of Hill House,Horror,13.94,2024-03-10
+377cd089-e5ee-4efb-b7fc-096c910129ab,48ab851a-ce45-4e61-a5d0-c0b3e98422e4,Frankenstein,Horror,21.06,2024-02-04
+a0fdbbd7-0e7e-4087-85ed-3a84a5c1f2ac,61230738-1013-4082-863c-dae9474d8567,The Shining,Horror,12.8,2023-10-26
+440e6c12-f161-4cb6-a6be-0f9533c8a8c0,a6f8be80-0416-41c2-83c9-935fd9230d3a,The Lies of Locke Lamora,Fantasy,17.83,2024-01-01
+3d5637b5-f814-4af3-b492-118416caf3f8,29d33e05-6379-4529-928a-025024d66bfb,The Exorcist,Horror,24.71,2024-03-19
+c4fb91b9-7e4f-4050-8556-fdeda6941565,8bb0c61e-822a-45fb-87f9-570f00dfe32e,Echoes of the Past,Fiction,9.33,2023-12-14
+b0f711e1-b466-4d7a-ae0d-841c42880353,29d33e05-6379-4529-928a-025024d66bfb,The Rosie Project,Romance,13.0,2024-03-12
+5bc29e07-357d-483d-9b8f-5ae987e191e2,9de51809-7c51-4fad-b59b-d6241a6d3f2d,Brave New World,Fiction,14.03,2023-11-05
+3e852fa8-1e18-4799-bdca-c9beb2b09058,70281bf9-8f72-4056-a3f7-b6edbc3aa5fe,The Fellowship of the Ring,Fantasy,14.61,2023-10-08
+e67735ec-4ca6-4766-a86b-50afb32b49c4,03f9f07f-1da3-4e95-8849-9d452c0d2c7f,Eleanor & Park,Romance,13.59,2024-01-22
+9a9cc5a2-dfcd-4421-bf6b-c4d9c912afaf,067dfee5-4618-4fb8-ac7d-a18f323cfc94,Pride and Prejudice,Romance,18.13,2023-12-18
+ad52268c-89c7-4bc8-82af-e3bda557e8d4,7e9d33b5-b486-45ad-9ce1-c169ffc1085d,The Lost Horizon,Fiction,10.77,2023-10-25
+82d707da-b191-4a67-8c74-ca7d6549c2fa,497ee82f-6a71-4c10-9d6d-ba038f863e9a,The Fellowship of the Ring,Fantasy,21.17,2024-01-17
+552b6801-63b7-4b62-a1e6-150a7b7350a0,4e331449-832a-453d-8842-ece412af7207,Jane Eyre,Romance,7.93,2023-10-12
+aae51e79-33cb-4bc5-8367-9e2626e0a155,01f674be-5289-4018-b67a-b1a9592310cd,A Game of Thrones,Fantasy,19.26,2024-01-03
+d873eef1-b2ac-4cd0-9587-d29c4d1b1398,09fa2046-8ae1-4e22-a71f-469194194f4a,Altered Carbon,Sci-fi,23.23,2023-11-24
+9eb28f43-0f9b-4df7-86c9-70326423cc36,4fb83c56-5b2a-4adf-921a-a1e6b5567ce9,Outlander,Romance,10.27,2023-10-21
+d3b182be-540b-47a5-8a27-3e32ada05c19,5db96b75-6a9a-4a0f-a5d7-fc434f79ae89,The Exorcist,Horror,21.41,2024-03-17
+3e55691b-e951-47ba-a0cc-7853f8652d22,84643be4-b420-4e3d-9849-12fd12a784ba,To Kill a Mockingbird,Fiction,18.54,2024-01-28
+0b0d436a-2a53-46a0-82f1-624407e1aef0,c815ca3b-968c-4b16-b55d-f100162ab7c6,Me Before You,Romance,11.53,2023-11-06
+e6e09f40-de58-460c-98dc-c9cf6e9c2f33,e65376fe-a51a-4e3f-bf2e-b62e8f83b017,The Catcher in the Rye,Fiction,18.73,2024-02-27
+3886601f-5f01-4d47-bd72-0330c1a66623,ca04de42-810c-4cab-91e7-234498421525,The Happiness Project,Self-help,44.3,2023-11-11
+a0947d9c-211e-42d1-850d-f95ad55a4bfd,2f6c5e81-fbd5-41d6-a1ab-6701a279812d,The Catcher in the Rye,Fiction,10.74,2023-12-11
+92ffe546-f06b-405c-bc6b-bf901210c806,11aeaabd-fcdd-4344-94c2-20179bd4cd66,The Wright Brothers,Non-fiction,37.11,2023-10-09
+25ca1815-2b9e-4e17-ac0b-2c2e1c5d1319,ee2df4a4-71e7-4168-be50-9e9defe550ee,A Game of Thrones,Fantasy,13.35,2024-02-15
+08872465-f16a-4d47-9c3b-e920664da0ac,5a8f18e2-db0d-4ac2-b4da-0589d6215a65,The Hobbit,Fantasy,28.24,2023-12-27
+59b965ab-1c1d-4053-87d1-b2a6e0d4aeec,48ab851a-ce45-4e61-a5d0-c0b3e98422e4,Pride and Prejudice,Romance,7.28,2024-02-12
+ae068e5b-dcdd-4fc8-b1ee-f91e8fbbbcb4,1e90e363-5ba8-4e7e-8032-19d8b217cd7c,Atomic Habits,Self-help,26.59,2023-10-21
+4135e52f-9a22-4cec-89c9-5989aad26a25,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,Whispers in the Wind,Fiction,10.31,2023-11-27
+eeb523dc-3c90-4a15-93e1-4962d60c2b46,ee21ff60-83c6-40ea-a1dc-ef8f7895d26f,Neuromancer,Sci-fi,8.62,2024-02-23
+00a8b24e-b41c-40b7-9422-7bc5de0e7bdc,da9cf33d-1ec4-41c6-b11d-5f1f6833955f,The Notebook,Romance,6.76,2023-10-13
+5710a5c6-2bf8-4b21-83f6-ce081038cf00,81d1ca44-a9bd-4db8-a100-151dacc2a88a,Dracula,Horror,20.53,2023-11-19
+cade485a-a0ee-4bdf-bf29-9af92c67f019,27f4b3d8-30b7-4fbe-899e-158b8e328b86,Sapiens,Non-fiction,48.09,2024-01-23
+ae5636d4-f47d-4f2f-86a6-46cd39b19ee8,571f56ec-c0c9-4d22-aa0f-6949587b061c,Dracula,Horror,7.88,2024-03-06
+5690ca86-a84e-4d06-9eb3-f9d37b847bb5,facc5e58-9fe4-4fff-b48e-5a5a1f81d1a7,Babel,Fantasy,25.31,2024-01-21
+9ccaf109-23fe-42d1-b752-26d59e8e441a,61167ab4-71d0-4784-a2a1-64dc113945b7,The Rosie Project,Romance,12.17,2023-11-12
+79fedda5-4e25-4384-b229-845881bb5dea,8a788117-7692-435c-ac41-a16c5f46296a,The Girl with the Dragon Tattoo,Mystery,10.45,2024-03-04
+a526a021-d73d-46fc-86c9-56c27f21ff34,9ddb1f43-fbde-4156-95e1-fc41cd172c26,Harry Potter and the Sorcerer's Stone,Fantasy,8.7,2023-12-11
+3d093f42-6d8d-4bcc-a902-9905a0d27752,0342bf6c-6f57-4e48-9155-c591b7e054f8,Pride and Prejudice,Romance,16.11,2024-02-08
+37fd3ed8-57ce-46a8-8dd6-1d19f5e227a7,6cf48abe-c347-4452-a282-ef721d749ef6,The Silence of the Lambs,Horror,7.12,2024-03-16
+9e742e68-7d32-4797-8368-2556ba4fe221,c650f4b6-a0bd-4439-ac9c-8438016fd636,The Silence of the Lambs,Horror,20.3,2023-10-08
+21b9e296-4dfd-4d27-91d1-c28f0b843f13,e15f44dc-0ba0-4839-9579-c2695d3fc542,Frankenstein,Horror,5.55,2023-11-16
+ce445af8-f19d-4d88-b554-d46632b82d05,9129b1c0-b2e3-407f-8fea-33e730d773ca,The 7 Habits of Highly Effective People,Self-help,18.62,2023-12-31
+71b443c6-0551-43db-8e68-010be12afb10,aaa8ac68-1c77-4d0c-937d-605f9af93d54,The Stars My Destination,Sci-fi,24.35,2023-11-01
+f383c909-4ff5-4f4d-ad46-ad843809e80e,7ff6632a-9090-45be-be86-64cc2e8c06fd,The Four Agreements,Self-help,42.85,2023-12-01
+1132ce81-fb76-423d-92e7-01a3832226ee,1584c107-12f4-4f33-aa38-d514e34854ef,Educated,Non-fiction,35.2,2024-02-16
+f16fb7f1-ef94-499e-b137-e1907310417c,130f87ff-342a-4a10-92ee-e6e0ef47cc66,The Hobbit,Fantasy,6.25,2023-11-13
+cb66c011-200b-4e9a-be94-67c25400c1d4,234eff32-5d05-42dd-9acd-7b2bb28f5931,The Wright Brothers,Non-fiction,26.09,2024-01-31
+98b25209-83e2-46f9-89f6-b0b354e8e094,3b044950-bd49-4bf6-89bb-115ca07f8f13,To Kill a Mockingbird,Fiction,17.23,2023-12-16
+527ef30f-b43b-41ef-a543-59a1b3183b5f,a2d9f51a-7d99-405d-a04e-119a6bd798d4,Grit: The Power of Passion and Perseverance,Self-help,31.16,2023-12-07
+79cabd24-8b9f-4655-80cf-6fb9244503fe,4e34a059-a5c1-4e37-9ba4-49424c8199ad,Gone Girl,Mystery,16.76,2024-03-19
+57089026-ba2d-4be9-b0b3-3ee093494677,f68cf5f1-d060-48b1-9d9a-e182330318e8,Educated,Non-fiction,43.02,2024-02-29
+3451f0be-b4e7-4651-ba4a-95dbe6c4d8b6,9ea97ca5-b0cd-49c9-ae9d-1d12f3283a6d,The Wright Brothers,Non-fiction,28.31,2024-02-29
+e140178b-bc31-4a28-89a8-3ec3435c6cde,7e9d33b5-b486-45ad-9ce1-c169ffc1085d,Ender's Game,Sci-fi,17.6,2023-11-12
+87f0c110-d680-47a1-8c44-5cb6db6d65d6,1e8f1263-0c7f-4e09-8c24-ff3cfe918701,The Name of the Wind,Fantasy,26.13,2024-02-06
+e50139c6-29aa-49c3-babe-88bcd8e29cb7,ad013c5b-5a11-4644-8594-a96effeaf729,Me Before You,Romance,12.14,2024-01-25
+c0908600-7189-4123-a5d7-2188dd3dc5b7,661f4d43-8450-4b99-8447-f1ad263a083b,Pet Sematary,Horror,23.44,2023-10-12
+79894736-6750-4ede-8413-2d8b03742743,f65ecd48-0cbf-4311-8625-344ddcf8490d,Gone Girl,Mystery,16.83,2023-11-13
+e7b85e71-4b55-4bb1-ab29-22e97963d650,4fc05322-66a6-4526-8b08-80c7f078b9ad,The Shining,Horror,22.91,2023-10-01
+82086063-4008-4a83-96a7-aac04785124f,f3172b3f-85e1-42d6-8907-7f06ce09b5f9,Sharp Objects,Mystery,16.31,2023-12-10
+00bf339f-24e0-4b65-9168-01258153aea4,e569dc9f-05d5-4646-ae7f-16b4534df06b,The Silence of the Lambs,Horror,11.47,2024-02-23
+40b279b7-8cd2-4b77-9d75-dfefac65c368,a71d3fcc-6b03-446b-9515-8de0f74aa628,The Fault in Our Stars,Romance,7.98,2024-02-22
+930dac14-8b5b-4e49-a0ff-02742f25a7d0,ab9033df-6265-4a74-91c7-76bf382cf696,It,Horror,14.73,2023-10-28
+6f844251-ce3d-4f13-8ab6-779733b48fbe,233dee41-a359-4ea9-9f87-4322fdc61e40,Pride and Prejudice,Romance,9.51,2024-03-22
+38602a5f-2fcf-4a8e-b93e-69e9eb14031c,6a2daf8f-ea30-4f3d-8273-940d4684979d,The Black Prism,Fantasy,26.2,2023-12-20
+8650b7e5-dd53-4450-bb2a-e7b6c1cee40b,f90702d4-553b-4d5d-8b09-3384eb8ed065,Harry Potter and the Sorcerer's Stone,Fantasy,5.33,2023-12-16
+6eaa7c75-8e96-4712-8df8-db17a5b75a70,4fb83c56-5b2a-4adf-921a-a1e6b5567ce9,The Art of Thinking Clearly,Non-fiction,19.54,2023-12-06
+e3f6574e-8e33-4f43-bded-cfa00daba76d,cb252bdc-7055-41cc-a231-843d838f90bf,The Blade Itself,Fantasy,27.64,2023-12-05
+3e65f18f-c95b-4658-87cd-9ebb0af63a9a,6cf48abe-c347-4452-a282-ef721d749ef6,Me Before You,Romance,7.21,2023-10-31
+cac7276f-63d2-4347-b91c-45fd7e3016a9,a4de3774-9003-4ad7-9d6f-ba77ef0f0926,Pride and Prejudice,Romance,18.21,2023-12-31
+e112a6ac-213c-4450-bced-0674626dc7c9,0b9c6d33-4234-4500-be6c-cd41fad67236,The Silence of the Lambs,Mystery,14.85,2024-01-07
+f309dcd9-d056-4937-90a1-629f90f17682,ee21ff60-83c6-40ea-a1dc-ef8f7895d26f,Jane Eyre,Romance,12.66,2023-10-08
+daa5d6b6-55f4-4ff9-bc74-2468c847b074,fbf308c7-2dca-475a-b495-d0e40c19b20f,The Art of Thinking Clearly,Non-fiction,19.23,2023-12-12
+5c9b3d4c-edc0-4f79-bf3c-6c727bad77e2,d3a362e2-0005-4fec-a0c0-27078aa99626,Harry Potter and the Sorcerer's Stone,Fantasy,18.38,2023-10-31
+e636ea6d-79bf-4b8b-92d6-0f0416e394f0,506dadc4-3e4d-40e9-9f16-37978e6a76cc,Pride and Prejudice,Romance,17.87,2024-01-19
+e0a9838a-09fe-49fd-926a-dc6d12ea7417,18d9869d-d473-424e-aabf-5a1dcf1d713f,The Great Gatsby,Fiction,18.84,2023-12-09
+fbd995e8-537a-4ae0-ae2c-c1ba13bdd7f3,cf834571-f3ae-4c50-98c6-9af6164b040b,It,Horror,7.72,2023-12-25
+61274589-73ed-4b93-a12a-b4ecf3f7f03b,ad013c5b-5a11-4644-8594-a96effeaf729,The Notebook,Romance,5.15,2023-11-27
+c3a63b91-4d88-41ef-af03-2d99b754ff73,c030a86c-9039-4fab-af00-fe09d960150f,Brave New World,Fiction,7.46,2024-01-25
+1872adf0-8f06-42aa-b5b7-9caef6cbc060,818e614e-29f0-4485-b788-86712bd0870c,The Silence of the Lambs,Mystery,23.28,2023-11-11
+82835440-99c5-4536-8b0c-d341a0644440,97e730cf-0226-461d-b65b-6c576caaf309,The Woman in White,Mystery,5.39,2023-11-20
+0579e1df-80d3-436a-bfd4-d2fdc2f98574,f65ecd48-0cbf-4311-8625-344ddcf8490d,1984,Fiction,11.12,2023-12-20
+a07f6aa9-e529-485a-bdfe-82cf5403189e,361f27c8-bdef-4fa1-bea0-c16fbdf66402,The Woman in White,Mystery,15.29,2023-12-09
+836b468d-d916-4845-9274-5e2c017f513f,0a4a1160-ddc5-4abf-ae23-b0941bf31ea4,The Happiness Project,Self-help,31.91,2024-03-16
+a6e41da4-db68-4257-a8ca-0464ede4afa9,87c4262e-1579-4ddf-b06e-f4b1c99a1cb5,Sapiens,Non-fiction,37.16,2024-01-19
+48bf39fd-e685-4be6-904b-9881f68757df,2883a080-68ee-41ce-803f-7cea1d108a1c,Dracula,Horror,7.84,2023-12-17
+13bca479-a15c-462c-b9fe-01d97f95da79,f544d3e6-2072-4b4a-b940-3c8b911ab1b1,Educated,Non-fiction,12.63,2023-12-08
+0102aa53-913f-49d2-aee8-7e597efe95d3,e9bd993a-bfc8-4196-81f7-88c04ffa8c7e,Big Little Lies,Mystery,22.81,2023-12-19
+4b608ab4-c166-421f-9a2b-10b29a901418,80df3281-44d5-49a1-b10c-dcf125cba6d0,Outlander,Romance,19.07,2023-10-20
+e4fb0ac8-d4b7-42a8-9531-9faea462e6b6,cbde8368-1f70-4ba4-9f69-026806b8ad20,Wuthering Heights,Romance,16.98,2023-10-05
+6503e78a-5413-4b3e-b895-b85f860a8299,cbde8368-1f70-4ba4-9f69-026806b8ad20,Murder on the Orient Express,Mystery,21.38,2023-10-14
+294f9e0e-8275-4917-8090-bb5277ddd20a,0956a342-ed2c-48b8-bf8a-cd1e92c73887,Hyperion,Sci-fi,6.91,2024-03-11
+fc60b43f-a60e-42d6-887a-a677e63afb6f,16fd4e19-ff57-4776-86f9-07c0fc1f10ec,Dracula,Horror,22.91,2024-01-23
+728a751a-7312-4e44-bea3-1b12eb6b1d34,61230738-1013-4082-863c-dae9474d8567,You Are a Badass,Self-help,18.24,2024-01-20
+620f1881-71cd-4b0a-bfc4-4818e995f450,661f4d43-8450-4b99-8447-f1ad263a083b,The Art of Thinking Clearly,Non-fiction,15.82,2023-10-07
+23d4df3f-304b-4b09-8e8b-2de7a0313d91,49a7330b-acad-4de1-bec9-e28a5c946bc5,The Fellowship of the Ring,Fantasy,16.66,2024-01-08
+63250cc8-9587-4a91-a6b7-1434ddc938a5,1e8f1263-0c7f-4e09-8c24-ff3cfe918701,The Martian Chronicles,Sci-fi,12.04,2023-10-15
+5b258b29-9f8a-45b4-adc5-339b4d288468,f68cf5f1-d060-48b1-9d9a-e182330318e8,The Notebook,Romance,19.93,2023-11-11
+00a2795f-f670-4b77-b058-f294d039b1f2,1584c107-12f4-4f33-aa38-d514e34854ef,The Shining,Horror,14.38,2023-12-07
+65e32c17-0967-415c-a6a2-306816ad4674,28f30e1a-be09-43dd-8e28-a9a96b21426d,"Thinking, Fast and Slow",Non-fiction,28.37,2024-03-12
+1f21f523-8320-4dbc-ab93-9c20f85fc871,6cf48abe-c347-4452-a282-ef721d749ef6,Me Before You,Romance,5.36,2024-01-03
+1363aab3-b418-45e9-b02f-5707a5f85cfa,ac6b71dd-8256-4651-87cd-a1d9fca69af0,Wuthering Heights,Romance,18.44,2024-01-21
+bdcd4bcd-1308-4e0f-b55c-be4435a94bf2,fad25e7b-269e-42f7-86cd-19df6c7a30f5,Dracula,Horror,17.45,2024-01-23
+b9420572-e638-43fb-a0b8-b0e29ce80a19,7d7a06f8-b623-48a3-a398-3d2e0866fc65,Whispers in the Wind,Fiction,9.11,2024-01-21
+5dd3278e-dd12-460f-bd70-82fd93a93743,7145e65c-32fc-468e-ade1-7980d9a8f6b9,The Fault in Our Stars,Romance,18.18,2024-03-02
+8cbe9465-5dac-4643-951a-362a193c9dda,132ef4ff-d446-4bf2-b73e-3a1c9548b289,The Fault in Our Stars,Romance,19.79,2023-10-08
+8f738e43-357d-4a3b-930e-87e3c76b37dc,4fb83c56-5b2a-4adf-921a-a1e6b5567ce9,Becoming,Non-fiction,39.52,2023-12-09
+b21112d4-0d49-4865-82ba-4a7482a6b87b,0342bf6c-6f57-4e48-9155-c591b7e054f8,The Martian Chronicles,Sci-fi,5.47,2024-03-06
+59cbbf63-3a4b-4ffd-b544-a8a91eb6bcf1,9fdd2f8c-77b9-4536-9eb4-c7a658bda51b,Atomic Habits,Self-help,27.02,2024-03-06
+d899ac68-7c03-4ca9-bef8-453f5ac573c9,571f56ec-c0c9-4d22-aa0f-6949587b061c,Hyperion,Sci-fi,20.74,2023-10-23
+8e2cfb78-8c62-47d2-97c6-ba26692b59a0,3f65be3a-e0cc-4a8d-b5c4-e0f2701c0447,1984,Fiction,12.3,2023-10-11
+74e8fa41-e868-4475-a4c7-4308106501c8,fad25e7b-269e-42f7-86cd-19df6c7a30f5,The Lost Horizon,Fiction,19.67,2023-12-11
+5d5e1098-a16f-43e8-8f38-04785b799cba,d96b3497-db8b-4f2c-8772-905f745332af,Mindset: The New Psychology of Success,Self-help,39.41,2023-10-02
+e5d69f3e-2e27-4e02-a54e-f65bb061cef9,414e0912-f06f-4451-9205-9117102ee7b9,The Art of Thinking Clearly,Non-fiction,29.47,2023-12-26
+4a80205c-f0c5-4eb4-be4e-224c1154a2e8,29d33e05-6379-4529-928a-025024d66bfb,The Subtle Art of Not Giving a F*ck,Self-help,43.68,2024-03-30
+cf9f49a3-5762-49d7-9370-f00eeef81031,e569dc9f-05d5-4646-ae7f-16b4534df06b,Harry Potter and the Sorcerer's Stone,Fantasy,16.02,2024-03-01
+52304ba5-ac8d-4d5e-9304-46c2ac74b3a1,221e3fd7-f636-43f6-97df-aa1171c998d8,The Left Hand of Darkness,Sci-fi,6.62,2023-12-15
+834a7d07-5d4f-465b-b169-101001e4251c,1e0564ad-2ffa-463e-82f8-1f4522a7336b,The Rosie Project,Romance,11.2,2024-01-20
+70bfb5bd-af3b-4711-af74-afe19111dd5e,5bf1cbc3-6efd-4359-9476-08b843ea5ef7,Lord of the Flies,Fiction,14.9,2023-10-25
+c0d7f943-7a83-4d2c-ab7a-232a4638a36e,fbf308c7-2dca-475a-b495-d0e40c19b20f,Dune,Sci-fi,8.16,2023-11-22
+0a62d607-310c-4e8d-ae73-160c52c60d5d,96a3f6cf-2e02-4396-a614-b41adf001e82,The Haunting of Hill House,Horror,16.67,2023-10-24
+ec0aa750-1869-4c24-b77d-253e6542d54b,80df3281-44d5-49a1-b10c-dcf125cba6d0,The Time Traveler's Wife,Romance,15.62,2023-11-01
+26a63131-5ab7-489a-9043-33585ffd3e00,9ddb1f43-fbde-4156-95e1-fc41cd172c26,Outlander,Romance,8.47,2023-10-30
+270bbb69-fdc2-45cf-93b7-883d12efdb7f,cf46be29-9716-4af6-a71c-6e4c49462948,Born a Crime,Non-fiction,21.66,2023-10-15
+18546d6d-5b74-4af8-bcb5-ab7487112b7e,a3ab0fd5-dbfe-48d3-9bae-3721a0bef7aa,Babel,Fantasy,25.01,2023-11-27
+5140f893-82c3-4668-812d-622838c52755,b1fe4d08-4c52-4a9b-8b79-cecf68956564,Dracula,Horror,24.56,2024-03-26
+eeda0cf6-cdfc-4023-8fa0-004576c3df0f,1e0564ad-2ffa-463e-82f8-1f4522a7336b,The Fault in Our Stars,Romance,11.81,2023-11-07
+b5cef0d7-0407-4e01-a455-6790980849ed,c022b212-cd27-44db-9dd2-4fb94b4398ec,The Four Agreements,Self-help,38.45,2023-10-19
+fc1c5617-748c-4c4b-9785-9ae6514076cd,fd0cc1b9-65e9-48c5-873c-e282eb632373,The Hound of the Baskervilles,Mystery,17.71,2023-12-05
+928c4719-46ea-4427-8b5a-662fa1b722d7,11d20a8d-317c-42f5-96eb-7a52c6c2c056,Educated,Non-fiction,27.74,2024-03-07
+b5da8b90-ea38-4f8a-ac91-494db9c40b4e,2fd419b8-42ea-464f-a4e8-96083fa77c55,The Name of the Wind,Fantasy,14.84,2023-11-15
+18ba7f45-d576-44b4-ba71-db075f926119,0326f4e9-35e7-4dcf-ae42-c5a80a8e0ad4,The 7 Habits of Highly Effective People,Self-help,18.66,2023-11-02
+3c4cfed3-d435-40aa-9430-c02edb12e5f7,818e614e-29f0-4485-b788-86712bd0870c,Big Little Lies,Mystery,22.65,2023-10-22
+b9ce9414-f2b6-467b-8798-7c0115e47a56,9f907802-b1e2-4dae-b0a9-ccffcd247d62,The Martian Chronicles,Sci-fi,23.66,2023-10-26
+3833fd8a-e5a7-4340-a27b-9ccd63cadfeb,fab97d34-be64-4631-b858-fc0e8ac1ddfc,Sapiens,Non-fiction,25.63,2024-01-01
+762a39cc-46f3-447f-acdf-873316b91113,b1fe4d08-4c52-4a9b-8b79-cecf68956564,The Wright Brothers,Non-fiction,19.45,2023-11-22
+ca0e6455-b341-4307-839e-f0b6331056fc,9de51809-7c51-4fad-b59b-d6241a6d3f2d,It,Horror,16.35,2024-03-04
+defd95bb-2e8c-4ceb-b539-afb3ee221acf,2f6c5e81-fbd5-41d6-a1ab-6701a279812d,Foundation,Sci-fi,19.91,2023-11-26
+c888ad0b-6c71-4236-8010-320d46288d04,c650f4b6-a0bd-4439-ac9c-8438016fd636,Lord of the Flies,Fiction,16.19,2024-02-11
+8ce972ab-fa72-49b0-a72c-7575010298bc,70281bf9-8f72-4056-a3f7-b6edbc3aa5fe,A Game of Thrones,Fantasy,24.87,2023-12-10
+a8d9e2f2-2edc-4c9d-98ca-18ee4a600afb,d6ca7484-26fb-4d94-acf1-d09f08344c4e,The Immortal Life of Henrietta Lacks,Non-fiction,49.17,2023-10-21
+1217bbeb-ff46-43c0-90d4-6826dd713163,39ab4b3f-c8cd-4728-895f-6d4eda8c5a5c,Gone Girl,Mystery,9.42,2023-11-04
+86cc550c-faf0-4c50-9347-fdd205bb6f94,067dfee5-4618-4fb8-ac7d-a18f323cfc94,Babel,Fantasy,18.1,2024-01-30
+38e89306-64c9-4591-9aeb-afa0235da715,bb724285-9f82-47ad-a193-ecc9acf0177e,The Notebook,Romance,13.98,2023-11-08
+16d7101a-835c-4967-8259-084bcfd101ad,ad013c5b-5a11-4644-8594-a96effeaf729,Hyperion,Sci-fi,23.28,2024-02-17
+fb55404b-178e-46fb-bcae-60e346893b05,2c220cbe-d6d6-401a-9ad4-ce97c0d3e108,Gone Girl,Mystery,18.41,2024-03-26
+0ec7194c-101e-4fc3-996e-cf6f5244f9ff,575c0b23-d29b-4363-9648-abdf7c8d3488,The Sword of Kaigen,Fantasy,6.39,2023-12-19
+56f61bde-2545-43ef-b4d4-7165adc2f5b3,cf24e96e-1b01-4647-9ae9-76c20f40cf4c,Unbroken,Non-fiction,17.62,2024-02-16
+dfe3fcd6-8bd3-45b4-9663-841382e5fa0e,7ff6632a-9090-45be-be86-64cc2e8c06fd,Sharp Objects,Mystery,22.48,2023-12-07
+4a08edce-7e87-4f37-91d1-5743b10d3917,39183213-f49e-4286-8fc0-713a24cb81b7,Babel,Fantasy,10.38,2023-12-11
+883fa42a-1d78-4118-982b-c328fc92fce6,588b9836-15c8-47e5-9c64-70a42cca5b5a,Altered Carbon,Sci-fi,12.53,2024-01-11
+cc401f23-cf08-4273-9b5b-503b89d7e630,f0986f83-ede9-45ff-a6b0-799732b27e77,Jane Eyre,Romance,12.79,2024-03-30
+00761a1d-878c-47f4-b4d2-2e7f36d9b860,818e614e-29f0-4485-b788-86712bd0870c,Becoming,Non-fiction,39.35,2024-03-27
+4f6f1248-fa00-454f-9908-60160d7dffb3,48ab851a-ce45-4e61-a5d0-c0b3e98422e4,Murder on the Orient Express,Mystery,20.34,2023-11-29
+631d771d-eb4f-4884-a49e-c5f8b805b6b3,f0986f83-ede9-45ff-a6b0-799732b27e77,Me Before You,Romance,17.91,2024-03-24
+baaad277-9499-4314-aab4-9d0bbcde34fa,9fdd2f8c-77b9-4536-9eb4-c7a658bda51b,How to Win Friends and Influence People,Self-help,35.73,2024-03-19
+f8d9e77a-01e7-4065-8e0b-07a94adbd473,46f16a70-0bed-49db-bad6-58d68e39aee4,Wuthering Heights,Romance,8.43,2024-03-23
+69c2e0ac-be83-4aa2-84b5-93b90dee44d7,c815ca3b-968c-4b16-b55d-f100162ab7c6,The Catcher in the Rye,Fiction,6.84,2023-10-21
+cab3153d-3d49-49d8-be0c-f2b5fc2a4675,a01a022a-2b7a-49e5-a7d0-fe2ee126c4d9,How to Win Friends and Influence People,Self-help,27.31,2023-12-20
+883191b5-293f-4e50-8a9f-f4842af23904,d34950f3-0974-4ee3-94c5-883a3b048cb2,Sharp Objects,Mystery,22.38,2024-02-05
+40b4d704-4a02-4d6a-93a3-9b4055c6fbfe,d34950f3-0974-4ee3-94c5-883a3b048cb2,The Immortal Life of Henrietta Lacks,Non-fiction,30.8,2023-11-22
+a3e5857f-1e4c-43f6-8009-227e73f22136,cf24e96e-1b01-4647-9ae9-76c20f40cf4c,The Immortal Life of Henrietta Lacks,Non-fiction,10.51,2023-11-22
+8c26f66c-b9bc-4fb7-b394-8639e64870b6,0342bf6c-6f57-4e48-9155-c591b7e054f8,Dracula,Horror,12.12,2024-01-13
+6c5101e4-d08a-4efa-8313-80d06c5df8bd,661f4d43-8450-4b99-8447-f1ad263a083b,The Haunting of Hill House,Horror,18.1,2024-02-13
+4bbb299d-aafc-4e18-ba95-fa59a4cf9029,8ad6c69e-4f8d-4398-8e55-56d55ab58c8e,Dune,Sci-fi,16.21,2023-12-04
+7b5656b7-4403-442f-98cd-1a69d3d07a8c,234eff32-5d05-42dd-9acd-7b2bb28f5931,The Left Hand of Darkness,Sci-fi,14.28,2023-11-05
+5734d347-86ee-4d38-9900-5e195e4cb50f,4c6be7b1-5c95-43d4-b312-cd5f22d26f1a,Me Before You,Romance,14.04,2023-11-11
+9d9e34a3-f874-4f9b-bc9f-98b355bfc038,1e8f1263-0c7f-4e09-8c24-ff3cfe918701,The Lost Horizon,Fiction,12.09,2023-11-05
+7ba60d8d-4e4d-4702-932e-de75d8bf7e49,39183213-f49e-4286-8fc0-713a24cb81b7,The Blade Itself,Fantasy,29.27,2024-02-09
+2273ad3b-7de5-4ba4-aa2c-7d1ba4578a52,4c6be7b1-5c95-43d4-b312-cd5f22d26f1a,The Rosie Project,Romance,14.51,2024-01-18
+8495d07e-1ab5-4eb1-a38a-6ba823fed917,ad013c5b-5a11-4644-8594-a96effeaf729,The Happiness Project,Self-help,31.05,2023-10-25
+6175d231-b32f-40b2-9ad7-0941f2a01ccb,678a24b6-1c49-49eb-b81a-7c922b85b5ed,The Da Vinci Code,Mystery,20.85,2023-11-13
+0e83bbd2-5208-467a-bc9f-ba2ccc01cd2a,0a4a1160-ddc5-4abf-ae23-b0941bf31ea4,Neuromancer,Sci-fi,5.85,2024-03-04
+fb8eb3e2-6284-470d-9425-34df4abd754e,361f27c8-bdef-4fa1-bea0-c16fbdf66402,The Time Traveler's Wife,Romance,19.39,2024-02-14
+a927cfb3-43e9-484a-9991-84a0e7c70d8d,8978d713-bbe5-45b9-b29c-c08784122ec1,How to Win Friends and Influence People,Self-help,35.95,2024-01-27
+ca7408db-b15f-462c-b018-02c08da99e9a,6a52c7b4-588c-4c72-8978-25cc9e91eaad,The Immortal Life of Henrietta Lacks,Non-fiction,46.54,2023-11-21
+2cb5b39b-81d2-41da-a269-bbab92ad3f5e,2f6c5e81-fbd5-41d6-a1ab-6701a279812d,Pet Sematary,Horror,18.47,2023-10-16
+e1a0f685-5fc3-44b2-a5a4-d60e315e27ff,80df3281-44d5-49a1-b10c-dcf125cba6d0,Becoming,Non-fiction,26.38,2023-10-05
+105aa582-6a41-4659-b93f-1322b3c7fbdd,30557e32-56ec-4254-9dee-f155bcab1f82,"Thinking, Fast and Slow",Non-fiction,13.22,2023-10-22
+7bbf47cf-c898-486e-9ccc-594091f31a81,63e7f8d2-e726-4d03-ab26-8dc879ab2f6a,Frankenstein,Horror,10.38,2024-02-19
+6de8e2a2-8827-4fea-81d6-de9cbd6c1ad2,d96b3497-db8b-4f2c-8772-905f745332af,Lord of the Flies,Fiction,9.07,2023-10-30
+e3b84796-b0a0-4e9c-a4c3-8f83223a609e,62a96b31-af9f-410b-bbcb-3fdccaa0a7a2,Bird Box,Horror,5.37,2023-11-10
+6b0d5378-8975-443a-97c1-ee01b93f3b4a,6ee1eb78-24e4-4792-9593-eec7d0538cbd,Lord of the Flies,Fiction,14.81,2024-02-23
+8a4a00fa-5a30-4b9a-8969-b736470db8c3,4fb83c56-5b2a-4adf-921a-a1e6b5567ce9,The Exorcist,Horror,14.45,2024-03-11
+c582a2a8-0598-4c35-9952-669b441bc4c2,7d7fbcd4-a1ad-4753-b0b8-6e7e1aaad3d1,Lord of the Flies,Fiction,14.04,2023-11-18
+2ea20761-6cf5-4c60-80fe-681d565f873e,7d7fbcd4-a1ad-4753-b0b8-6e7e1aaad3d1,The Time Traveler's Wife,Romance,12.52,2023-11-23
+f291ddab-2605-4d7c-865a-e07657e56f36,1d854ad6-0166-4c98-84c2-9988686cb37e,Harry Potter and the Sorcerer's Stone,Fantasy,21.41,2024-01-03
+79d545ae-606c-4cca-98e0-4d0d3258330b,03f9f07f-1da3-4e95-8849-9d452c0d2c7f,The Subtle Art of Not Giving a F*ck,Self-help,49.76,2024-03-14
+d5f44ae2-1aff-49f9-9f90-bc80e3ad79cc,9ea97ca5-b0cd-49c9-ae9d-1d12f3283a6d,The 7 Habits of Highly Effective People,Self-help,37.99,2024-01-29
+9a8b4ea3-81f3-4d5a-90bc-276c85cc1d18,332887de-739b-4674-a8eb-dea83c81665d,Outlander,Romance,10.93,2024-01-01
+8e231037-0387-4b41-b642-f49a9f6d296f,fc470a57-efea-4d67-8df3-9c69bbbbf437,It,Horror,5.47,2024-01-08
+a45c08bb-3666-4aa8-8418-fc5856cc629c,4bcbf9ba-a676-4cd8-8a3a-f7a7ce029b59,Becoming,Non-fiction,30.66,2023-11-18
+aefe867c-bcc2-4c03-8d44-3d1c7e05ae16,233dee41-a359-4ea9-9f87-4322fdc61e40,Sapiens,Non-fiction,35.77,2024-01-21
+ab7a3e0e-0801-4c8b-bdc6-52c410c677ae,61167ab4-71d0-4784-a2a1-64dc113945b7,Whispers in the Wind,Fiction,7.38,2024-03-10
+353ace0a-5186-49d2-b4b2-47d34515e9a1,42b0584b-6103-4a6e-9d41-7e11355b9919,A Game of Thrones,Fantasy,9.89,2024-01-13
+970aa72a-4a29-446c-b194-c6de9faca569,29d33e05-6379-4529-928a-025024d66bfb,The Lies of Locke Lamora,Fantasy,25.75,2024-02-23
+0ae633c1-bfb9-4d66-aec5-d39891152f45,829b39a2-17c5-47a1-a53b-acbe025c9a60,The Power of Habit,Self-help,21.82,2024-03-07
+e48d373a-08dc-483f-9f6e-f0779c89d036,5c4afbc3-bdee-4700-894f-aa1d31f15704,Eleanor & Park,Romance,12.55,2024-01-29
+0f04a9e6-6205-4b8d-9138-ded922e3d262,325692bd-680e-4ae1-99f5-6c1592a5e0bd,The Silence of the Lambs,Horror,9.15,2023-10-09
+fdc36191-d47c-4438-8a01-7f04bb31f0b9,2ecbac0d-fde4-48b8-8a26-719317b468eb,Frankenstein,Horror,6.36,2023-10-18
+57a76e36-0b47-4e0a-be13-1b93a057cf60,fd0cc1b9-65e9-48c5-873c-e282eb632373,The Silence of the Lambs,Horror,10.94,2023-11-01
+64f1d186-310d-4033-acfc-e3023c3f5404,aaa8ac68-1c77-4d0c-937d-605f9af93d54,The 7 Habits of Highly Effective People,Self-help,19.3,2024-03-30
+12bca94a-0318-45a7-bce4-48a5644d899a,f6dee415-b304-4444-9ecd-6586f4d9260c,Lord of the Flies,Fiction,13.51,2024-03-05
+df72741f-e30f-4493-a6fa-66455b76b8ab,9f907802-b1e2-4dae-b0a9-ccffcd247d62,The Left Hand of Darkness,Sci-fi,8.36,2024-01-29
+2ee5d37d-9a0f-4c28-8604-f5a8b5699ca4,510fc3d8-0a85-46ec-9816-ccb810a873ca,A Game of Thrones,Fantasy,24.41,2023-12-19
+d6bc600c-8caf-4d9b-8076-db6b7663388d,9f907802-b1e2-4dae-b0a9-ccffcd247d62,Babel,Fantasy,8.94,2023-10-02
+5a7694b7-85a3-41bf-8c14-70a735634518,01f674be-5289-4018-b67a-b1a9592310cd,Foundation,Sci-fi,12.22,2023-12-22
+ba57e5c4-239f-4fcd-838d-62213ab6a760,132ef4ff-d446-4bf2-b73e-3a1c9548b289,"Thinking, Fast and Slow",Non-fiction,46.39,2023-12-04
+de192644-2443-4b83-b5b0-be8b5ab4a4ae,0326f4e9-35e7-4dcf-ae42-c5a80a8e0ad4,Murder on the Orient Express,Mystery,5.6,2023-12-12
+316f2f84-5849-4ed8-8015-8cd81865560f,e138e111-1f24-48b4-b404-0f05237cf1e6,Unbroken,Non-fiction,35.76,2023-12-06
+e2928297-f027-4144-9ed8-8a1a9fdce97f,0f7fa400-0e06-4bcc-b1db-8f3b5fd37fb9,Frankenstein,Horror,21.09,2024-02-11
+64c2ac98-4021-498a-8d61-1ab883fae6f6,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,The Sword of Kaigen,Fantasy,15.66,2023-11-19
+6eb16b85-85d9-4425-901f-059441b4329c,8ec57908-3613-4800-b013-9d807b336a98,The Exorcist,Horror,17.81,2023-11-06
+e49e0eeb-1c46-45c9-a86f-5c95a9ddf656,92ef3f8d-2d99-4f70-a22b-0049e16ba4d3,The Great Gatsby,Fiction,7.28,2023-10-05
+55a9108e-dbda-4c81-ba44-a2bab5b4c167,0ef60bc0-86f2-4f90-aa95-01a2cf778a76,How to Win Friends and Influence People,Self-help,31.81,2024-03-16
+55b815b0-37ba-4671-a4e7-d9ae51af48d6,3f65be3a-e0cc-4a8d-b5c4-e0f2701c0447,The Hound of the Baskervilles,Mystery,11.49,2024-03-09
+e39a81ef-9645-4fa8-9928-9608d37e9d58,db0c29c0-9269-40ac-9971-f6dd70524a9d,The Hound of the Baskervilles,Mystery,17.11,2024-01-01
+12490ffb-ed3c-4aeb-8aea-34e657ba5f03,0956a342-ed2c-48b8-bf8a-cd1e92c73887,Foundation,Sci-fi,19.28,2024-01-02
+a2472e82-4d3e-4685-9ef9-8d226121bb5f,e9bd993a-bfc8-4196-81f7-88c04ffa8c7e,The Woman in White,Mystery,14.23,2023-12-04
+969ededf-233b-4fa3-b68d-ce903393feec,a3ab0fd5-dbfe-48d3-9bae-3721a0bef7aa,The Name of the Wind,Fantasy,12.72,2024-03-13
+43e994b4-203f-4f48-9419-dac4bcaf7c21,a2d9f51a-7d99-405d-a04e-119a6bd798d4,The Girl with the Dragon Tattoo,Mystery,20.42,2023-12-13
+2082cff1-b18e-43b9-9879-704efdea4447,ecf96e46-32a3-428d-9ecb-2625730d09f3,Educated,Non-fiction,25.64,2024-02-10
+146bc556-741f-4155-ac22-a8fdaf957024,414e0912-f06f-4451-9205-9117102ee7b9,A Game of Thrones,Fantasy,29.57,2023-11-22
+a6240d2b-9d1a-4ba8-b03d-e71c6b683582,fd0cc1b9-65e9-48c5-873c-e282eb632373,Dracula,Horror,9.78,2023-12-11
+7da3031e-4d7e-4d82-a181-9fe731869749,f0986f83-ede9-45ff-a6b0-799732b27e77,Hyperion,Sci-fi,13.42,2024-01-17
+8c6f76ea-040d-4ef3-bef1-965f80b7d062,72486640-a225-40dc-a20c-e530e5e5712e,Echoes of the Past,Fiction,11.4,2023-11-24
+da3771aa-aa75-4c38-803f-a92009fbf3dc,829b39a2-17c5-47a1-a53b-acbe025c9a60,The Fellowship of the Ring,Fantasy,14.49,2023-10-10
+53c722c3-8066-442a-9cd6-0b6bca66c8cd,57059244-716e-477f-af88-90200c487d97,The Name of the Wind,Fantasy,20.36,2024-02-25
+4282d206-5543-4c2e-a69a-1d556ffb42d1,506dadc4-3e4d-40e9-9f16-37978e6a76cc,Mindset: The New Psychology of Success,Self-help,24.33,2023-12-09
+265dd762-454f-48e0-bc94-8010097a17cd,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,The Fellowship of the Ring,Fantasy,25.87,2023-12-06
+2bda4cca-f4c6-41f9-8113-340ee239a2ab,6279ec07-b3ee-46a9-b8d8-e9fc825bfbae,The Art of Thinking Clearly,Non-fiction,39.78,2023-11-12
+b381b6ef-3c29-4044-b8e8-5a78dc1c0532,30557e32-56ec-4254-9dee-f155bcab1f82,Outlander,Romance,12.7,2024-03-08
+517293b0-6ce8-4d49-a940-95f032dfd8b8,2cd6d405-c14c-4e7c-9a5f-b5df1cbc2860,Hyperion,Sci-fi,21.48,2023-11-24
+16e428a9-9272-404b-9546-763d70f945ce,f7b71122-daa8-4f72-bb71-36bf4e12bae0,Lord of the Flies,Fiction,12.21,2023-10-03
+db59ca23-58d4-4523-8f8e-6e5492861f2b,00038b92-945a-4e01-94fc-97f434f1116f,The Sword of Kaigen,Fantasy,16.65,2024-02-15
+b681f3ac-a1bc-41b5-8a64-859eddfdf46c,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,The Sword of Kaigen,Fantasy,18.8,2024-02-16
+01e48bbf-74df-49fd-bae0-8445f53e3174,5d136d8e-380c-4c06-9cbe-23e9edf5ff76,The Name of the Wind,Fantasy,28.5,2024-03-29
+81aeff11-37d1-4128-b6ba-98b75a64bc62,4c6be7b1-5c95-43d4-b312-cd5f22d26f1a,Grit: The Power of Passion and Perseverance,Self-help,20.82,2023-11-22
+f00d38dd-8f2b-4adb-afd8-2af2f3e9c53e,0a4a1160-ddc5-4abf-ae23-b0941bf31ea4,The Lies of Locke Lamora,Fantasy,11.31,2023-10-01
+6da00643-a5d9-42a5-bf6b-b3dec4c091f7,1f16c820-8a62-43a7-bcd9-ed0bc4e2ba26,Gone Girl,Mystery,10.37,2024-03-16
+cf8ea2f2-f514-4a0a-a7a8-5e6046d9b900,fdcfad44-a3d0-4fc5-93d4-daf9f3231ddd,The Silence of the Lambs,Mystery,9.56,2023-11-17
+1f08e90d-ac1d-4a50-b1cf-7a0525a75892,7bb76cf1-f665-44af-b454-f4e760bd3042,"Thinking, Fast and Slow",Non-fiction,19.83,2023-11-14
+7b31b4ef-901c-4fa0-9f23-392011c57469,ff1160a7-6ca6-4205-9d3a-8946eb44f03f,Into the Wild,Non-fiction,35.78,2023-11-21
+21787767-08fb-4f65-a0f7-8371ab15b59b,c022b212-cd27-44db-9dd2-4fb94b4398ec,Eleanor & Park,Romance,11.26,2024-03-04
+ce42be8b-64a5-4b6c-804f-d429775f7f1a,48be48f5-8b57-4dad-ac34-a95ad2d0cf85,How to Win Friends and Influence People,Self-help,47.32,2023-12-02
+dfb7f921-4b69-4342-9e21-2120cb8125bf,7ff6632a-9090-45be-be86-64cc2e8c06fd,Foundation,Sci-fi,13.61,2023-10-05
+98dabe94-e77a-40bd-a61d-1484a48552c3,d34950f3-0974-4ee3-94c5-883a3b048cb2,The Haunting of Hill House,Horror,14.66,2023-11-13
+39fae3f9-6cb4-4081-bd4c-c19a27561079,e138e111-1f24-48b4-b404-0f05237cf1e6,Lord of the Flies,Fiction,11.53,2023-11-05
+7837d69a-d637-4f43-a428-3d8fc05db3e9,64a89af2-a04a-46d7-bbef-721f71785dd3,Becoming,Non-fiction,14.68,2023-12-12
+a2607d56-8190-490c-8ed1-994175e2c2c9,ecf96e46-32a3-428d-9ecb-2625730d09f3,Dracula,Horror,7.14,2024-03-24
+8678c021-7c72-4c0b-ba49-5cbe298f2ba5,f544d3e6-2072-4b4a-b940-3c8b911ab1b1,The Hobbit,Fantasy,7.25,2024-01-26
+8e6a588c-b6da-43b5-88ce-b2b6c1cc7c49,87c4262e-1579-4ddf-b06e-f4b1c99a1cb5,Harry Potter and the Sorcerer's Stone,Fantasy,6.02,2023-12-31
+37c2ddf5-1238-4636-a9af-017e8b1fbe9a,4bcbf9ba-a676-4cd8-8a3a-f7a7ce029b59,Neuromancer,Sci-fi,18.51,2024-01-01
+ec8d9346-8763-47e6-b005-e39104c38d47,80101832-9cf2-43e9-bca0-32de230780d5,Babel,Fantasy,27.28,2024-02-22
+20a17108-ac96-4877-b362-96a2a1fe775d,7bb76cf1-f665-44af-b454-f4e760bd3042,Eleanor & Park,Romance,14.85,2024-02-01
+159b3bd9-23b4-4c74-bdf6-f2d921d5c85f,5db96b75-6a9a-4a0f-a5d7-fc434f79ae89,The Exorcist,Horror,14.2,2024-01-26
+b2dd25bc-91d2-4006-a9bd-54f958e0ce5a,62a96b31-af9f-410b-bbcb-3fdccaa0a7a2,Moby-Dick,Fiction,13.68,2024-02-11
+794ea294-ce75-4f85-954d-cc9e9232db59,9de51809-7c51-4fad-b59b-d6241a6d3f2d,The Rosie Project,Romance,7.1,2023-11-25
+a8ababa6-77a4-46d6-8d40-54db7f3c5b4a,c5678b25-0cdf-49ea-977f-050d06570b80,The Catcher in the Rye,Fiction,7.58,2023-12-30
+dab013a6-c4bd-4970-a83f-4b5ddd42033f,62a96b31-af9f-410b-bbcb-3fdccaa0a7a2,The Time Traveler's Wife,Romance,10.43,2023-12-19
+6d7e37f6-3cf8-47a9-8817-4535c1d4fe33,f90702d4-553b-4d5d-8b09-3384eb8ed065,The Woman in White,Mystery,17.88,2023-10-24
+acaf5764-6431-4f4c-a678-d8589b702349,62a96b31-af9f-410b-bbcb-3fdccaa0a7a2,The Stars My Destination,Sci-fi,21.92,2024-01-16
+f21b1105-09ac-49f8-9939-66da25e497a4,a5bf4eb6-6540-4c90-b87e-fd8e9de814f3,The Stars My Destination,Sci-fi,10.0,2023-10-20
+22b47d16-63dc-4a58-95a1-5650989e148f,ee21ff60-83c6-40ea-a1dc-ef8f7895d26f,The Martian Chronicles,Sci-fi,18.38,2024-03-08
+e03614be-4c76-4fca-b9c5-f668d3bf32d7,325692bd-680e-4ae1-99f5-6c1592a5e0bd,The Catcher in the Rye,Fiction,12.68,2023-10-25
+81cfa6b9-bc94-47d2-9a75-f4da40e1b83e,7482ac34-20c6-417b-8c28-bb4b3ea95da5,The Lies of Locke Lamora,Fantasy,9.24,2023-10-05
+87eaffa7-3089-4537-aadc-f044666d7f03,09237dd4-3027-4c36-910f-47a08c3d32ee,Gone Girl,Mystery,24.04,2023-10-11
+47292b11-1d69-41f7-9fef-478e48d1d67b,65f9a399-8501-440b-8999-9ba197028ee3,Unbroken,Non-fiction,47.29,2023-11-05
+ebc8be05-abd0-4c76-92d2-2c35817ef64d,658e27ef-0929-40f5-b93d-1ece033c6c3d,Dracula,Horror,20.41,2024-02-11
+2bd09244-0122-45b7-aa47-2031fc765439,829b39a2-17c5-47a1-a53b-acbe025c9a60,In the Woods,Mystery,15.51,2023-10-30
+ab6e9d65-a93b-48c0-838e-cfdc0d3f23db,8978d713-bbe5-45b9-b29c-c08784122ec1,In the Woods,Mystery,20.51,2023-10-08
+03192097-42c5-4bab-a52a-34591a1b695f,2f6c5e81-fbd5-41d6-a1ab-6701a279812d,Gone Girl,Mystery,16.5,2024-02-18
+544bf4c8-476c-4798-90dc-56fa6c51017f,c10d6efd-a672-4c1a-8610-c074d82f9857,Sapiens,Non-fiction,42.66,2024-02-12
+7d5df201-feeb-445c-805b-b2d690581a45,72486640-a225-40dc-a20c-e530e5e5712e,Pet Sematary,Horror,11.95,2023-12-01
+69e6ae89-6895-4e88-b643-3718e4653a75,92ef3f8d-2d99-4f70-a22b-0049e16ba4d3,The Black Prism,Fantasy,14.11,2024-02-07
+cbb001cd-40f2-4be6-bdb9-81d3969e9f62,1584c107-12f4-4f33-aa38-d514e34854ef,The Black Prism,Fantasy,28.39,2024-03-08
+6f4a8938-2a51-43d6-a630-b03bbd2f6c94,c5678b25-0cdf-49ea-977f-050d06570b80,Me Before You,Romance,18.4,2023-12-10
+bab25882-5184-4a81-8b0b-3fa3af756aff,8ff334a1-9ba8-425f-9b53-614f7128c35a,The Fault in Our Stars,Romance,8.03,2023-12-12
+f13bb8d9-81ae-406a-9e8b-c2b90081562b,36bdf769-c109-46e6-8716-33acdae6bddf,The Silence of the Lambs,Horror,12.83,2023-12-16
+3c855a6b-eed3-4864-8e9e-97b473eaff47,b11a0a9b-baf8-433b-bf49-d3c6d3fda175,The Fellowship of the Ring,Fantasy,25.29,2023-12-08
+66cfe9ab-5a33-4c2d-a10c-ab178926ccc1,a56eb1b0-7e87-436b-9bb6-05f354d89ea3,The Name of the Wind,Fantasy,9.24,2024-03-06
+ea2eb366-9571-4da0-beee-0283416ead54,fd0cc1b9-65e9-48c5-873c-e282eb632373,Sapiens,Non-fiction,16.08,2023-12-21
+b21d439e-2b54-499e-94b6-fea9361cff1c,fdcfad44-a3d0-4fc5-93d4-daf9f3231ddd,The Time Traveler's Wife,Romance,16.99,2023-10-20
+b7e6ce6e-c3e0-4764-892c-be53b7de249e,5b414b5b-751d-4829-97fb-59d995bc8e53,You Are a Badass,Self-help,40.62,2024-01-17
+2c1a87a0-6028-4bda-b3f0-dabc21d6d95d,c5678b25-0cdf-49ea-977f-050d06570b80,The Fault in Our Stars,Romance,16.24,2023-10-01
+2d2baf77-a4a9-429e-a745-0a4b490e25c2,b026fef4-214c-4c57-80f9-db69f55e0b4c,Harry Potter and the Sorcerer's Stone,Fantasy,16.2,2024-01-15
+306834e8-551a-4b5e-b390-308d4ea72cd2,5c4afbc3-bdee-4700-894f-aa1d31f15704,How to Win Friends and Influence People,Self-help,48.88,2023-12-11
+2ecf2978-5c0f-4ce1-9fab-eea7806e73ef,6cf48abe-c347-4452-a282-ef721d749ef6,Babel,Fantasy,29.14,2024-02-18
+205b7397-cd2f-4a30-829c-07f40379aea7,6bb74a20-5969-4c64-b7e1-fe958eff3c3c,The Da Vinci Code,Mystery,23.7,2023-12-13
+17ea79a1-176f-4b4c-92a1-5d59819d164d,8df00f37-e58d-41b2-984b-6f9bde1f79a6,The Power of Habit,Self-help,31.94,2024-02-18
+5be7ef0d-7d12-4da2-a724-8fabe5c296e1,00038b92-945a-4e01-94fc-97f434f1116f,A Game of Thrones,Fantasy,9.33,2023-10-20
+da37ec6d-89b0-454d-9a13-e594d0ef6620,2cd6d405-c14c-4e7c-9a5f-b5df1cbc2860,The Left Hand of Darkness,Sci-fi,19.45,2023-11-19
+ece4d04a-b75f-4be4-9bdf-821ef4a90d64,5f31ff92-ad7a-4f5c-9ca7-ff6745a83af9,Snow Crash,Sci-fi,12.4,2024-03-19
+569a65e9-43f2-441a-90c7-faa5fa7ee2f0,d34950f3-0974-4ee3-94c5-883a3b048cb2,The Martian Chronicles,Sci-fi,15.58,2024-02-17
+8585b12c-a1ae-426a-8d03-dea09f9a834d,da9cf33d-1ec4-41c6-b11d-5f1f6833955f,The Notebook,Romance,6.38,2023-11-29
+853195e8-ffde-4063-981a-77066bc4c797,c07f96ef-86fd-45cc-b549-367f1d8460c3,Frankenstein,Horror,5.73,2023-12-07
+7af28fb3-0c23-4151-8e0b-794365dd996a,1e8f1263-0c7f-4e09-8c24-ff3cfe918701,Outlander,Romance,6.68,2024-03-15
+39c07cea-a9c9-4ad7-88ee-2b9a831cb021,9eaf52c2-2e46-446d-ace7-6e3faeb97d4a,To Kill a Mockingbird,Fiction,11.0,2024-03-19
+fed0f2c0-e925-495c-abfc-8718ad3943d5,c0f99e8c-2194-4fe8-8481-dfe882c13c68,Atomic Habits,Self-help,28.17,2023-11-06
+0d5736c1-c9e1-4fc9-80a8-18a8b72e2c60,df16c22b-93e0-467e-8155-a4a6a19f3fb0,Murder on the Orient Express,Mystery,10.41,2024-03-11
+2a9b6d4e-ecbc-426e-b218-c4d1a6d26fc3,1f16c820-8a62-43a7-bcd9-ed0bc4e2ba26,Frankenstein,Horror,7.24,2023-12-02
+1163113b-d163-4e59-a637-ef86fed2ffed,61230738-1013-4082-863c-dae9474d8567,Born a Crime,Non-fiction,29.63,2023-12-25
+187c5cfc-1f79-4430-9688-9bb0146cf3ca,0326f4e9-35e7-4dcf-ae42-c5a80a8e0ad4,Sharp Objects,Mystery,19.0,2023-11-04
+246278f9-2d1b-4ec9-871e-f472ee5729c9,829b39a2-17c5-47a1-a53b-acbe025c9a60,Hyperion,Sci-fi,21.63,2024-02-28
+52d62ac7-d1cc-4b18-a036-d6926769e6e2,1d854ad6-0166-4c98-84c2-9988686cb37e,Whispers in the Wind,Fiction,5.65,2024-03-09
+5784d05b-d4ca-4775-ba0b-9cf3ee904f34,ab58c618-7847-4db0-bf4b-c8e23176392d,A Game of Thrones,Fantasy,16.03,2024-02-03
+b744eb6d-dacf-494b-a5e1-f6350653c890,681c0355-1f3f-4fcf-9186-1b7e053a7085,You Are a Badass,Self-help,25.77,2024-03-23
+9ce3e4f9-8cae-4e47-ae02-2add778d6955,325692bd-680e-4ae1-99f5-6c1592a5e0bd,How to Win Friends and Influence People,Self-help,16.11,2024-02-16
+c1066793-e21b-46c7-a1ba-05fdeea51b9c,7d7fbcd4-a1ad-4753-b0b8-6e7e1aaad3d1,You Are a Badass,Self-help,47.47,2023-12-24
+604d7286-11ed-477a-b461-9745a2d340f2,e569dc9f-05d5-4646-ae7f-16b4534df06b,The Name of the Wind,Fantasy,6.29,2023-10-30
+a297356e-bcf0-4403-98f0-37c8ad39f349,92ef3f8d-2d99-4f70-a22b-0049e16ba4d3,It,Horror,15.7,2023-10-23
+4f2a2f01-4f14-4ba3-9a57-53a967698d5c,84643be4-b420-4e3d-9849-12fd12a784ba,The Exorcist,Horror,22.86,2023-12-14
+f3e070e7-3c95-4ce9-b49d-f1dfcd151413,d34950f3-0974-4ee3-94c5-883a3b048cb2,Mindset: The New Psychology of Success,Self-help,40.66,2023-11-13
+5935cbe6-a69e-4c85-88ea-69de5449dfb8,83abf39f-0371-4788-b83e-7a3277060ee4,The Immortal Life of Henrietta Lacks,Non-fiction,48.18,2024-03-16
+e18d69c2-db8a-45ba-8c91-06447cf9a6c4,83869f70-8e26-4e2a-9649-79f154db98b1,Atomic Habits,Self-help,36.64,2024-01-11
+464cc598-b729-444d-8fe1-839e6fd7671d,fdcfad44-a3d0-4fc5-93d4-daf9f3231ddd,Murder on the Orient Express,Mystery,22.38,2023-10-30
+4c7e7bc2-48e5-4226-bbbc-5be78fe3cbcd,4c6be7b1-5c95-43d4-b312-cd5f22d26f1a,The Haunting of Hill House,Horror,11.32,2024-01-29
+de5ed8b8-68e4-4fc8-a6a6-9abfa3380d17,5353d141-e46d-45d6-bac3-044e612ecb52,The Immortal Life of Henrietta Lacks,Non-fiction,27.12,2023-12-27
+702165e8-5d71-4aa8-9059-00a0ca6275ae,497ee82f-6a71-4c10-9d6d-ba038f863e9a,The Silence of the Lambs,Horror,17.59,2024-01-07
+6c918ae3-c56c-4996-af67-90cedd40b10c,d0dbdfcc-2030-4045-aded-1af269faa104,The Great Gatsby,Fiction,10.92,2023-10-01
+5126697f-02d0-4260-b089-bbf53b668979,54b14328-5252-4c0d-b94f-6f9377fda555,The Notebook,Romance,11.09,2024-03-01
+560611c1-dc1a-46a0-a905-1607d70eaea2,46f16a70-0bed-49db-bad6-58d68e39aee4,Unbroken,Non-fiction,41.21,2023-10-22
+0c176d26-f34b-462f-888f-6c459c578fb6,df16c22b-93e0-467e-8155-a4a6a19f3fb0,Hyperion,Sci-fi,13.97,2024-02-28
+7fb8891a-9660-463f-84d9-d06434a837f3,01f674be-5289-4018-b67a-b1a9592310cd,The Catcher in the Rye,Fiction,5.15,2024-01-07
+1025ccc3-483e-4a23-bea6-26d4e3d5c664,96a3f6cf-2e02-4396-a614-b41adf001e82,Ender's Game,Sci-fi,6.69,2023-10-30
+99ec6cd7-fa6e-4317-a234-6d5d4aca3df1,84643be4-b420-4e3d-9849-12fd12a784ba,Outlander,Romance,15.56,2024-03-02
+9c3148ee-e9ec-496d-9a4a-a1d7b4b15eda,c42019e0-147f-4aec-b290-40902e4cbf94,Harry Potter and the Sorcerer's Stone,Fantasy,20.7,2023-11-27
+27d22857-5bc3-4d81-a8ea-6e10df35af74,6ee1eb78-24e4-4792-9593-eec7d0538cbd,The Art of Thinking Clearly,Non-fiction,34.69,2023-10-10
+38acfa09-0400-4abc-a39a-5fa624911221,01061e70-a87e-409c-bb39-cf247dad82f2,The Hobbit,Fantasy,5.14,2023-10-25
+7ac38d67-243c-47b8-bce9-d7b27f3cf1b4,e77ee0e0-a807-4c9c-80dd-915a0cb91d0a,The Wright Brothers,Non-fiction,35.09,2024-03-14
+dffe68c9-ac6f-43fa-b09d-7238dcb0b8ae,818e614e-29f0-4485-b788-86712bd0870c,Big Little Lies,Mystery,19.72,2023-10-22
+6dbd62bc-b972-420f-b82d-8b0625a179a9,3edc74b3-eae1-4ebc-bedf-3e7af4c7d840,The Woman in White,Mystery,12.69,2024-03-16
+6d0b4f3b-432c-4f28-a06d-eb39f13ad530,2f6c5e81-fbd5-41d6-a1ab-6701a279812d,The Lost Horizon,Fiction,17.15,2023-12-28
+3b4afb48-e696-4342-91c6-9ca6a70628f5,9ac48bf5-2197-48c9-a361-255fb15ecd47,The Great Gatsby,Fiction,14.03,2023-10-28
+83f81f90-2d55-46d7-98df-c7462549a23c,63e7f8d2-e726-4d03-ab26-8dc879ab2f6a,The Subtle Art of Not Giving a F*ck,Self-help,15.05,2024-03-16
+e48aae2f-041e-4a27-b260-823f10318bd7,5c4afbc3-bdee-4700-894f-aa1d31f15704,Neuromancer,Sci-fi,5.03,2024-03-22
+554a5ad3-8ef0-4c41-b900-9708aff80ce7,571f56ec-c0c9-4d22-aa0f-6949587b061c,The Rosie Project,Romance,7.75,2024-01-25
+2e1a2b87-9085-40fd-a9f0-f123b901286e,8d8894d9-8032-4bc3-830b-7e1ee1f8d838,The Haunting of Hill House,Horror,20.91,2024-01-11
+7491e946-bee8-414e-9967-170d2c086e0a,c4bef3f5-ed88-4632-90e8-fe48f9a9c3a3,Frankenstein,Horror,23.26,2024-03-01
+c51d02cd-c8bb-42c5-be0b-18c59a3adbac,8da65187-f448-4618-a781-2dd2a9316f63,Echoes of the Past,Fiction,12.43,2024-02-09
+2d11354c-dc46-4f71-8745-a25018e62f98,a3ab0fd5-dbfe-48d3-9bae-3721a0bef7aa,Pride and Prejudice,Romance,16.54,2023-11-15
+ebbbe31e-355b-44e4-bb13-2806226c993d,8d8894d9-8032-4bc3-830b-7e1ee1f8d838,Harry Potter and the Sorcerer's Stone,Fantasy,18.16,2024-03-21
+7169b8ea-fb37-4b9e-8511-2ecddf1a3360,84643be4-b420-4e3d-9849-12fd12a784ba,The Catcher in the Rye,Fiction,13.9,2024-02-01
+ba659c69-6943-4db0-a36f-8283918c0ce8,5f31ff92-ad7a-4f5c-9ca7-ff6745a83af9,The Art of Thinking Clearly,Non-fiction,18.36,2024-03-17
+9e4798cf-c9eb-4925-97c1-525854608bd2,4e34a059-a5c1-4e37-9ba4-49424c8199ad,Moby-Dick,Fiction,17.63,2023-11-16
+0bc460af-d669-4b73-8f19-d8fcde6d1b8d,57059244-716e-477f-af88-90200c487d97,The Martian Chronicles,Sci-fi,22.39,2023-11-30
+1c0888f9-6a78-44f0-ac61-92f3d846faf2,11d20a8d-317c-42f5-96eb-7a52c6c2c056,The Blade Itself,Fantasy,22.09,2023-11-07
+51e20c09-e98c-4615-80de-d1d2781c699f,641d006e-e69f-4bae-a066-e8b557c66976,Dune,Sci-fi,24.97,2023-12-21
+7ed6f4dd-229a-4bdb-b616-e21ec4deb968,575c0b23-d29b-4363-9648-abdf7c8d3488,You Are a Badass,Self-help,40.62,2023-12-20
+5840dc29-50d0-48ae-8e16-3ee29d5b5c5f,8b136f49-6981-4cae-9645-e915b115909e,The 7 Habits of Highly Effective People,Self-help,36.1,2023-12-19
+601117e5-748f-407e-9687-c88bed74ea9a,8df00f37-e58d-41b2-984b-6f9bde1f79a6,How to Win Friends and Influence People,Self-help,42.96,2023-11-21
+cb464745-d277-49b5-a43e-a89b9fffed54,f8dd2b14-441d-4aba-b47c-0a1b6dd76398,The Name of the Wind,Fantasy,26.53,2024-01-16
+38271a0b-d1b1-449a-b06c-f479f02c4e04,7bb76cf1-f665-44af-b454-f4e760bd3042,The Lost Horizon,Fiction,12.43,2023-11-03
+b5df29b1-6d22-4733-a5fb-ecf4d8d82cd9,2f6c5e81-fbd5-41d6-a1ab-6701a279812d,Frankenstein,Horror,24.83,2024-02-26
+75d086f4-4e3c-409e-b78b-628bb2dea9cf,125a5882-bea2-4e77-a810-4a16e7595c5e,1984,Fiction,17.42,2023-11-24
+db1c70b7-b68a-4962-ae34-6e0342f685c0,3b044950-bd49-4bf6-89bb-115ca07f8f13,The Silence of the Lambs,Horror,16.34,2024-02-03
+8494f466-a449-4762-bfff-887ba5bad63c,332887de-739b-4674-a8eb-dea83c81665d,Pride and Prejudice,Romance,11.1,2024-02-15
+77cdfe98-b861-4bc6-8494-ffa8f58fac57,d6ca7484-26fb-4d94-acf1-d09f08344c4e,Snow Crash,Sci-fi,16.53,2023-11-29
+59e2a55f-acfa-42ae-9641-47ef464ffbde,1f16c820-8a62-43a7-bcd9-ed0bc4e2ba26,Born a Crime,Non-fiction,23.1,2024-02-09
+721d264b-4b1d-4072-b0d1-69eae176d7b5,888465da-ed1d-429c-9b97-961f33f1a113,Mindset: The New Psychology of Success,Self-help,22.9,2024-02-04
+4db6b8eb-3de9-42b8-b43e-1a82b4f224a3,6a82e770-30c2-4948-8311-2cd82c6a3e38,Dune,Sci-fi,5.33,2023-12-12
+18da8946-085d-4c56-921d-aab840323f82,0ef60bc0-86f2-4f90-aa95-01a2cf778a76,The Art of Thinking Clearly,Non-fiction,47.39,2024-02-19
+28599bf5-39d4-490a-b6f6-6efeb10cd855,c07f96ef-86fd-45cc-b549-367f1d8460c3,The Catcher in the Rye,Fiction,12.48,2023-12-25
+528bb0ae-5ce8-4659-8f73-71d49440053d,6a82e770-30c2-4948-8311-2cd82c6a3e38,The Haunting of Hill House,Horror,6.29,2024-03-06
+d7958730-23ac-4736-ae10-4b4e9e02c86c,130f87ff-342a-4a10-92ee-e6e0ef47cc66,Big Little Lies,Mystery,17.9,2023-11-16
+b911c8b3-082e-4645-836d-d2f52d3ce17a,678a24b6-1c49-49eb-b81a-7c922b85b5ed,Outlander,Romance,16.86,2024-02-21
+65695045-65ec-4fcb-9bbc-72e0860debc1,2c6c4238-4e77-43a5-b69c-540bbb012c7c,The Lost Horizon,Fiction,5.19,2024-01-29
+39f59937-de72-49aa-8251-2a3677d69d13,8df00f37-e58d-41b2-984b-6f9bde1f79a6,Hyperion,Sci-fi,13.77,2024-03-19
+549d7f9f-1be0-4b25-91f2-ed26fe5b7261,1e0564ad-2ffa-463e-82f8-1f4522a7336b,"Thinking, Fast and Slow",Non-fiction,35.72,2024-03-22
+baaa605c-858d-4994-9edc-ee3c950fddaa,33109cdf-edf9-4218-9eef-700dd1b19bda,Big Little Lies,Mystery,18.76,2024-01-04
+51937606-7bea-4021-9823-e4fd2f793d55,df16c22b-93e0-467e-8155-a4a6a19f3fb0,It,Horror,12.94,2024-02-16
+68c82b10-179f-4112-8296-84317a502b1c,28f30e1a-be09-43dd-8e28-a9a96b21426d,The Time Traveler's Wife,Romance,16.03,2023-12-15
+d582a872-1f6e-4ba0-a390-4c2392045061,e21335f3-4004-4cbc-b61d-415d71dd9dc0,Pride and Prejudice,Romance,18.69,2023-12-02
+b3df7c5f-8ec0-43d2-865a-6c7d23bde976,01d5f641-ca81-4212-ba49-c53d88233d1c,The Fault in Our Stars,Romance,18.6,2024-03-14
+86162a91-f9c2-485d-aabe-00069406b47c,11d20a8d-317c-42f5-96eb-7a52c6c2c056,Born a Crime,Non-fiction,42.72,2024-02-29
+ed6e724f-3452-4a9d-b235-25a4abba3d72,ede1f02d-5a51-41a2-8ea6-8e1265f7656f,Bird Box,Horror,15.57,2024-03-23
+07740b86-fce1-46bb-aa47-2510c5be9693,9de51809-7c51-4fad-b59b-d6241a6d3f2d,Dune,Sci-fi,9.03,2024-03-13
+29f82d6c-074f-45df-ac08-cfa8f9b9dc75,36bdf769-c109-46e6-8716-33acdae6bddf,The Subtle Art of Not Giving a F*ck,Self-help,25.89,2023-11-07
+177ee697-74db-4ddb-8106-b3d36e541e51,298973a0-5c50-46cd-8cf9-3fc97644d18e,"Thinking, Fast and Slow",Non-fiction,13.92,2023-10-09
+3c4e5df4-4dfc-4fc7-bc28-dd216fa53ce8,87c4262e-1579-4ddf-b06e-f4b1c99a1cb5,A Game of Thrones,Fantasy,20.61,2023-10-10
+401023f6-4092-4ef3-abba-e8c2d54180f5,7348b8a1-ceb8-4b09-b2d1-34d8dc04c278,The Time Traveler's Wife,Romance,8.24,2024-03-08
+c84da337-179c-4d5d-8315-95ea3f373566,332887de-739b-4674-a8eb-dea83c81665d,The Catcher in the Rye,Fiction,7.6,2023-11-08
+dfc5133f-645a-4bb7-9467-5611300de5ce,f8dd2b14-441d-4aba-b47c-0a1b6dd76398,Echoes of the Past,Fiction,17.58,2023-12-24
+4a7967ad-6818-4d0b-ae40-cddccfd1f7dc,48be48f5-8b57-4dad-ac34-a95ad2d0cf85,Hyperion,Sci-fi,7.1,2024-03-08
+8aa8d879-e527-4a7f-8f46-a0a623061b3b,678a24b6-1c49-49eb-b81a-7c922b85b5ed,Hyperion,Sci-fi,18.88,2024-01-28
+c0df31a0-df7a-4198-8690-2ae1806012f1,9012aacd-7746-45b1-80b0-e6b671452b77,The Power of Habit,Self-help,38.32,2024-01-11
+276ce4e4-1a14-446b-b803-cb2257376bc6,5426d35e-733c-4f16-8764-cb1aa50a4e7e,Dune,Sci-fi,14.01,2023-12-10
+3d3021c7-a434-4bb6-bc6e-0321f87f1a73,506dadc4-3e4d-40e9-9f16-37978e6a76cc,Frankenstein,Horror,10.02,2023-12-04
+a6125aea-43ee-47a0-99ea-9d2bb03a9dbb,a4de3774-9003-4ad7-9d6f-ba77ef0f0926,A Game of Thrones,Fantasy,21.57,2024-01-18
+98cfaf0a-1a5f-4bb8-b4b2-938ff03e461c,81519612-595d-4726-ad0b-5304918706ad,Gone Girl,Mystery,6.73,2024-02-01
+018e4675-2da0-4859-8419-9547357fcbb8,498d0cec-f08b-4d7c-b36d-ef038dff029a,The Lost Horizon,Fiction,18.86,2024-02-20
+b434458e-d323-44cf-bb59-2516c7b6dec9,ceaf6e6b-c413-4f6c-be34-93b2fc624611,Sharp Objects,Mystery,21.78,2024-03-09
+4c198f9b-7d2a-4220-bcc4-2c1b3ac39d4b,e15f44dc-0ba0-4839-9579-c2695d3fc542,Grit: The Power of Passion and Perseverance,Self-help,17.71,2024-03-07
+48f6f30a-832f-43b5-8860-a7e0e8b70763,a3ab0fd5-dbfe-48d3-9bae-3721a0bef7aa,The Da Vinci Code,Mystery,21.13,2024-03-07
+2503b930-47fc-4b80-b18a-c024a0396558,5a8f18e2-db0d-4ac2-b4da-0589d6215a65,Foundation,Sci-fi,20.84,2024-02-18
+0ed9e138-e062-45f9-bbc1-580cd273947a,5025a898-11f3-4a70-9ebd-1329b4daa017,Whispers in the Wind,Fiction,17.45,2023-12-24
+aea3a09c-4f6a-4786-bcea-572244165fc3,0a4a1160-ddc5-4abf-ae23-b0941bf31ea4,Snow Crash,Sci-fi,23.57,2023-12-21
+4e8b0a5f-1aec-469f-aebd-50e69e1d34b2,96a3f6cf-2e02-4396-a614-b41adf001e82,The Rosie Project,Romance,8.04,2024-02-01
+9484b88c-f0d1-460d-9694-8657e483d0d9,c022b212-cd27-44db-9dd2-4fb94b4398ec,1984,Fiction,18.38,2023-12-28
+03b26f43-3c39-483d-84d4-dac5d4f67c61,b1fe4d08-4c52-4a9b-8b79-cecf68956564,Snow Crash,Sci-fi,5.59,2024-02-12
+d1694f72-e7e2-4069-9641-01ebb08c557f,cb252bdc-7055-41cc-a231-843d838f90bf,The Wright Brothers,Non-fiction,46.5,2023-10-09
+a903a18f-4ac4-4752-bf7f-bacc1b6296fa,849f5201-b99f-4d1d-80ac-03d9b25f1254,The Girl with the Dragon Tattoo,Mystery,16.54,2024-02-18
+0f320970-9e03-424c-accc-1235c87f1622,678a24b6-1c49-49eb-b81a-7c922b85b5ed,The Rosie Project,Romance,9.71,2023-11-06
+10f3e05f-6124-4996-b65b-85cc4faa6c4f,1e8f1263-0c7f-4e09-8c24-ff3cfe918701,The Time Traveler's Wife,Romance,14.7,2023-11-14
+11ced4b1-6e46-4ab7-b395-707e275ab667,8c090b5d-8f82-48d2-a40f-2731ec7bc7c4,Grit: The Power of Passion and Perseverance,Self-help,19.72,2023-12-12
+d8ece030-553c-443c-8635-ceff94f27094,8da91d05-a731-440a-a1ad-51e641ccfb62,Atomic Habits,Self-help,31.77,2023-10-23
+c43817c3-f21d-4f76-b615-6076b3d84a1d,d96b3497-db8b-4f2c-8772-905f745332af,Atomic Habits,Self-help,29.92,2024-02-03
+269d6d99-943c-4a51-ac47-991033c99e2a,9fdd2f8c-77b9-4536-9eb4-c7a658bda51b,Brave New World,Fiction,18.73,2024-01-28
+4baced67-a90f-477b-88a5-2ff26cf783b1,7226484b-d88b-4c5f-a563-070890be60f3,The Great Gatsby,Fiction,13.57,2023-12-09
+1310556c-e00b-4fdb-89af-68b62f596ce0,49a7330b-acad-4de1-bec9-e28a5c946bc5,Born a Crime,Non-fiction,22.46,2023-12-13
+8483932d-9da4-4f54-a4b8-0eb0bba01a98,b9f9a2c7-7195-4e44-bc5c-b53ae04e9ead,Big Little Lies,Mystery,23.88,2023-11-19
+c8744537-505d-4467-b0a4-1cca42c04f83,dbaebec5-ee53-4f7c-8f3c-8ba230b4b617,The Fault in Our Stars,Romance,13.88,2023-10-07
+f7733903-f365-4dcf-afce-ecd1f2b71436,2c6c4238-4e77-43a5-b69c-540bbb012c7c,The Haunting of Hill House,Horror,5.82,2024-03-28
+f4906e14-4df2-4a4c-8436-a9cca2563e6b,4fb83c56-5b2a-4adf-921a-a1e6b5567ce9,World War Z,Horror,13.46,2023-10-23
+2fab1b3f-5019-473d-923b-791f7b37b3f5,a3ab0fd5-dbfe-48d3-9bae-3721a0bef7aa,Murder on the Orient Express,Mystery,21.82,2023-11-01
+c911602a-ae86-4064-82ab-df88fdb238e9,361f27c8-bdef-4fa1-bea0-c16fbdf66402,Dracula,Horror,12.75,2024-03-26
+ff2c38d8-27ec-4191-a08b-9bbe19647906,3f65be3a-e0cc-4a8d-b5c4-e0f2701c0447,Snow Crash,Sci-fi,19.96,2024-03-21
+fdd8abaf-79af-4072-838f-d764cec56ab2,f7b71122-daa8-4f72-bb71-36bf4e12bae0,To Kill a Mockingbird,Fiction,13.48,2024-01-21
+cea01f1a-35e9-4b84-a93c-bd596e467c0a,719f26e2-810d-4279-b22f-90fd9c0cc1c7,The Lies of Locke Lamora,Fantasy,24.8,2024-02-08
+78b53e43-9c80-4099-91ac-a02860c5f66b,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,Brave New World,Fiction,5.44,2023-11-28
+01f8d654-6fcb-49be-bdd4-bcd22c829c3f,f6dee415-b304-4444-9ecd-6586f4d9260c,Pet Sematary,Horror,10.73,2023-11-12
+421e933f-d118-4bf0-9528-8063080cef2b,0496f66c-50cf-42fe-ae7a-fb111e1c3c1d,Into the Wild,Non-fiction,32.73,2023-10-21
+69141c03-dfc5-48d6-82d0-51be377a34db,1a4dfbda-dda5-43fb-a128-8de7779722d5,The Lies of Locke Lamora,Fantasy,5.67,2023-12-01
+dc817a7c-038e-42e6-b274-925649c66c9b,11b43e38-ddf3-4ee5-b969-d8fde1d1bf81,The Haunting of Hill House,Horror,5.04,2023-11-12
+19a275f9-74f3-419a-b416-bf20c62d8aa2,e6f912d3-13c5-4051-8e18-4a0ae0f03671,The Da Vinci Code,Mystery,24.63,2024-02-08
+276efc43-44b3-4748-81d8-5d7dadd8762e,01f674be-5289-4018-b67a-b1a9592310cd,Unbroken,Non-fiction,36.85,2024-01-03
+3477c9aa-2e22-4932-b84c-c94b7723f5c7,30557e32-56ec-4254-9dee-f155bcab1f82,Sapiens,Non-fiction,44.59,2024-03-05
+1782e6b6-b242-4a56-93b5-10595b7342ac,ceaf6e6b-c413-4f6c-be34-93b2fc624611,The Power of Habit,Self-help,41.57,2024-02-23
+3f234862-9a3b-42ba-903e-3c2d25cae2e6,8da65187-f448-4618-a781-2dd2a9316f63,Atomic Habits,Self-help,33.46,2023-11-23
+8b87b23d-45f5-4956-90dd-fc2f26c62c41,11aeaabd-fcdd-4344-94c2-20179bd4cd66,Jane Eyre,Romance,8.04,2023-12-07
+99eb13c6-70a9-4996-966a-e39df3506b09,4e34a059-a5c1-4e37-9ba4-49424c8199ad,The Great Gatsby,Fiction,14.35,2023-12-24
+6b97474d-0d65-43c6-93c4-ec6a88d1c16e,00038b92-945a-4e01-94fc-97f434f1116f,Jane Eyre,Romance,14.03,2023-11-28
+38415c79-d1f4-46d3-9576-c72189580ca4,ceaf6e6b-c413-4f6c-be34-93b2fc624611,The Hobbit,Fantasy,27.88,2023-11-20
+f6cfbacc-9c47-433e-b412-25d177457eb1,2c6c4238-4e77-43a5-b69c-540bbb012c7c,The Wright Brothers,Non-fiction,26.81,2023-10-26
+f2885a40-d6f0-4b50-9689-bc4433f4437f,f7b71122-daa8-4f72-bb71-36bf4e12bae0,Becoming,Non-fiction,46.84,2024-03-03
+d68c178b-fee8-4a96-ae63-41e3fa96f34e,61167ab4-71d0-4784-a2a1-64dc113945b7,The Hobbit,Fantasy,10.13,2024-01-01
+ce73f024-ac8e-45af-b66b-494bfc3514bb,e138e111-1f24-48b4-b404-0f05237cf1e6,Dune,Sci-fi,19.01,2024-03-11
+d0d167da-8809-4256-a2ff-f7413539f20b,ee2df4a4-71e7-4168-be50-9e9defe550ee,Becoming,Non-fiction,17.71,2024-01-28
+64ba3994-f1f2-4870-873f-5063c9aabc1e,03f9f07f-1da3-4e95-8849-9d452c0d2c7f,Hyperion,Sci-fi,9.63,2023-10-13
+d7e29937-95de-4644-91bd-f60d8980e2d6,d6ca7484-26fb-4d94-acf1-d09f08344c4e,Unbroken,Non-fiction,19.1,2023-10-08
+8476eab0-b339-438c-972b-c623d0a87ee7,f9e90ab2-d0cf-4fc0-8396-2129f53ecb75,Harry Potter and the Sorcerer's Stone,Fantasy,25.07,2024-01-21
+a8ac1124-07d6-4521-859d-3c9df244887f,aee57bbf-6bd7-4a1b-9eb7-64141b1afbb2,Grit: The Power of Passion and Perseverance,Self-help,19.61,2023-11-04
+a670b57e-78d0-4d2e-bd01-a194f958aaad,ecf96e46-32a3-428d-9ecb-2625730d09f3,The Fault in Our Stars,Romance,16.35,2024-01-17
+3d29be46-50ea-455b-83a9-af70dcfff848,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,To Kill a Mockingbird,Fiction,6.2,2024-02-15
+17bb6ccc-0561-4ae9-b822-8e6914d23682,5353d141-e46d-45d6-bac3-044e612ecb52,The Silence of the Lambs,Mystery,17.28,2024-03-06
+bd330fb2-160d-4fb1-887d-1f325361f700,661f4d43-8450-4b99-8447-f1ad263a083b,The Sword of Kaigen,Fantasy,21.35,2023-11-26
+14d49da3-835d-4628-b502-b11c1ef04ae1,f6dee415-b304-4444-9ecd-6586f4d9260c,Ender's Game,Sci-fi,15.98,2023-12-08
+5ab8e722-247c-4c25-b148-5c57f5662b02,bb724285-9f82-47ad-a193-ecc9acf0177e,How to Win Friends and Influence People,Self-help,15.01,2023-12-02
+1a5ac3bc-4d0c-4b7a-8fb6-8df9c9fb166e,1e8f1263-0c7f-4e09-8c24-ff3cfe918701,Hyperion,Sci-fi,23.82,2023-12-14
+20668a02-b846-4013-ab09-7cf28d665c13,e15f44dc-0ba0-4839-9579-c2695d3fc542,The Da Vinci Code,Mystery,6.8,2023-12-09
+f0571c1a-318b-42cb-8ccd-127136e28c8f,1d854ad6-0166-4c98-84c2-9988686cb37e,Ender's Game,Sci-fi,10.77,2023-10-16
+32584359-1712-480b-8640-bb4fda94dfdd,30557e32-56ec-4254-9dee-f155bcab1f82,Lord of the Flies,Fiction,7.07,2024-02-16
+97b253f0-823c-44d5-ae7b-a997fa1eb706,e65376fe-a51a-4e3f-bf2e-b62e8f83b017,The Wright Brothers,Non-fiction,37.37,2024-01-11
+9cf0b117-ab23-4f0a-9d3a-d9a34650f46d,0f7fa400-0e06-4bcc-b1db-8f3b5fd37fb9,Educated,Non-fiction,33.73,2023-11-06
+485d02a4-739b-49bb-8758-f9e837105f3b,2fd419b8-42ea-464f-a4e8-96083fa77c55,The Sword of Kaigen,Fantasy,27.13,2024-02-24
+beebbec0-7168-4ced-81c3-a335d3c7ae6a,1f16c820-8a62-43a7-bcd9-ed0bc4e2ba26,The Fellowship of the Ring,Fantasy,7.02,2024-03-10
+5efcc1eb-fd71-4050-950c-fa1820e116e0,5b414b5b-751d-4829-97fb-59d995bc8e53,The Great Gatsby,Fiction,6.76,2023-10-03
+bc513a40-df45-470f-b381-c216ee111e72,7348b8a1-ceb8-4b09-b2d1-34d8dc04c278,The Martian Chronicles,Sci-fi,20.91,2024-01-08
+05436649-95d7-411f-bf58-9dc8331d5926,361f27c8-bdef-4fa1-bea0-c16fbdf66402,Eleanor & Park,Romance,8.3,2024-01-31
+96d8fd4f-d42a-4aa4-9bbc-ae4d14cd1008,7a976995-d312-4e16-8721-a7062a6bbf85,Wuthering Heights,Romance,18.53,2023-10-16
+748d12d3-8af0-4852-985d-629aba66b4cf,4e331449-832a-453d-8842-ece412af7207,Jane Eyre,Romance,10.33,2024-01-26
+5a9bb555-35df-4036-bdb0-2c9560f5a38f,28f30e1a-be09-43dd-8e28-a9a96b21426d,A Game of Thrones,Fantasy,20.32,2023-12-03
+6dd42942-cfed-487d-a539-03a7745429ff,7d7a06f8-b623-48a3-a398-3d2e0866fc65,Educated,Non-fiction,39.2,2024-01-04
+eb6e7bca-23c3-4de0-b212-6ba68a959be4,a4f70393-5187-4185-8815-7a92cfe7c750,Snow Crash,Sci-fi,10.0,2023-12-29
+bde9be10-e969-43df-8b18-de9aec1fc527,067dfee5-4618-4fb8-ac7d-a18f323cfc94,"Thinking, Fast and Slow",Non-fiction,13.51,2023-10-14
+621d2c83-9135-42a4-897f-b586f75015a6,5a8f18e2-db0d-4ac2-b4da-0589d6215a65,Big Little Lies,Mystery,7.91,2023-11-22
+05baebbf-408b-4a69-a218-9a560f3ed901,067dfee5-4618-4fb8-ac7d-a18f323cfc94,The 7 Habits of Highly Effective People,Self-help,29.23,2024-02-01
+04ab0b94-a246-42da-bede-8ebda5017c48,62a96b31-af9f-410b-bbcb-3fdccaa0a7a2,Gone Girl,Mystery,24.31,2023-11-28
+b4571209-4e63-4076-bc5b-c1c5baa62d4a,ab9033df-6265-4a74-91c7-76bf382cf696,The Da Vinci Code,Mystery,23.82,2024-03-04
+22e35028-dd07-4366-b9ff-80123e2e8d59,84643be4-b420-4e3d-9849-12fd12a784ba,Born a Crime,Non-fiction,21.15,2023-11-13
+7a553e86-a261-49a6-8fb0-0aaf0c20bb32,e383a88d-6eaa-49e0-ba71-55831199a138,Pride and Prejudice,Romance,14.11,2023-12-16
+a9522ec9-6cc7-470b-9ca4-b4306495f3c9,d34950f3-0974-4ee3-94c5-883a3b048cb2,Brave New World,Fiction,15.59,2023-10-23
+8a0e6a14-60f6-4701-a4c8-5520412cb8ea,b11a0a9b-baf8-433b-bf49-d3c6d3fda175,The Woman in White,Mystery,17.68,2024-02-10
+f939bf8b-250e-437c-9faf-14e4658b2bb9,7226484b-d88b-4c5f-a563-070890be60f3,Into the Wild,Non-fiction,30.9,2024-02-11
+2170aa41-954f-4801-b042-a00808dbb5e4,77b4e6bf-1764-4127-8005-03fce0ddb238,Born a Crime,Non-fiction,23.5,2024-03-19
+46ee20d2-3fec-4ef0-97a5-d57609b97ee8,0f7fa400-0e06-4bcc-b1db-8f3b5fd37fb9,You Are a Badass,Self-help,40.56,2024-03-23
+8c3cba6c-32cb-4aef-b3d7-e4d786d26acc,72486640-a225-40dc-a20c-e530e5e5712e,Eleanor & Park,Romance,5.07,2024-02-14
+2a1d2ca3-278f-4c74-8927-a027f6131771,bc1bf8c5-4411-4c77-a016-8d0c9d134e0a,The Girl with the Dragon Tattoo,Mystery,15.83,2023-10-02
+774f9488-6d73-4243-804c-78408280174d,77b4e6bf-1764-4127-8005-03fce0ddb238,The Martian Chronicles,Sci-fi,14.96,2024-03-07
+d7cb3776-51d7-4aa0-adea-d802e5db64b1,80101832-9cf2-43e9-bca0-32de230780d5,Pet Sematary,Horror,17.34,2024-01-03
+a6637d1a-f969-406d-b8ea-5ca98c9f1020,aaa8ac68-1c77-4d0c-937d-605f9af93d54,Murder on the Orient Express,Mystery,14.82,2023-12-09
+0ec24028-03ba-43b1-b1aa-b83d37d514f0,681c0355-1f3f-4fcf-9186-1b7e053a7085,The Woman in White,Mystery,18.65,2023-11-11
+593f63a0-c09b-457a-99a5-e625ec4729f0,8a788117-7692-435c-ac41-a16c5f46296a,Sapiens,Non-fiction,14.62,2024-02-14
+9419f642-d28b-46cb-a276-e147ed2399d7,f7b71122-daa8-4f72-bb71-36bf4e12bae0,Mindset: The New Psychology of Success,Self-help,36.83,2024-01-15
+62088e96-d6fe-4a1b-9453-0aa17ad48b63,ee21ff60-83c6-40ea-a1dc-ef8f7895d26f,Hyperion,Sci-fi,24.94,2023-10-16
+2e5c41b5-3d91-46e4-94a0-42c08e0b2aa7,0b9c6d33-4234-4500-be6c-cd41fad67236,The Hound of the Baskervilles,Mystery,13.6,2024-03-26
+b061b758-08b9-43cb-839f-683665a7eca2,09fa2046-8ae1-4e22-a71f-469194194f4a,Educated,Non-fiction,19.32,2023-12-31
+37094c4b-0274-4bc6-8022-01c40bff56b6,12efbd83-7bff-4843-aace-fe33e219c7b3,Dracula,Horror,17.02,2023-11-15
+b5536f16-9ea7-4de1-bcbe-289f5c4e23fb,e6f912d3-13c5-4051-8e18-4a0ae0f03671,To Kill a Mockingbird,Fiction,5.21,2023-11-28
+12df45be-bf65-4cf4-8f64-be6db9761e5f,f7251c6f-88f5-4988-81e0-f0881c9a796f,Sharp Objects,Mystery,18.22,2023-10-21
+b0d74bb7-4491-4178-bb90-cae5b9e50f61,f3172b3f-85e1-42d6-8907-7f06ce09b5f9,A Game of Thrones,Fantasy,25.82,2024-01-08
+80379bfb-2dfc-4894-a7d4-355573c2ae03,4c06d0e8-8c38-455d-8472-cdd459723438,Hyperion,Sci-fi,22.54,2023-12-31
+5b1c243a-0913-4350-b3e2-9159a5b41c29,8f19ae49-01ee-4e9b-9649-839f839db735,Unbroken,Non-fiction,22.08,2024-03-09
+4ef3aa87-6f6c-421f-b9dd-e46526ea5cab,f68cf5f1-d060-48b1-9d9a-e182330318e8,Mindset: The New Psychology of Success,Self-help,38.23,2024-03-09
+c8496837-da1e-4eb8-875a-6fa17958b04f,b026fef4-214c-4c57-80f9-db69f55e0b4c,The Shining,Horror,13.97,2023-12-23
+8d336e34-4fdf-4363-91d3-5d58675e371c,4fb83c56-5b2a-4adf-921a-a1e6b5567ce9,Atomic Habits,Self-help,41.82,2024-01-12
+5ecb486f-1bc9-4e6e-a10d-24011a857878,f544d3e6-2072-4b4a-b940-3c8b911ab1b1,The Happiness Project,Self-help,32.81,2023-11-04
+81f60e08-a65b-4235-9070-906f5827c3ae,414e0912-f06f-4451-9205-9117102ee7b9,Snow Crash,Sci-fi,22.45,2023-10-03
+e8bc6ff6-4946-4e16-916b-a201216bb6ff,d34950f3-0974-4ee3-94c5-883a3b048cb2,Hyperion,Sci-fi,13.27,2023-10-06
+5bd0f653-8c2d-4169-933e-95e45a8bf2ec,c4bef3f5-ed88-4632-90e8-fe48f9a9c3a3,Unbroken,Non-fiction,48.62,2024-01-02
+b551e486-6cfb-47f2-830b-9d1f3bb0c3e9,e6f912d3-13c5-4051-8e18-4a0ae0f03671,Me Before You,Romance,9.36,2023-11-26
+0bbfaac2-bc6b-4ffc-bd99-b918599b4f27,eba6ea99-ad21-44e8-bf3c-8d5ff441a9d0,It,Horror,19.57,2023-12-06
+87b6e32f-8bf2-4dbc-ab68-c92af748b764,d6ca7484-26fb-4d94-acf1-d09f08344c4e,The 7 Habits of Highly Effective People,Self-help,23.92,2024-01-11
+da3ecec2-082d-448f-8c9b-1e0285eb5ebe,1e0564ad-2ffa-463e-82f8-1f4522a7336b,Into the Wild,Non-fiction,26.28,2024-03-25
+6429bc01-4b5f-4301-9998-baf6c4da0d96,c815ca3b-968c-4b16-b55d-f100162ab7c6,Altered Carbon,Sci-fi,16.99,2024-02-21
+f11527c3-5db3-4c94-b9f5-d7d469723f3d,facc5e58-9fe4-4fff-b48e-5a5a1f81d1a7,Frankenstein,Horror,8.11,2023-10-10
+8fdbc361-007f-487a-a206-17927ab13ff6,ca001c2d-4c07-4d06-a4c2-26ce9045fc4b,Me Before You,Romance,14.95,2024-03-23
+7ac43835-a609-41a7-96c1-07c508266e65,684f5c47-d1e3-4394-bfad-aa8ea2a644db,The Time Traveler's Wife,Romance,19.84,2024-01-21
+fa3e9ed0-41a4-4749-a920-a54f880702af,9ddb1f43-fbde-4156-95e1-fc41cd172c26,The Rosie Project,Romance,13.53,2024-02-28
+d7c8081a-4cc9-43f0-858c-62c5b1077059,1584c107-12f4-4f33-aa38-d514e34854ef,The Notebook,Romance,16.01,2023-10-27
+a9e7e97e-4975-4d75-80c5-7402502ee58f,46f16a70-0bed-49db-bad6-58d68e39aee4,The Sword of Kaigen,Fantasy,26.82,2023-11-13
+98f05cce-5af4-4d11-80fc-877b9ef8a7eb,0a4a1160-ddc5-4abf-ae23-b0941bf31ea4,The Exorcist,Horror,15.59,2024-02-02
+1951ee6c-eea9-4552-95b9-095b663d2b55,e138e111-1f24-48b4-b404-0f05237cf1e6,In the Woods,Mystery,14.98,2023-11-06
+f21cfe21-d471-4f10-98a0-d8fc5f9c7883,fad25e7b-269e-42f7-86cd-19df6c7a30f5,Grit: The Power of Passion and Perseverance,Self-help,28.43,2023-10-04
+8add67f0-68ee-4daa-a87f-6cc86ff7eca6,81d1ca44-a9bd-4db8-a100-151dacc2a88a,Gone Girl,Mystery,22.87,2024-02-06
+6d03ecf7-c42e-4c8c-b579-2bb1cf6e788b,353d8e08-4df8-4c2f-92be-07040e4a8d69,The Lost Horizon,Fiction,16.18,2024-01-31
+d50159d9-87cc-47b1-94f3-834bff13d59c,e383a88d-6eaa-49e0-ba71-55831199a138,Pet Sematary,Horror,9.92,2023-11-02
+3da6ed75-b191-4aae-aacb-cc5b8f16c50a,a71d3fcc-6b03-446b-9515-8de0f74aa628,Gone Girl,Mystery,6.87,2024-03-24
+44bafb2f-28c8-4331-a5da-a0bfcfe68f25,96de62ee-4a63-4d63-8cc7-e7e5f2424795,The Great Gatsby,Fiction,10.47,2024-02-29
+6ccc6342-039a-43d2-ad2c-4cb245cb7db3,3b044950-bd49-4bf6-89bb-115ca07f8f13,1984,Fiction,19.04,2023-12-02
+030c9964-2677-442f-8e67-cac057a44917,74f1ca60-f48f-49f1-9524-a85bce3185ae,Becoming,Non-fiction,33.11,2023-10-15
+27a68842-a50a-4521-82c7-4d637327fb3a,bc1bf8c5-4411-4c77-a016-8d0c9d134e0a,The Great Gatsby,Fiction,11.02,2023-12-15
+8026e270-1e78-4b5f-b461-95c13649d4e2,39ab4b3f-c8cd-4728-895f-6d4eda8c5a5c,The Catcher in the Rye,Fiction,5.28,2024-03-05
+a17a8630-43e1-4758-8e6b-1858b9040153,e77ee0e0-a807-4c9c-80dd-915a0cb91d0a,Big Little Lies,Mystery,24.24,2023-10-18
+3be01614-62c3-43e0-81dc-5c5cd1fa7fa8,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,Altered Carbon,Sci-fi,7.31,2024-01-01
+71ad4c32-e8f2-444f-bf9e-c4ff55218f76,0342bf6c-6f57-4e48-9155-c591b7e054f8,Echoes of the Past,Fiction,12.03,2024-01-16
+be5c238d-9fe5-4c80-bfef-f8fe7981edf3,80101832-9cf2-43e9-bca0-32de230780d5,Frankenstein,Horror,15.89,2024-03-09
+daeaf857-b121-4262-b3ee-0097d45ebb2b,7af65c4f-f66b-49c0-9d86-6e30299b9139,The Happiness Project,Self-help,29.57,2023-10-11
+4d6fefc3-d343-4f2c-b311-53e3759c61fd,eba6ea99-ad21-44e8-bf3c-8d5ff441a9d0,Eleanor & Park,Romance,14.51,2023-11-20
+caa9cb7e-9d48-4778-b122-56f827c9f658,16fd4e19-ff57-4776-86f9-07c0fc1f10ec,The Da Vinci Code,Mystery,6.32,2024-03-29
+134adb87-1c75-4e33-8bb5-441d516bbcde,7226484b-d88b-4c5f-a563-070890be60f3,"Thinking, Fast and Slow",Non-fiction,26.83,2023-11-01
+b9f26bdb-95a8-4826-a226-62ee77a4962d,7d7a06f8-b623-48a3-a398-3d2e0866fc65,Neuromancer,Sci-fi,12.79,2024-03-30
+50c7b0d8-774d-4110-9822-7b1f8a96289f,130f87ff-342a-4a10-92ee-e6e0ef47cc66,Babel,Fantasy,6.94,2024-01-18
+be4c76e2-0e43-427c-83cb-256b7d1b6875,9ea97ca5-b0cd-49c9-ae9d-1d12f3283a6d,The Silence of the Lambs,Mystery,9.12,2023-12-19
+1ab20070-c5a7-4e3b-9326-4c8949fee59d,a6f8be80-0416-41c2-83c9-935fd9230d3a,Harry Potter and the Sorcerer's Stone,Fantasy,6.17,2023-11-03
+48cdf7f7-b6ff-4926-91eb-840b04ea2716,234eff32-5d05-42dd-9acd-7b2bb28f5931,Murder on the Orient Express,Mystery,6.39,2024-03-28
+1f44e0ae-e08c-46e2-862b-453e2bfe97cd,5b9a398b-f187-4a8f-9352-b7312abc32db,Whispers in the Wind,Fiction,12.43,2024-02-26
+a332dab7-0526-4395-b4c2-3c933aad72e1,1fb44dc6-25b7-4786-aaa5-361302d866d2,The Woman in White,Mystery,23.11,2024-02-15
+e2a07d64-eea6-4092-bbe0-9389ac92b8b1,cf46be29-9716-4af6-a71c-6e4c49462948,The Subtle Art of Not Giving a F*ck,Self-help,26.13,2023-11-20
+8ea1e939-8336-418d-b94f-3d208144dc25,65f9a399-8501-440b-8999-9ba197028ee3,The Power of Habit,Self-help,25.46,2024-03-23
+f5f87b21-b61c-40cc-84a2-e2af56243316,e9bd993a-bfc8-4196-81f7-88c04ffa8c7e,The Wright Brothers,Non-fiction,18.7,2023-12-05
+0fb8006c-d7a1-4697-abaf-22aa6af8658a,641d006e-e69f-4bae-a066-e8b557c66976,Sharp Objects,Mystery,23.48,2024-03-16
+1c780f67-1d8a-4ba6-80c2-db1faf785b7b,5f31ff92-ad7a-4f5c-9ca7-ff6745a83af9,Into the Wild,Non-fiction,47.78,2024-03-16
+0b7094c9-52b5-4c1f-ab1f-84c3464b3a4e,57c3829b-997b-4ec0-9175-6bfef27d6c1e,The Hound of the Baskervilles,Mystery,9.04,2024-01-01
+0aae9cb4-6207-4d7a-8369-48f6f868f082,d7694850-7473-4b4f-905e-b16c205ce83a,It,Horror,10.39,2023-11-17
+7b6aca90-3aea-428f-bacf-15ddecc2e31c,2fd419b8-42ea-464f-a4e8-96083fa77c55,In the Woods,Mystery,23.49,2023-10-15
+a445f93d-dc04-42d2-839b-2d1f44f152b5,6279ec07-b3ee-46a9-b8d8-e9fc825bfbae,Big Little Lies,Mystery,10.85,2024-03-06
+dfdad33e-7e41-4748-9085-a816e2f1882d,888465da-ed1d-429c-9b97-961f33f1a113,Sapiens,Non-fiction,21.19,2023-12-22
+8a57fcd0-0b6c-4c7f-8143-c3bfa116e00d,11aeaabd-fcdd-4344-94c2-20179bd4cd66,"Thinking, Fast and Slow",Non-fiction,12.19,2024-02-19
+050a4630-a561-49cb-9c1a-2f337e2ef48f,e763161d-fc5a-4c32-bf8f-116e53f0e8b2,The Blade Itself,Fantasy,8.34,2023-10-26
+06fbe13c-de1b-4d87-a06d-62b8e48f06f0,7d7fbcd4-a1ad-4753-b0b8-6e7e1aaad3d1,Dune,Sci-fi,11.45,2023-10-31
+2976963d-13b5-4c1e-a40d-41fe069937df,0956a342-ed2c-48b8-bf8a-cd1e92c73887,The Martian Chronicles,Sci-fi,19.02,2023-11-26
+afd35199-aee1-4d6c-915d-6c8581c08072,684f5c47-d1e3-4394-bfad-aa8ea2a644db,The Lost Horizon,Fiction,9.69,2023-11-23
+41bb34fb-1f62-417d-8eed-ce3ba4e4a9c7,6bb74a20-5969-4c64-b7e1-fe958eff3c3c,Lord of the Flies,Fiction,6.8,2024-02-09
+cebf635c-1fee-4a33-a286-87c2dca0513e,4d022744-2112-4681-9961-d372b79e82f5,World War Z,Horror,13.37,2023-11-05
+21c14c46-1f39-433f-9575-22cf1855b849,e138e111-1f24-48b4-b404-0f05237cf1e6,Born a Crime,Non-fiction,15.19,2024-03-05
+342282a1-3772-49f7-b348-8bac1b6ef308,5426d35e-733c-4f16-8764-cb1aa50a4e7e,The Time Traveler's Wife,Romance,5.34,2024-01-29
+dcf41ced-5c54-4213-8503-6335691afa06,fad25e7b-269e-42f7-86cd-19df6c7a30f5,Dune,Sci-fi,16.33,2023-10-25
+5ee19382-c727-43a3-ae7b-f247733f1fd7,46f16a70-0bed-49db-bad6-58d68e39aee4,The Shining,Horror,12.08,2023-12-27
+774909b4-c2f7-4e64-971e-9d1c3a53c4d9,2bd71781-9275-4ac6-8474-5df13429cc45,Wuthering Heights,Romance,17.73,2023-11-16
+82b2d66b-b44e-4ad4-8ac9-d1a9552f68bb,f7b71122-daa8-4f72-bb71-36bf4e12bae0,The Name of the Wind,Fantasy,16.44,2024-03-13
+9cb03052-5169-4fc8-8a24-9e83d0f28bea,f7b71122-daa8-4f72-bb71-36bf4e12bae0,The Great Gatsby,Fiction,16.2,2024-03-11
+d3166976-d645-4981-b4ac-10329aab17c7,09237dd4-3027-4c36-910f-47a08c3d32ee,Ender's Game,Sci-fi,7.6,2023-10-06
+f8b0311a-be15-4ab4-b112-dad3aca97041,c5678b25-0cdf-49ea-977f-050d06570b80,The Time Traveler's Wife,Romance,12.33,2023-11-09
+18dbd93c-c646-4c34-91c1-20465bd4d2ab,c5678b25-0cdf-49ea-977f-050d06570b80,The Shining,Horror,10.78,2023-11-04
+0d28ab8b-b970-4796-a3f1-12e387fc7c09,cf834571-f3ae-4c50-98c6-9af6164b040b,Outlander,Romance,12.91,2023-10-17
+52ddb99c-061e-4058-901b-3c2b2dffcfec,c42019e0-147f-4aec-b290-40902e4cbf94,Foundation,Sci-fi,22.62,2023-12-07
+54017c2b-f526-4f12-88b6-f90c33e611a0,a01a022a-2b7a-49e5-a7d0-fe2ee126c4d9,Bird Box,Horror,17.73,2023-12-25
+0ca0d9a9-ae1d-447b-b21a-4390379412f7,684f5c47-d1e3-4394-bfad-aa8ea2a644db,The Woman in White,Mystery,7.18,2024-03-15
+5801b931-27ab-430f-9669-52482698367b,0956a342-ed2c-48b8-bf8a-cd1e92c73887,The Stars My Destination,Sci-fi,15.72,2024-03-04
+4b105b18-21c3-4254-9638-57727f4b379e,9fe2a7fb-2f6b-4cc1-8127-80fec840b34c,The Haunting of Hill House,Horror,18.72,2024-01-17
+b2ff13af-517e-4590-89af-c64e0e6fecc2,57059244-716e-477f-af88-90200c487d97,The Happiness Project,Self-help,23.08,2024-01-22
+e5d7bc2f-4584-4e1a-b7ee-461c631f332a,64a89af2-a04a-46d7-bbef-721f71785dd3,Babel,Fantasy,25.77,2024-03-17
+200adbdf-2373-491d-b3b1-56d7d9d9530c,b11a0a9b-baf8-433b-bf49-d3c6d3fda175,The 7 Habits of Highly Effective People,Self-help,24.18,2023-12-13
+1c6578cb-7eb1-48b6-ba1f-d88a70ffb4e1,641d006e-e69f-4bae-a066-e8b557c66976,The Rosie Project,Romance,11.85,2023-10-20
+c199aae3-4e1f-4cae-8e31-54ac5ad736e8,661f4d43-8450-4b99-8447-f1ad263a083b,World War Z,Horror,10.71,2023-10-04
+bb488715-79ef-438e-8ea0-ad3127e83cb5,72486640-a225-40dc-a20c-e530e5e5712e,Whispers in the Wind,Fiction,5.07,2024-03-21
+36fbee1b-587d-4eff-ac98-663564fd5e8f,5ad85d2b-1d29-4a0f-a56a-e07446c2b0c7,Educated,Non-fiction,13.26,2023-10-14
+0035225a-2642-4195-8c25-0237dd939a1f,2883a080-68ee-41ce-803f-7cea1d108a1c,"Thinking, Fast and Slow",Non-fiction,21.42,2023-11-02
+153b6b72-0466-4ca6-950c-3497c8ce691e,12efbd83-7bff-4843-aace-fe33e219c7b3,Foundation,Sci-fi,22.2,2023-11-16
+2810ce0f-d47f-4a38-9720-34be4d6469d3,7ff6632a-9090-45be-be86-64cc2e8c06fd,Snow Crash,Sci-fi,10.69,2024-03-18
+91a1f761-89a1-4b65-a89f-316fffa8331e,ca04de42-810c-4cab-91e7-234498421525,Educated,Non-fiction,43.03,2023-11-28
+11f0c4db-67b0-4873-a46b-7b071e00344d,510fc3d8-0a85-46ec-9816-ccb810a873ca,Pride and Prejudice,Romance,14.06,2023-12-02
+6edeeb74-0e5c-4758-8812-e7de30549e89,1e90e363-5ba8-4e7e-8032-19d8b217cd7c,Born a Crime,Non-fiction,20.66,2023-10-07
+98b77a54-2585-41bb-84b0-88e4a654fa94,c4bef3f5-ed88-4632-90e8-fe48f9a9c3a3,Me Before You,Romance,14.36,2023-12-16
+6d15ec19-f306-4354-bcb2-84390969bb97,f3172b3f-85e1-42d6-8907-7f06ce09b5f9,The Silence of the Lambs,Mystery,13.13,2023-12-05
+3ccf363a-ff9c-436e-b72a-213fdfc8ab0c,5b8e2c54-627f-4732-bd02-e1fe2ea4936b,Murder on the Orient Express,Mystery,16.46,2024-03-17
+db1b12fd-1bc9-48a1-a4ff-8c18920c09c0,a4de3774-9003-4ad7-9d6f-ba77ef0f0926,Babel,Fantasy,13.15,2024-02-13
+b719f258-1318-41c0-8ac9-ea5a459492e4,1e8f1263-0c7f-4e09-8c24-ff3cfe918701,Bird Box,Horror,13.67,2024-02-24
+fe2e5d66-3ebd-43e2-96d7-3ec807b5f072,7ff6632a-9090-45be-be86-64cc2e8c06fd,A Game of Thrones,Fantasy,23.89,2024-02-07
+c125140a-2a65-4928-8c9c-53a783d872c4,a01a022a-2b7a-49e5-a7d0-fe2ee126c4d9,Outlander,Romance,15.55,2023-10-20
+8779cb8d-2437-4e7a-9a29-a57436aa469a,ee21ff60-83c6-40ea-a1dc-ef8f7895d26f,The Shining,Horror,19.71,2023-10-19
+d87e3f92-eacd-4b85-b13c-f244f8d6bb72,8da91d05-a731-440a-a1ad-51e641ccfb62,Atomic Habits,Self-help,22.04,2023-12-22
+a86bf92b-6735-4eeb-adec-f365e8c1f147,03f9f07f-1da3-4e95-8849-9d452c0d2c7f,Frankenstein,Horror,22.11,2023-11-17
+7a947385-3581-4712-8dbb-02f70f038741,c815ca3b-968c-4b16-b55d-f100162ab7c6,Educated,Non-fiction,38.0,2024-02-25
+674b1e27-db0a-48a3-a57b-6c13f737a40e,ad69ebfb-84a1-443a-912c-11ef254340b1,The Haunting of Hill House,Horror,20.33,2024-03-24
+6b3d868e-a290-41fb-9fe9-595c3207b986,ee21ff60-83c6-40ea-a1dc-ef8f7895d26f,The Subtle Art of Not Giving a F*ck,Self-help,28.36,2023-10-12
+8e1cee6d-9ed0-4b28-a1b1-62470769383f,48ab851a-ce45-4e61-a5d0-c0b3e98422e4,Snow Crash,Sci-fi,18.52,2024-02-01
+3c6979e5-db02-4bb4-8542-f1eb4141604f,c07f96ef-86fd-45cc-b549-367f1d8460c3,The Fault in Our Stars,Romance,5.45,2023-11-05
